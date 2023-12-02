@@ -1,0 +1,1214 @@
+DATE,PATIENT,ENCOUNTER,CODE,DESCRIPTION,QUANTITY
+2020-03-22,d40ab6f5-dcaa-f4d7-6f90-f62606935e85,e0dfbee1-3ffa-e99c-85f2-55cb4d3e831c,337388004,Blood glucose testing strips (physical object),50
+2021-03-28,d40ab6f5-dcaa-f4d7-6f90-f62606935e85,83c988a0-e340-6a38-f967-98e7165cba83,337388004,Blood glucose testing strips (physical object),50
+2022-04-03,d40ab6f5-dcaa-f4d7-6f90-f62606935e85,e7b5f0ed-791e-44ba-82b3-6d6b948f0e81,337388004,Blood glucose testing strips (physical object),50
+2023-04-09,d40ab6f5-dcaa-f4d7-6f90-f62606935e85,71f73474-d153-f1e7-0f58-9d91cd3a6c14,337388004,Blood glucose testing strips (physical object),50
+2015-06-06,10acd373-14d9-6077-f0fc-790e06d7c6c5,6c6f3720-bbae-90ec-d061-735ee2f6b7d5,337388004,Blood glucose testing strips (physical object),50
+2019-06-15,10acd373-14d9-6077-f0fc-790e06d7c6c5,d2d7785c-bdea-6597-e4fa-8437c51e3d59,337388004,Blood glucose testing strips (physical object),50
+2021-06-19,10acd373-14d9-6077-f0fc-790e06d7c6c5,56623452-a4d8-77fe-67e6-6ea8ee1c81de,337388004,Blood glucose testing strips (physical object),50
+2021-06-19,10acd373-14d9-6077-f0fc-790e06d7c6c5,56623452-a4d8-77fe-67e6-6ea8ee1c81de,1137596000,Blood lancet (physical object),100
+2023-06-24,10acd373-14d9-6077-f0fc-790e06d7c6c5,c97fdc28-6a87-d714-6677-20c437804d0b,337388004,Blood glucose testing strips (physical object),50
+2002-02-09,aab88605-4d68-76cc-707d-adf93b21a016,e2ec98ba-50f5-74b7-a08c-f81fe342fb8e,337388004,Blood glucose testing strips (physical object),50
+2002-02-09,aab88605-4d68-76cc-707d-adf93b21a016,e2ec98ba-50f5-74b7-a08c-f81fe342fb8e,1137596000,Blood lancet (physical object),100
+2004-02-21,aab88605-4d68-76cc-707d-adf93b21a016,99236ffd-8e5f-a8a4-6923-f7d048738559,337388004,Blood glucose testing strips (physical object),50
+2004-02-21,aab88605-4d68-76cc-707d-adf93b21a016,99236ffd-8e5f-a8a4-6923-f7d048738559,1137596000,Blood lancet (physical object),100
+2014-04-19,aab88605-4d68-76cc-707d-adf93b21a016,d919c1ee-5c25-0755-4ae0-a36cfcbbd3d4,337388004,Blood glucose testing strips (physical object),50
+2015-01-17,aab88605-4d68-76cc-707d-adf93b21a016,7fe15923-bfaa-fcef-0f25-df58315958a7,337388004,Blood glucose testing strips (physical object),50
+2015-04-25,aab88605-4d68-76cc-707d-adf93b21a016,1ad949ca-fcba-673d-40e8-37222df29839,337388004,Blood glucose testing strips (physical object),50
+2017-05-06,aab88605-4d68-76cc-707d-adf93b21a016,784b5514-0054-baa8-6dc7-2d2685e59612,337388004,Blood glucose testing strips (physical object),50
+2017-05-06,aab88605-4d68-76cc-707d-adf93b21a016,784b5514-0054-baa8-6dc7-2d2685e59612,1137596000,Blood lancet (physical object),100
+2018-05-12,aab88605-4d68-76cc-707d-adf93b21a016,83b97ad0-c9ac-6685-a745-f78134d94942,337388004,Blood glucose testing strips (physical object),50
+2019-05-18,aab88605-4d68-76cc-707d-adf93b21a016,64bf56a8-c246-da44-871b-47074c0b295b,337388004,Blood glucose testing strips (physical object),50
+2020-05-23,aab88605-4d68-76cc-707d-adf93b21a016,7a1ab375-22d3-a0e5-1bcd-d6df8b29d9c3,337388004,Blood glucose testing strips (physical object),50
+2021-05-29,aab88605-4d68-76cc-707d-adf93b21a016,e005ea30-5fc8-cb71-062c-ae2aa8e2b64c,337388004,Blood glucose testing strips (physical object),50
+2022-06-04,aab88605-4d68-76cc-707d-adf93b21a016,e7b8573f-89d8-0b03-91f8-ca3e23130d8b,337388004,Blood glucose testing strips (physical object),50
+2023-06-10,aab88605-4d68-76cc-707d-adf93b21a016,ff1e8265-5b00-2929-15cd-8da0b2c20720,337388004,Blood glucose testing strips (physical object),50
+2023-06-10,aab88605-4d68-76cc-707d-adf93b21a016,ff1e8265-5b00-2929-15cd-8da0b2c20720,1137596000,Blood lancet (physical object),100
+2017-05-14,45d3c62d-ce2e-1b99-2424-2e302837ac8f,984694b0-9479-c8f0-d677-63870d08a8e6,337388004,Blood glucose testing strips (physical object),50
+2017-05-14,45d3c62d-ce2e-1b99-2424-2e302837ac8f,984694b0-9479-c8f0-d677-63870d08a8e6,1137596000,Blood lancet (physical object),100
+2018-05-13,45d3c62d-ce2e-1b99-2424-2e302837ac8f,f09a8cdb-80e2-0206-2ead-f1de40143ecf,337388004,Blood glucose testing strips (physical object),50
+2018-05-20,45d3c62d-ce2e-1b99-2424-2e302837ac8f,7746ee54-fc29-8f9a-7b06-f320832ba149,337388004,Blood glucose testing strips (physical object),50
+2021-06-06,45d3c62d-ce2e-1b99-2424-2e302837ac8f,309bf872-f0a4-748c-bcf5-d53bce6a366c,337388004,Blood glucose testing strips (physical object),50
+2021-06-06,45d3c62d-ce2e-1b99-2424-2e302837ac8f,309bf872-f0a4-748c-bcf5-d53bce6a366c,1137596000,Blood lancet (physical object),100
+2021-06-23,45d3c62d-ce2e-1b99-2424-2e302837ac8f,87a8ef0c-1080-1b71-bc9d-84b34f47f10c,431069006,Packed red blood cells (product),2
+2021-06-24,45d3c62d-ce2e-1b99-2424-2e302837ac8f,87a8ef0c-1080-1b71-bc9d-84b34f47f10c,431069006,Packed red blood cells (product),2
+2022-06-12,45d3c62d-ce2e-1b99-2424-2e302837ac8f,c6e1de5f-40fa-d42a-2706-0a62284052be,337388004,Blood glucose testing strips (physical object),50
+2023-06-18,45d3c62d-ce2e-1b99-2424-2e302837ac8f,65b8eebf-993a-c5d3-b61d-86427aa75c27,337388004,Blood glucose testing strips (physical object),50
+2016-04-01,dd84862c-76af-8a2c-688a-d0298301174f,827b51d2-c3e8-b8ec-6937-07d304761b41,337388004,Blood glucose testing strips (physical object),50
+2016-04-01,dd84862c-76af-8a2c-688a-d0298301174f,827b51d2-c3e8-b8ec-6937-07d304761b41,1137596000,Blood lancet (physical object),100
+2017-04-07,dd84862c-76af-8a2c-688a-d0298301174f,160730d9-6f0e-4f5d-d4c0-eb5c43d39998,337388004,Blood glucose testing strips (physical object),50
+2017-04-07,dd84862c-76af-8a2c-688a-d0298301174f,160730d9-6f0e-4f5d-d4c0-eb5c43d39998,1137596000,Blood lancet (physical object),100
+2018-04-13,dd84862c-76af-8a2c-688a-d0298301174f,5544d8c0-69ed-257a-a958-56fd32cffc9b,337388004,Blood glucose testing strips (physical object),50
+2018-04-13,dd84862c-76af-8a2c-688a-d0298301174f,5544d8c0-69ed-257a-a958-56fd32cffc9b,1137596000,Blood lancet (physical object),100
+2019-04-19,dd84862c-76af-8a2c-688a-d0298301174f,9fd32700-02f2-d305-30c4-f68e673baccc,337388004,Blood glucose testing strips (physical object),50
+2019-04-19,dd84862c-76af-8a2c-688a-d0298301174f,9fd32700-02f2-d305-30c4-f68e673baccc,337388004,Blood glucose testing strips (physical object),50
+2020-04-24,dd84862c-76af-8a2c-688a-d0298301174f,eb38bee6-31c2-a324-f5d1-9e1afa55977b,337388004,Blood glucose testing strips (physical object),50
+2020-04-24,dd84862c-76af-8a2c-688a-d0298301174f,eb38bee6-31c2-a324-f5d1-9e1afa55977b,1137596000,Blood lancet (physical object),100
+2021-04-30,dd84862c-76af-8a2c-688a-d0298301174f,b3a6a5b2-f483-e947-c1fc-d50323dcffa0,1137596000,Blood lancet (physical object),100
+2022-05-06,dd84862c-76af-8a2c-688a-d0298301174f,64b32cef-b27d-5fb2-ce0c-0e88619b8b58,337388004,Blood glucose testing strips (physical object),50
+2023-05-12,dd84862c-76af-8a2c-688a-d0298301174f,5f7e0cfe-540b-25f9-426d-256c6190896e,337388004,Blood glucose testing strips (physical object),50
+1967-12-18,145c8f1d-3653-8d02-6a18-1681f10be2b7,21d9cfb1-4b68-0e0b-3129-71482deb9490,337388004,Blood glucose testing strips (physical object),50
+1967-12-18,145c8f1d-3653-8d02-6a18-1681f10be2b7,21d9cfb1-4b68-0e0b-3129-71482deb9490,1137596000,Blood lancet (physical object),100
+1973-12-24,145c8f1d-3653-8d02-6a18-1681f10be2b7,33245f9d-b75d-cc0b-214b-2e0da1ab6a04,337388004,Blood glucose testing strips (physical object),50
+1982-03-22,145c8f1d-3653-8d02-6a18-1681f10be2b7,e36ef4e2-9106-0de7-0695-9b4da04d9751,337388004,Blood glucose testing strips (physical object),50
+1987-10-26,145c8f1d-3653-8d02-6a18-1681f10be2b7,fddf9bde-4b6f-a440-b765-773ed116b584,337388004,Blood glucose testing strips (physical object),50
+1987-10-26,145c8f1d-3653-8d02-6a18-1681f10be2b7,fddf9bde-4b6f-a440-b765-773ed116b584,1137596000,Blood lancet (physical object),100
+2010-01-04,145c8f1d-3653-8d02-6a18-1681f10be2b7,1b808752-ed36-d570-6262-f2a3bcea1cc6,337388004,Blood glucose testing strips (physical object),50
+2011-01-10,145c8f1d-3653-8d02-6a18-1681f10be2b7,72e68112-1b3d-8364-0cd2-2e61ac13e9d2,337388004,Blood glucose testing strips (physical object),50
+2011-01-10,145c8f1d-3653-8d02-6a18-1681f10be2b7,72e68112-1b3d-8364-0cd2-2e61ac13e9d2,1137596000,Blood lancet (physical object),100
+2012-01-16,145c8f1d-3653-8d02-6a18-1681f10be2b7,f894cd05-1510-04cb-b134-572848d57ca9,337388004,Blood glucose testing strips (physical object),50
+2013-01-21,145c8f1d-3653-8d02-6a18-1681f10be2b7,4ad733d6-8030-5ad7-d20c-0abaf4b5aa28,337388004,Blood glucose testing strips (physical object),50
+2014-01-27,145c8f1d-3653-8d02-6a18-1681f10be2b7,b12ec218-f3c3-d9bf-df4e-96e1c81fde21,337388004,Blood glucose testing strips (physical object),50
+2014-01-27,145c8f1d-3653-8d02-6a18-1681f10be2b7,b12ec218-f3c3-d9bf-df4e-96e1c81fde21,1137596000,Blood lancet (physical object),100
+2015-02-02,145c8f1d-3653-8d02-6a18-1681f10be2b7,db9175e5-f8b0-4427-f4a1-c072e18f4144,337388004,Blood glucose testing strips (physical object),50
+2016-02-08,145c8f1d-3653-8d02-6a18-1681f10be2b7,b620604b-c6d5-9d11-7cdc-4d50fab0ade7,337388004,Blood glucose testing strips (physical object),50
+2016-02-08,145c8f1d-3653-8d02-6a18-1681f10be2b7,b620604b-c6d5-9d11-7cdc-4d50fab0ade7,1137596000,Blood lancet (physical object),100
+2017-02-13,145c8f1d-3653-8d02-6a18-1681f10be2b7,01d9b78b-55b8-1fbf-2622-9fdd0f8ee3c5,337388004,Blood glucose testing strips (physical object),50
+2018-02-19,145c8f1d-3653-8d02-6a18-1681f10be2b7,73afb999-c3f3-4a0d-2d2c-2ce6bb9dd804,337388004,Blood glucose testing strips (physical object),50
+2018-06-04,145c8f1d-3653-8d02-6a18-1681f10be2b7,849238c1-f8c7-cc22-25f7-495a17ee18a7,337388004,Blood glucose testing strips (physical object),50
+2019-02-25,145c8f1d-3653-8d02-6a18-1681f10be2b7,be21e1af-32ee-c3f0-22f9-0cdce0887641,337388004,Blood glucose testing strips (physical object),50
+2020-03-02,145c8f1d-3653-8d02-6a18-1681f10be2b7,ee86dfd1-5aac-579b-33b1-8adb0d748d26,337388004,Blood glucose testing strips (physical object),50
+2020-03-02,145c8f1d-3653-8d02-6a18-1681f10be2b7,ee86dfd1-5aac-579b-33b1-8adb0d748d26,1137596000,Blood lancet (physical object),100
+2020-12-28,145c8f1d-3653-8d02-6a18-1681f10be2b7,c04f305f-2fcf-997d-a57e-4ade22ead259,337388004,Blood glucose testing strips (physical object),50
+2021-01-04,145c8f1d-3653-8d02-6a18-1681f10be2b7,8b7c5c6e-de99-8960-a08c-b1b37e07c185,337388004,Blood glucose testing strips (physical object),50
+2021-03-08,145c8f1d-3653-8d02-6a18-1681f10be2b7,3e17036d-3905-6554-bf1b-4f634912ca53,337388004,Blood glucose testing strips (physical object),50
+2022-03-14,145c8f1d-3653-8d02-6a18-1681f10be2b7,983f2613-9ad0-b063-376e-d5888e1267d8,337388004,Blood glucose testing strips (physical object),50
+2022-03-14,145c8f1d-3653-8d02-6a18-1681f10be2b7,983f2613-9ad0-b063-376e-d5888e1267d8,1137596000,Blood lancet (physical object),100
+2023-03-20,145c8f1d-3653-8d02-6a18-1681f10be2b7,8f35335b-92a5-94e0-dd46-1b0c28d5b399,337388004,Blood glucose testing strips (physical object),50
+2021-01-09,6a335d1d-a79a-583b-27d4-435cc36416db,9483a7a2-f479-7c1b-6fca-da5def226e50,409534002,Disposable air-purifying respirator (physical object),2
+2021-01-09,6a335d1d-a79a-583b-27d4-435cc36416db,9483a7a2-f479-7c1b-6fca-da5def226e50,713779008,Nitrile examination/treatment glove  non-powdered  sterile (physical object),24
+2021-01-09,6a335d1d-a79a-583b-27d4-435cc36416db,9483a7a2-f479-7c1b-6fca-da5def226e50,469673003,Isolation gown  single-use (physical object),12
+2021-01-09,6a335d1d-a79a-583b-27d4-435cc36416db,9483a7a2-f479-7c1b-6fca-da5def226e50,706724001,Face shield (physical object),2
+2021-01-09,6a335d1d-a79a-583b-27d4-435cc36416db,9483a7a2-f479-7c1b-6fca-da5def226e50,419343004,Alcohol disinfectant (substance),1
+2021-01-09,6a335d1d-a79a-583b-27d4-435cc36416db,9483a7a2-f479-7c1b-6fca-da5def226e50,470618009,Antiseptic towelette (physical object),8
+2021-01-10,6a335d1d-a79a-583b-27d4-435cc36416db,9483a7a2-f479-7c1b-6fca-da5def226e50,409534002,Disposable air-purifying respirator (physical object),2
+2021-01-10,6a335d1d-a79a-583b-27d4-435cc36416db,9483a7a2-f479-7c1b-6fca-da5def226e50,713779008,Nitrile examination/treatment glove  non-powdered  sterile (physical object),24
+2021-01-10,6a335d1d-a79a-583b-27d4-435cc36416db,9483a7a2-f479-7c1b-6fca-da5def226e50,469673003,Isolation gown  single-use (physical object),12
+2021-01-10,6a335d1d-a79a-583b-27d4-435cc36416db,9483a7a2-f479-7c1b-6fca-da5def226e50,706724001,Face shield (physical object),2
+2021-01-10,6a335d1d-a79a-583b-27d4-435cc36416db,9483a7a2-f479-7c1b-6fca-da5def226e50,419343004,Alcohol disinfectant (substance),1
+2021-01-10,6a335d1d-a79a-583b-27d4-435cc36416db,9483a7a2-f479-7c1b-6fca-da5def226e50,470618009,Antiseptic towelette (physical object),8
+2021-01-11,6a335d1d-a79a-583b-27d4-435cc36416db,9483a7a2-f479-7c1b-6fca-da5def226e50,409534002,Disposable air-purifying respirator (physical object),2
+2021-01-11,6a335d1d-a79a-583b-27d4-435cc36416db,9483a7a2-f479-7c1b-6fca-da5def226e50,713779008,Nitrile examination/treatment glove  non-powdered  sterile (physical object),24
+2021-01-11,6a335d1d-a79a-583b-27d4-435cc36416db,9483a7a2-f479-7c1b-6fca-da5def226e50,469673003,Isolation gown  single-use (physical object),12
+2021-01-11,6a335d1d-a79a-583b-27d4-435cc36416db,9483a7a2-f479-7c1b-6fca-da5def226e50,706724001,Face shield (physical object),2
+2021-01-11,6a335d1d-a79a-583b-27d4-435cc36416db,9483a7a2-f479-7c1b-6fca-da5def226e50,419343004,Alcohol disinfectant (substance),1
+2021-01-11,6a335d1d-a79a-583b-27d4-435cc36416db,9483a7a2-f479-7c1b-6fca-da5def226e50,470618009,Antiseptic towelette (physical object),8
+2021-01-12,6a335d1d-a79a-583b-27d4-435cc36416db,9483a7a2-f479-7c1b-6fca-da5def226e50,409534002,Disposable air-purifying respirator (physical object),2
+2021-01-12,6a335d1d-a79a-583b-27d4-435cc36416db,9483a7a2-f479-7c1b-6fca-da5def226e50,713779008,Nitrile examination/treatment glove  non-powdered  sterile (physical object),24
+2021-01-12,6a335d1d-a79a-583b-27d4-435cc36416db,9483a7a2-f479-7c1b-6fca-da5def226e50,469673003,Isolation gown  single-use (physical object),12
+2021-01-12,6a335d1d-a79a-583b-27d4-435cc36416db,9483a7a2-f479-7c1b-6fca-da5def226e50,706724001,Face shield (physical object),2
+2021-01-12,6a335d1d-a79a-583b-27d4-435cc36416db,9483a7a2-f479-7c1b-6fca-da5def226e50,419343004,Alcohol disinfectant (substance),1
+2021-01-12,6a335d1d-a79a-583b-27d4-435cc36416db,9483a7a2-f479-7c1b-6fca-da5def226e50,470618009,Antiseptic towelette (physical object),8
+2021-01-13,6a335d1d-a79a-583b-27d4-435cc36416db,9483a7a2-f479-7c1b-6fca-da5def226e50,409534002,Disposable air-purifying respirator (physical object),2
+2021-01-13,6a335d1d-a79a-583b-27d4-435cc36416db,9483a7a2-f479-7c1b-6fca-da5def226e50,713779008,Nitrile examination/treatment glove  non-powdered  sterile (physical object),24
+2021-01-13,6a335d1d-a79a-583b-27d4-435cc36416db,9483a7a2-f479-7c1b-6fca-da5def226e50,469673003,Isolation gown  single-use (physical object),12
+2021-01-13,6a335d1d-a79a-583b-27d4-435cc36416db,9483a7a2-f479-7c1b-6fca-da5def226e50,706724001,Face shield (physical object),2
+2021-01-13,6a335d1d-a79a-583b-27d4-435cc36416db,9483a7a2-f479-7c1b-6fca-da5def226e50,419343004,Alcohol disinfectant (substance),1
+2021-01-13,6a335d1d-a79a-583b-27d4-435cc36416db,9483a7a2-f479-7c1b-6fca-da5def226e50,470618009,Antiseptic towelette (physical object),8
+2021-01-14,6a335d1d-a79a-583b-27d4-435cc36416db,9483a7a2-f479-7c1b-6fca-da5def226e50,409534002,Disposable air-purifying respirator (physical object),2
+2021-01-14,6a335d1d-a79a-583b-27d4-435cc36416db,9483a7a2-f479-7c1b-6fca-da5def226e50,713779008,Nitrile examination/treatment glove  non-powdered  sterile (physical object),24
+2021-01-14,6a335d1d-a79a-583b-27d4-435cc36416db,9483a7a2-f479-7c1b-6fca-da5def226e50,469673003,Isolation gown  single-use (physical object),12
+2021-01-14,6a335d1d-a79a-583b-27d4-435cc36416db,9483a7a2-f479-7c1b-6fca-da5def226e50,706724001,Face shield (physical object),2
+2021-01-14,6a335d1d-a79a-583b-27d4-435cc36416db,9483a7a2-f479-7c1b-6fca-da5def226e50,419343004,Alcohol disinfectant (substance),1
+2021-01-14,6a335d1d-a79a-583b-27d4-435cc36416db,9483a7a2-f479-7c1b-6fca-da5def226e50,470618009,Antiseptic towelette (physical object),8
+2021-01-15,6a335d1d-a79a-583b-27d4-435cc36416db,9483a7a2-f479-7c1b-6fca-da5def226e50,409534002,Disposable air-purifying respirator (physical object),2
+2021-01-15,6a335d1d-a79a-583b-27d4-435cc36416db,9483a7a2-f479-7c1b-6fca-da5def226e50,713779008,Nitrile examination/treatment glove  non-powdered  sterile (physical object),24
+2021-01-15,6a335d1d-a79a-583b-27d4-435cc36416db,9483a7a2-f479-7c1b-6fca-da5def226e50,469673003,Isolation gown  single-use (physical object),12
+2021-01-15,6a335d1d-a79a-583b-27d4-435cc36416db,9483a7a2-f479-7c1b-6fca-da5def226e50,706724001,Face shield (physical object),2
+2021-01-15,6a335d1d-a79a-583b-27d4-435cc36416db,9483a7a2-f479-7c1b-6fca-da5def226e50,419343004,Alcohol disinfectant (substance),1
+2021-01-15,6a335d1d-a79a-583b-27d4-435cc36416db,9483a7a2-f479-7c1b-6fca-da5def226e50,470618009,Antiseptic towelette (physical object),8
+2021-01-16,6a335d1d-a79a-583b-27d4-435cc36416db,9483a7a2-f479-7c1b-6fca-da5def226e50,409534002,Disposable air-purifying respirator (physical object),2
+2021-01-16,6a335d1d-a79a-583b-27d4-435cc36416db,9483a7a2-f479-7c1b-6fca-da5def226e50,713779008,Nitrile examination/treatment glove  non-powdered  sterile (physical object),24
+2021-01-16,6a335d1d-a79a-583b-27d4-435cc36416db,9483a7a2-f479-7c1b-6fca-da5def226e50,469673003,Isolation gown  single-use (physical object),12
+2021-01-16,6a335d1d-a79a-583b-27d4-435cc36416db,9483a7a2-f479-7c1b-6fca-da5def226e50,706724001,Face shield (physical object),2
+2021-01-16,6a335d1d-a79a-583b-27d4-435cc36416db,9483a7a2-f479-7c1b-6fca-da5def226e50,419343004,Alcohol disinfectant (substance),1
+2021-01-16,6a335d1d-a79a-583b-27d4-435cc36416db,9483a7a2-f479-7c1b-6fca-da5def226e50,470618009,Antiseptic towelette (physical object),8
+2021-01-17,6a335d1d-a79a-583b-27d4-435cc36416db,9483a7a2-f479-7c1b-6fca-da5def226e50,409534002,Disposable air-purifying respirator (physical object),2
+2021-01-17,6a335d1d-a79a-583b-27d4-435cc36416db,9483a7a2-f479-7c1b-6fca-da5def226e50,713779008,Nitrile examination/treatment glove  non-powdered  sterile (physical object),24
+2021-01-17,6a335d1d-a79a-583b-27d4-435cc36416db,9483a7a2-f479-7c1b-6fca-da5def226e50,469673003,Isolation gown  single-use (physical object),12
+2021-01-17,6a335d1d-a79a-583b-27d4-435cc36416db,9483a7a2-f479-7c1b-6fca-da5def226e50,706724001,Face shield (physical object),2
+2021-01-17,6a335d1d-a79a-583b-27d4-435cc36416db,9483a7a2-f479-7c1b-6fca-da5def226e50,419343004,Alcohol disinfectant (substance),1
+2021-01-17,6a335d1d-a79a-583b-27d4-435cc36416db,9483a7a2-f479-7c1b-6fca-da5def226e50,470618009,Antiseptic towelette (physical object),8
+2021-01-18,6a335d1d-a79a-583b-27d4-435cc36416db,9483a7a2-f479-7c1b-6fca-da5def226e50,409534002,Disposable air-purifying respirator (physical object),2
+2021-01-18,6a335d1d-a79a-583b-27d4-435cc36416db,9483a7a2-f479-7c1b-6fca-da5def226e50,713779008,Nitrile examination/treatment glove  non-powdered  sterile (physical object),24
+2021-01-18,6a335d1d-a79a-583b-27d4-435cc36416db,9483a7a2-f479-7c1b-6fca-da5def226e50,469673003,Isolation gown  single-use (physical object),12
+2021-01-18,6a335d1d-a79a-583b-27d4-435cc36416db,9483a7a2-f479-7c1b-6fca-da5def226e50,706724001,Face shield (physical object),2
+2021-01-18,6a335d1d-a79a-583b-27d4-435cc36416db,9483a7a2-f479-7c1b-6fca-da5def226e50,419343004,Alcohol disinfectant (substance),1
+2021-01-18,6a335d1d-a79a-583b-27d4-435cc36416db,9483a7a2-f479-7c1b-6fca-da5def226e50,470618009,Antiseptic towelette (physical object),8
+2021-01-19,6a335d1d-a79a-583b-27d4-435cc36416db,9483a7a2-f479-7c1b-6fca-da5def226e50,409534002,Disposable air-purifying respirator (physical object),2
+2021-01-19,6a335d1d-a79a-583b-27d4-435cc36416db,9483a7a2-f479-7c1b-6fca-da5def226e50,713779008,Nitrile examination/treatment glove  non-powdered  sterile (physical object),24
+2021-01-19,6a335d1d-a79a-583b-27d4-435cc36416db,9483a7a2-f479-7c1b-6fca-da5def226e50,469673003,Isolation gown  single-use (physical object),12
+2021-01-19,6a335d1d-a79a-583b-27d4-435cc36416db,9483a7a2-f479-7c1b-6fca-da5def226e50,706724001,Face shield (physical object),2
+2021-01-19,6a335d1d-a79a-583b-27d4-435cc36416db,9483a7a2-f479-7c1b-6fca-da5def226e50,419343004,Alcohol disinfectant (substance),1
+2021-01-19,6a335d1d-a79a-583b-27d4-435cc36416db,9483a7a2-f479-7c1b-6fca-da5def226e50,470618009,Antiseptic towelette (physical object),8
+2021-01-20,6a335d1d-a79a-583b-27d4-435cc36416db,9483a7a2-f479-7c1b-6fca-da5def226e50,409534002,Disposable air-purifying respirator (physical object),2
+2021-01-20,6a335d1d-a79a-583b-27d4-435cc36416db,9483a7a2-f479-7c1b-6fca-da5def226e50,713779008,Nitrile examination/treatment glove  non-powdered  sterile (physical object),24
+2021-01-20,6a335d1d-a79a-583b-27d4-435cc36416db,9483a7a2-f479-7c1b-6fca-da5def226e50,469673003,Isolation gown  single-use (physical object),12
+2021-01-20,6a335d1d-a79a-583b-27d4-435cc36416db,9483a7a2-f479-7c1b-6fca-da5def226e50,706724001,Face shield (physical object),2
+2021-01-20,6a335d1d-a79a-583b-27d4-435cc36416db,9483a7a2-f479-7c1b-6fca-da5def226e50,419343004,Alcohol disinfectant (substance),1
+2021-01-20,6a335d1d-a79a-583b-27d4-435cc36416db,9483a7a2-f479-7c1b-6fca-da5def226e50,470618009,Antiseptic towelette (physical object),8
+2021-01-21,6a335d1d-a79a-583b-27d4-435cc36416db,9483a7a2-f479-7c1b-6fca-da5def226e50,409534002,Disposable air-purifying respirator (physical object),2
+2021-01-21,6a335d1d-a79a-583b-27d4-435cc36416db,9483a7a2-f479-7c1b-6fca-da5def226e50,713779008,Nitrile examination/treatment glove  non-powdered  sterile (physical object),24
+2021-01-21,6a335d1d-a79a-583b-27d4-435cc36416db,9483a7a2-f479-7c1b-6fca-da5def226e50,469673003,Isolation gown  single-use (physical object),12
+2021-01-21,6a335d1d-a79a-583b-27d4-435cc36416db,9483a7a2-f479-7c1b-6fca-da5def226e50,706724001,Face shield (physical object),2
+2021-01-21,6a335d1d-a79a-583b-27d4-435cc36416db,9483a7a2-f479-7c1b-6fca-da5def226e50,419343004,Alcohol disinfectant (substance),1
+2021-01-21,6a335d1d-a79a-583b-27d4-435cc36416db,9483a7a2-f479-7c1b-6fca-da5def226e50,470618009,Antiseptic towelette (physical object),8
+2021-01-22,6a335d1d-a79a-583b-27d4-435cc36416db,9483a7a2-f479-7c1b-6fca-da5def226e50,409534002,Disposable air-purifying respirator (physical object),2
+2021-01-22,6a335d1d-a79a-583b-27d4-435cc36416db,9483a7a2-f479-7c1b-6fca-da5def226e50,713779008,Nitrile examination/treatment glove  non-powdered  sterile (physical object),24
+2021-01-22,6a335d1d-a79a-583b-27d4-435cc36416db,9483a7a2-f479-7c1b-6fca-da5def226e50,469673003,Isolation gown  single-use (physical object),12
+2021-01-22,6a335d1d-a79a-583b-27d4-435cc36416db,9483a7a2-f479-7c1b-6fca-da5def226e50,706724001,Face shield (physical object),2
+2021-01-22,6a335d1d-a79a-583b-27d4-435cc36416db,9483a7a2-f479-7c1b-6fca-da5def226e50,419343004,Alcohol disinfectant (substance),1
+2021-01-22,6a335d1d-a79a-583b-27d4-435cc36416db,9483a7a2-f479-7c1b-6fca-da5def226e50,470618009,Antiseptic towelette (physical object),8
+1991-06-14,a78b7a6e-3a87-57ed-579e-f0aa516cf4f7,6880467b-d3b5-81c2-950f-90cd25ada540,704718009,CPAP/BPAP oral mask (physical object),1
+1991-06-14,a78b7a6e-3a87-57ed-579e-f0aa516cf4f7,6880467b-d3b5-81c2-950f-90cd25ada540,972002,Air filter  device (physical object),5
+1991-06-14,a78b7a6e-3a87-57ed-579e-f0aa516cf4f7,6880467b-d3b5-81c2-950f-90cd25ada540,463659001,Medical air low pressure tubing (physical object),1
+1991-06-14,a78b7a6e-3a87-57ed-579e-f0aa516cf4f7,6880467b-d3b5-81c2-950f-90cd25ada540,706226000,Continuous positive airway pressure/Bilevel positive airway pressure mask (physical object),1
+1999-12-17,a78b7a6e-3a87-57ed-579e-f0aa516cf4f7,5ff5cb27-5241-9eb9-96f6-e01e63203c92,467645007,Continuous positive airway pressure nasal oxygen cannula (physical object),1
+1999-12-17,a78b7a6e-3a87-57ed-579e-f0aa516cf4f7,5ff5cb27-5241-9eb9-96f6-e01e63203c92,972002,Air filter  device (physical object),5
+1999-12-17,a78b7a6e-3a87-57ed-579e-f0aa516cf4f7,5ff5cb27-5241-9eb9-96f6-e01e63203c92,463659001,Medical air low pressure tubing (physical object),1
+1999-12-17,a78b7a6e-3a87-57ed-579e-f0aa516cf4f7,5ff5cb27-5241-9eb9-96f6-e01e63203c92,706226000,Continuous positive airway pressure/Bilevel positive airway pressure mask (physical object),1
+2001-11-30,a78b7a6e-3a87-57ed-579e-f0aa516cf4f7,dd83bba4-1575-ea9a-7e96-9b645e259a18,467645007,Continuous positive airway pressure nasal oxygen cannula (physical object),1
+2001-11-30,a78b7a6e-3a87-57ed-579e-f0aa516cf4f7,dd83bba4-1575-ea9a-7e96-9b645e259a18,972002,Air filter  device (physical object),5
+2001-11-30,a78b7a6e-3a87-57ed-579e-f0aa516cf4f7,dd83bba4-1575-ea9a-7e96-9b645e259a18,463659001,Medical air low pressure tubing (physical object),1
+2001-11-30,a78b7a6e-3a87-57ed-579e-f0aa516cf4f7,dd83bba4-1575-ea9a-7e96-9b645e259a18,706226000,Continuous positive airway pressure/Bilevel positive airway pressure mask (physical object),1
+2003-10-31,a78b7a6e-3a87-57ed-579e-f0aa516cf4f7,b60e17ea-e44c-68c1-a2de-f0bdaf3777a2,704718009,CPAP/BPAP oral mask (physical object),1
+2003-10-31,a78b7a6e-3a87-57ed-579e-f0aa516cf4f7,b60e17ea-e44c-68c1-a2de-f0bdaf3777a2,972002,Air filter  device (physical object),5
+2003-10-31,a78b7a6e-3a87-57ed-579e-f0aa516cf4f7,b60e17ea-e44c-68c1-a2de-f0bdaf3777a2,463659001,Medical air low pressure tubing (physical object),1
+2003-10-31,a78b7a6e-3a87-57ed-579e-f0aa516cf4f7,b60e17ea-e44c-68c1-a2de-f0bdaf3777a2,706226000,Continuous positive airway pressure/Bilevel positive airway pressure mask (physical object),1
+2003-12-12,a78b7a6e-3a87-57ed-579e-f0aa516cf4f7,3c51eb61-9a58-8a21-0c76-44d375e2319b,467645007,Continuous positive airway pressure nasal oxygen cannula (physical object),1
+2003-12-12,a78b7a6e-3a87-57ed-579e-f0aa516cf4f7,3c51eb61-9a58-8a21-0c76-44d375e2319b,972002,Air filter  device (physical object),5
+2003-12-12,a78b7a6e-3a87-57ed-579e-f0aa516cf4f7,3c51eb61-9a58-8a21-0c76-44d375e2319b,463659001,Medical air low pressure tubing (physical object),1
+2003-12-12,a78b7a6e-3a87-57ed-579e-f0aa516cf4f7,3c51eb61-9a58-8a21-0c76-44d375e2319b,706226000,Continuous positive airway pressure/Bilevel positive airway pressure mask (physical object),1
+2004-05-28,a78b7a6e-3a87-57ed-579e-f0aa516cf4f7,cd6af194-b919-fe31-a1fe-3aa07657a102,704718009,CPAP/BPAP oral mask (physical object),1
+2004-05-28,a78b7a6e-3a87-57ed-579e-f0aa516cf4f7,cd6af194-b919-fe31-a1fe-3aa07657a102,972002,Air filter  device (physical object),5
+2004-05-28,a78b7a6e-3a87-57ed-579e-f0aa516cf4f7,cd6af194-b919-fe31-a1fe-3aa07657a102,463659001,Medical air low pressure tubing (physical object),1
+2004-05-28,a78b7a6e-3a87-57ed-579e-f0aa516cf4f7,cd6af194-b919-fe31-a1fe-3aa07657a102,706226000,Continuous positive airway pressure/Bilevel positive airway pressure mask (physical object),1
+2004-07-23,a78b7a6e-3a87-57ed-579e-f0aa516cf4f7,3e58f144-8c80-b0dd-a504-982e093e1c56,704718009,CPAP/BPAP oral mask (physical object),1
+2004-07-23,a78b7a6e-3a87-57ed-579e-f0aa516cf4f7,3e58f144-8c80-b0dd-a504-982e093e1c56,972002,Air filter  device (physical object),5
+2004-07-23,a78b7a6e-3a87-57ed-579e-f0aa516cf4f7,3e58f144-8c80-b0dd-a504-982e093e1c56,463659001,Medical air low pressure tubing (physical object),1
+2004-07-23,a78b7a6e-3a87-57ed-579e-f0aa516cf4f7,3e58f144-8c80-b0dd-a504-982e093e1c56,706226000,Continuous positive airway pressure/Bilevel positive airway pressure mask (physical object),1
+2004-09-24,a78b7a6e-3a87-57ed-579e-f0aa516cf4f7,167a9e1f-e0e6-df55-5f7d-de394668817e,704718009,CPAP/BPAP oral mask (physical object),1
+2004-09-24,a78b7a6e-3a87-57ed-579e-f0aa516cf4f7,167a9e1f-e0e6-df55-5f7d-de394668817e,972002,Air filter  device (physical object),5
+2004-09-24,a78b7a6e-3a87-57ed-579e-f0aa516cf4f7,167a9e1f-e0e6-df55-5f7d-de394668817e,463659001,Medical air low pressure tubing (physical object),1
+2004-09-24,a78b7a6e-3a87-57ed-579e-f0aa516cf4f7,167a9e1f-e0e6-df55-5f7d-de394668817e,706226000,Continuous positive airway pressure/Bilevel positive airway pressure mask (physical object),1
+2004-10-08,a78b7a6e-3a87-57ed-579e-f0aa516cf4f7,795e53b8-2be2-5d39-2caf-e169488ef2d9,704718009,CPAP/BPAP oral mask (physical object),1
+2004-10-08,a78b7a6e-3a87-57ed-579e-f0aa516cf4f7,795e53b8-2be2-5d39-2caf-e169488ef2d9,972002,Air filter  device (physical object),5
+2004-10-08,a78b7a6e-3a87-57ed-579e-f0aa516cf4f7,795e53b8-2be2-5d39-2caf-e169488ef2d9,463659001,Medical air low pressure tubing (physical object),1
+2004-10-08,a78b7a6e-3a87-57ed-579e-f0aa516cf4f7,795e53b8-2be2-5d39-2caf-e169488ef2d9,706226000,Continuous positive airway pressure/Bilevel positive airway pressure mask (physical object),1
+2004-10-22,a78b7a6e-3a87-57ed-579e-f0aa516cf4f7,b90fbb9b-b044-095e-5b89-422ec2f1de00,467645007,Continuous positive airway pressure nasal oxygen cannula (physical object),1
+2004-10-22,a78b7a6e-3a87-57ed-579e-f0aa516cf4f7,b90fbb9b-b044-095e-5b89-422ec2f1de00,972002,Air filter  device (physical object),5
+2004-10-22,a78b7a6e-3a87-57ed-579e-f0aa516cf4f7,b90fbb9b-b044-095e-5b89-422ec2f1de00,463659001,Medical air low pressure tubing (physical object),1
+2004-10-22,a78b7a6e-3a87-57ed-579e-f0aa516cf4f7,b90fbb9b-b044-095e-5b89-422ec2f1de00,706226000,Continuous positive airway pressure/Bilevel positive airway pressure mask (physical object),1
+2004-11-05,a78b7a6e-3a87-57ed-579e-f0aa516cf4f7,ed4bdae8-f589-407c-b55f-6f3317c2ca3c,467645007,Continuous positive airway pressure nasal oxygen cannula (physical object),1
+2004-11-05,a78b7a6e-3a87-57ed-579e-f0aa516cf4f7,ed4bdae8-f589-407c-b55f-6f3317c2ca3c,972002,Air filter  device (physical object),5
+2004-11-05,a78b7a6e-3a87-57ed-579e-f0aa516cf4f7,ed4bdae8-f589-407c-b55f-6f3317c2ca3c,463659001,Medical air low pressure tubing (physical object),1
+2004-11-05,a78b7a6e-3a87-57ed-579e-f0aa516cf4f7,ed4bdae8-f589-407c-b55f-6f3317c2ca3c,706226000,Continuous positive airway pressure/Bilevel positive airway pressure mask (physical object),1
+2004-11-19,a78b7a6e-3a87-57ed-579e-f0aa516cf4f7,46f91ff0-1c87-43a3-15ff-f398c516faf6,467645007,Continuous positive airway pressure nasal oxygen cannula (physical object),1
+2004-11-19,a78b7a6e-3a87-57ed-579e-f0aa516cf4f7,46f91ff0-1c87-43a3-15ff-f398c516faf6,972002,Air filter  device (physical object),5
+2004-11-19,a78b7a6e-3a87-57ed-579e-f0aa516cf4f7,46f91ff0-1c87-43a3-15ff-f398c516faf6,463659001,Medical air low pressure tubing (physical object),1
+2004-11-19,a78b7a6e-3a87-57ed-579e-f0aa516cf4f7,46f91ff0-1c87-43a3-15ff-f398c516faf6,706226000,Continuous positive airway pressure/Bilevel positive airway pressure mask (physical object),1
+2004-12-03,a78b7a6e-3a87-57ed-579e-f0aa516cf4f7,e665b6c2-d8e0-8a30-a296-4921b526588b,467645007,Continuous positive airway pressure nasal oxygen cannula (physical object),1
+2004-12-03,a78b7a6e-3a87-57ed-579e-f0aa516cf4f7,e665b6c2-d8e0-8a30-a296-4921b526588b,972002,Air filter  device (physical object),5
+2004-12-03,a78b7a6e-3a87-57ed-579e-f0aa516cf4f7,e665b6c2-d8e0-8a30-a296-4921b526588b,463659001,Medical air low pressure tubing (physical object),1
+2004-12-03,a78b7a6e-3a87-57ed-579e-f0aa516cf4f7,e665b6c2-d8e0-8a30-a296-4921b526588b,706226000,Continuous positive airway pressure/Bilevel positive airway pressure mask (physical object),1
+2004-12-17,a78b7a6e-3a87-57ed-579e-f0aa516cf4f7,e8eae8a1-3a89-bf3c-6467-b7365b942cf0,704718009,CPAP/BPAP oral mask (physical object),1
+2004-12-17,a78b7a6e-3a87-57ed-579e-f0aa516cf4f7,e8eae8a1-3a89-bf3c-6467-b7365b942cf0,972002,Air filter  device (physical object),5
+2004-12-17,a78b7a6e-3a87-57ed-579e-f0aa516cf4f7,e8eae8a1-3a89-bf3c-6467-b7365b942cf0,463659001,Medical air low pressure tubing (physical object),1
+2004-12-17,a78b7a6e-3a87-57ed-579e-f0aa516cf4f7,e8eae8a1-3a89-bf3c-6467-b7365b942cf0,706226000,Continuous positive airway pressure/Bilevel positive airway pressure mask (physical object),1
+2005-01-21,a78b7a6e-3a87-57ed-579e-f0aa516cf4f7,35ae54ce-4484-54a4-5e75-8867b93efaec,704718009,CPAP/BPAP oral mask (physical object),1
+2005-01-21,a78b7a6e-3a87-57ed-579e-f0aa516cf4f7,35ae54ce-4484-54a4-5e75-8867b93efaec,972002,Air filter  device (physical object),5
+2005-01-21,a78b7a6e-3a87-57ed-579e-f0aa516cf4f7,35ae54ce-4484-54a4-5e75-8867b93efaec,463659001,Medical air low pressure tubing (physical object),1
+2005-01-21,a78b7a6e-3a87-57ed-579e-f0aa516cf4f7,35ae54ce-4484-54a4-5e75-8867b93efaec,706226000,Continuous positive airway pressure/Bilevel positive airway pressure mask (physical object),1
+2005-04-22,a78b7a6e-3a87-57ed-579e-f0aa516cf4f7,0441b0b4-8be8-3135-0978-db9ef11ea668,704718009,CPAP/BPAP oral mask (physical object),1
+2005-04-22,a78b7a6e-3a87-57ed-579e-f0aa516cf4f7,0441b0b4-8be8-3135-0978-db9ef11ea668,972002,Air filter  device (physical object),5
+2005-04-22,a78b7a6e-3a87-57ed-579e-f0aa516cf4f7,0441b0b4-8be8-3135-0978-db9ef11ea668,463659001,Medical air low pressure tubing (physical object),1
+2005-04-22,a78b7a6e-3a87-57ed-579e-f0aa516cf4f7,0441b0b4-8be8-3135-0978-db9ef11ea668,706226000,Continuous positive airway pressure/Bilevel positive airway pressure mask (physical object),1
+2005-06-17,a78b7a6e-3a87-57ed-579e-f0aa516cf4f7,f00a69a9-8c2b-2f62-2102-3660212bccb5,704718009,CPAP/BPAP oral mask (physical object),1
+2005-06-17,a78b7a6e-3a87-57ed-579e-f0aa516cf4f7,f00a69a9-8c2b-2f62-2102-3660212bccb5,972002,Air filter  device (physical object),5
+2005-06-17,a78b7a6e-3a87-57ed-579e-f0aa516cf4f7,f00a69a9-8c2b-2f62-2102-3660212bccb5,463659001,Medical air low pressure tubing (physical object),1
+2005-06-17,a78b7a6e-3a87-57ed-579e-f0aa516cf4f7,f00a69a9-8c2b-2f62-2102-3660212bccb5,706226000,Continuous positive airway pressure/Bilevel positive airway pressure mask (physical object),1
+2005-07-22,a78b7a6e-3a87-57ed-579e-f0aa516cf4f7,11f54403-f586-8558-dfcf-e68e5f7ba09d,467645007,Continuous positive airway pressure nasal oxygen cannula (physical object),1
+2005-07-22,a78b7a6e-3a87-57ed-579e-f0aa516cf4f7,11f54403-f586-8558-dfcf-e68e5f7ba09d,972002,Air filter  device (physical object),5
+2005-07-22,a78b7a6e-3a87-57ed-579e-f0aa516cf4f7,11f54403-f586-8558-dfcf-e68e5f7ba09d,463659001,Medical air low pressure tubing (physical object),1
+2005-07-22,a78b7a6e-3a87-57ed-579e-f0aa516cf4f7,11f54403-f586-8558-dfcf-e68e5f7ba09d,706226000,Continuous positive airway pressure/Bilevel positive airway pressure mask (physical object),1
+2005-09-16,a78b7a6e-3a87-57ed-579e-f0aa516cf4f7,2b64e881-4748-da21-3da3-c0f0b4ff9c82,467645007,Continuous positive airway pressure nasal oxygen cannula (physical object),1
+2005-09-16,a78b7a6e-3a87-57ed-579e-f0aa516cf4f7,2b64e881-4748-da21-3da3-c0f0b4ff9c82,972002,Air filter  device (physical object),5
+2005-09-16,a78b7a6e-3a87-57ed-579e-f0aa516cf4f7,2b64e881-4748-da21-3da3-c0f0b4ff9c82,463659001,Medical air low pressure tubing (physical object),1
+2005-09-16,a78b7a6e-3a87-57ed-579e-f0aa516cf4f7,2b64e881-4748-da21-3da3-c0f0b4ff9c82,706226000,Continuous positive airway pressure/Bilevel positive airway pressure mask (physical object),1
+2005-11-18,a78b7a6e-3a87-57ed-579e-f0aa516cf4f7,486558d6-4b50-f6d3-5e79-079f088285c9,704718009,CPAP/BPAP oral mask (physical object),1
+2005-11-18,a78b7a6e-3a87-57ed-579e-f0aa516cf4f7,486558d6-4b50-f6d3-5e79-079f088285c9,972002,Air filter  device (physical object),5
+2005-11-18,a78b7a6e-3a87-57ed-579e-f0aa516cf4f7,486558d6-4b50-f6d3-5e79-079f088285c9,463659001,Medical air low pressure tubing (physical object),1
+2005-11-18,a78b7a6e-3a87-57ed-579e-f0aa516cf4f7,486558d6-4b50-f6d3-5e79-079f088285c9,706226000,Continuous positive airway pressure/Bilevel positive airway pressure mask (physical object),1
+2005-12-23,a78b7a6e-3a87-57ed-579e-f0aa516cf4f7,cd26089c-be57-242d-4452-edb67a9e6b78,704718009,CPAP/BPAP oral mask (physical object),1
+2005-12-23,a78b7a6e-3a87-57ed-579e-f0aa516cf4f7,cd26089c-be57-242d-4452-edb67a9e6b78,972002,Air filter  device (physical object),5
+2005-12-23,a78b7a6e-3a87-57ed-579e-f0aa516cf4f7,cd26089c-be57-242d-4452-edb67a9e6b78,463659001,Medical air low pressure tubing (physical object),1
+2005-12-23,a78b7a6e-3a87-57ed-579e-f0aa516cf4f7,cd26089c-be57-242d-4452-edb67a9e6b78,706226000,Continuous positive airway pressure/Bilevel positive airway pressure mask (physical object),1
+2006-01-13,a78b7a6e-3a87-57ed-579e-f0aa516cf4f7,5a76ea3f-9150-35cd-4a3a-0da4fee3ad73,704718009,CPAP/BPAP oral mask (physical object),1
+2006-01-13,a78b7a6e-3a87-57ed-579e-f0aa516cf4f7,5a76ea3f-9150-35cd-4a3a-0da4fee3ad73,972002,Air filter  device (physical object),5
+2006-01-13,a78b7a6e-3a87-57ed-579e-f0aa516cf4f7,5a76ea3f-9150-35cd-4a3a-0da4fee3ad73,463659001,Medical air low pressure tubing (physical object),1
+2006-01-13,a78b7a6e-3a87-57ed-579e-f0aa516cf4f7,5a76ea3f-9150-35cd-4a3a-0da4fee3ad73,706226000,Continuous positive airway pressure/Bilevel positive airway pressure mask (physical object),1
+2006-03-17,a78b7a6e-3a87-57ed-579e-f0aa516cf4f7,f9a53aac-27f8-185d-1c5d-61ac43fd6dfa,467645007,Continuous positive airway pressure nasal oxygen cannula (physical object),1
+2006-03-17,a78b7a6e-3a87-57ed-579e-f0aa516cf4f7,f9a53aac-27f8-185d-1c5d-61ac43fd6dfa,972002,Air filter  device (physical object),5
+2006-03-17,a78b7a6e-3a87-57ed-579e-f0aa516cf4f7,f9a53aac-27f8-185d-1c5d-61ac43fd6dfa,463659001,Medical air low pressure tubing (physical object),1
+2006-03-17,a78b7a6e-3a87-57ed-579e-f0aa516cf4f7,f9a53aac-27f8-185d-1c5d-61ac43fd6dfa,706226000,Continuous positive airway pressure/Bilevel positive airway pressure mask (physical object),1
+2006-04-14,a78b7a6e-3a87-57ed-579e-f0aa516cf4f7,38f80d6e-92ca-c34d-7565-b3f1ede227db,467645007,Continuous positive airway pressure nasal oxygen cannula (physical object),1
+2006-04-14,a78b7a6e-3a87-57ed-579e-f0aa516cf4f7,38f80d6e-92ca-c34d-7565-b3f1ede227db,972002,Air filter  device (physical object),5
+2006-04-14,a78b7a6e-3a87-57ed-579e-f0aa516cf4f7,38f80d6e-92ca-c34d-7565-b3f1ede227db,463659001,Medical air low pressure tubing (physical object),1
+2006-04-14,a78b7a6e-3a87-57ed-579e-f0aa516cf4f7,38f80d6e-92ca-c34d-7565-b3f1ede227db,706226000,Continuous positive airway pressure/Bilevel positive airway pressure mask (physical object),1
+2006-05-12,a78b7a6e-3a87-57ed-579e-f0aa516cf4f7,282bc078-c57e-78e1-113f-45710925a179,704718009,CPAP/BPAP oral mask (physical object),1
+2006-05-12,a78b7a6e-3a87-57ed-579e-f0aa516cf4f7,282bc078-c57e-78e1-113f-45710925a179,972002,Air filter  device (physical object),5
+2006-05-12,a78b7a6e-3a87-57ed-579e-f0aa516cf4f7,282bc078-c57e-78e1-113f-45710925a179,463659001,Medical air low pressure tubing (physical object),1
+2006-05-12,a78b7a6e-3a87-57ed-579e-f0aa516cf4f7,282bc078-c57e-78e1-113f-45710925a179,706226000,Continuous positive airway pressure/Bilevel positive airway pressure mask (physical object),1
+2006-07-14,a78b7a6e-3a87-57ed-579e-f0aa516cf4f7,734a8caf-6574-a215-b3b9-3a3b6e6bbdf8,467645007,Continuous positive airway pressure nasal oxygen cannula (physical object),1
+2006-07-14,a78b7a6e-3a87-57ed-579e-f0aa516cf4f7,734a8caf-6574-a215-b3b9-3a3b6e6bbdf8,972002,Air filter  device (physical object),5
+2006-07-14,a78b7a6e-3a87-57ed-579e-f0aa516cf4f7,734a8caf-6574-a215-b3b9-3a3b6e6bbdf8,463659001,Medical air low pressure tubing (physical object),1
+2006-07-14,a78b7a6e-3a87-57ed-579e-f0aa516cf4f7,734a8caf-6574-a215-b3b9-3a3b6e6bbdf8,706226000,Continuous positive airway pressure/Bilevel positive airway pressure mask (physical object),1
+2006-11-10,a78b7a6e-3a87-57ed-579e-f0aa516cf4f7,694a1e45-899b-0039-5f94-424f68a0b08e,467645007,Continuous positive airway pressure nasal oxygen cannula (physical object),1
+2006-11-10,a78b7a6e-3a87-57ed-579e-f0aa516cf4f7,694a1e45-899b-0039-5f94-424f68a0b08e,972002,Air filter  device (physical object),5
+2006-11-10,a78b7a6e-3a87-57ed-579e-f0aa516cf4f7,694a1e45-899b-0039-5f94-424f68a0b08e,463659001,Medical air low pressure tubing (physical object),1
+2006-11-10,a78b7a6e-3a87-57ed-579e-f0aa516cf4f7,694a1e45-899b-0039-5f94-424f68a0b08e,706226000,Continuous positive airway pressure/Bilevel positive airway pressure mask (physical object),1
+2006-12-08,a78b7a6e-3a87-57ed-579e-f0aa516cf4f7,50848750-541b-8f6c-a6aa-4cb0629b822e,467645007,Continuous positive airway pressure nasal oxygen cannula (physical object),1
+2006-12-08,a78b7a6e-3a87-57ed-579e-f0aa516cf4f7,50848750-541b-8f6c-a6aa-4cb0629b822e,972002,Air filter  device (physical object),5
+2006-12-08,a78b7a6e-3a87-57ed-579e-f0aa516cf4f7,50848750-541b-8f6c-a6aa-4cb0629b822e,463659001,Medical air low pressure tubing (physical object),1
+2006-12-08,a78b7a6e-3a87-57ed-579e-f0aa516cf4f7,50848750-541b-8f6c-a6aa-4cb0629b822e,706226000,Continuous positive airway pressure/Bilevel positive airway pressure mask (physical object),1
+2006-12-29,a78b7a6e-3a87-57ed-579e-f0aa516cf4f7,207f2746-191a-2b1d-18a9-4c9d77ea85d2,467645007,Continuous positive airway pressure nasal oxygen cannula (physical object),1
+2006-12-29,a78b7a6e-3a87-57ed-579e-f0aa516cf4f7,207f2746-191a-2b1d-18a9-4c9d77ea85d2,972002,Air filter  device (physical object),5
+2006-12-29,a78b7a6e-3a87-57ed-579e-f0aa516cf4f7,207f2746-191a-2b1d-18a9-4c9d77ea85d2,463659001,Medical air low pressure tubing (physical object),1
+2006-12-29,a78b7a6e-3a87-57ed-579e-f0aa516cf4f7,207f2746-191a-2b1d-18a9-4c9d77ea85d2,706226000,Continuous positive airway pressure/Bilevel positive airway pressure mask (physical object),1
+2007-01-12,a78b7a6e-3a87-57ed-579e-f0aa516cf4f7,d715cb01-94e9-0edd-950d-cfe0c1b972b2,467645007,Continuous positive airway pressure nasal oxygen cannula (physical object),1
+2007-01-12,a78b7a6e-3a87-57ed-579e-f0aa516cf4f7,d715cb01-94e9-0edd-950d-cfe0c1b972b2,972002,Air filter  device (physical object),5
+2007-01-12,a78b7a6e-3a87-57ed-579e-f0aa516cf4f7,d715cb01-94e9-0edd-950d-cfe0c1b972b2,463659001,Medical air low pressure tubing (physical object),1
+2007-01-12,a78b7a6e-3a87-57ed-579e-f0aa516cf4f7,d715cb01-94e9-0edd-950d-cfe0c1b972b2,706226000,Continuous positive airway pressure/Bilevel positive airway pressure mask (physical object),1
+2007-03-09,a78b7a6e-3a87-57ed-579e-f0aa516cf4f7,3ed5a66e-1d59-781e-2f4f-40d8159be9de,704718009,CPAP/BPAP oral mask (physical object),1
+2007-03-09,a78b7a6e-3a87-57ed-579e-f0aa516cf4f7,3ed5a66e-1d59-781e-2f4f-40d8159be9de,972002,Air filter  device (physical object),5
+2007-03-09,a78b7a6e-3a87-57ed-579e-f0aa516cf4f7,3ed5a66e-1d59-781e-2f4f-40d8159be9de,463659001,Medical air low pressure tubing (physical object),1
+2007-03-09,a78b7a6e-3a87-57ed-579e-f0aa516cf4f7,3ed5a66e-1d59-781e-2f4f-40d8159be9de,706226000,Continuous positive airway pressure/Bilevel positive airway pressure mask (physical object),1
+2007-06-08,a78b7a6e-3a87-57ed-579e-f0aa516cf4f7,7de386a0-630b-2d22-9c37-e600fb20b051,704718009,CPAP/BPAP oral mask (physical object),1
+2007-06-08,a78b7a6e-3a87-57ed-579e-f0aa516cf4f7,7de386a0-630b-2d22-9c37-e600fb20b051,972002,Air filter  device (physical object),5
+2007-06-08,a78b7a6e-3a87-57ed-579e-f0aa516cf4f7,7de386a0-630b-2d22-9c37-e600fb20b051,463659001,Medical air low pressure tubing (physical object),1
+2007-06-08,a78b7a6e-3a87-57ed-579e-f0aa516cf4f7,7de386a0-630b-2d22-9c37-e600fb20b051,706226000,Continuous positive airway pressure/Bilevel positive airway pressure mask (physical object),1
+2007-09-07,a78b7a6e-3a87-57ed-579e-f0aa516cf4f7,bd4cd1d2-eac1-5c8f-dfb7-ff84651fa9f9,704718009,CPAP/BPAP oral mask (physical object),1
+2007-09-07,a78b7a6e-3a87-57ed-579e-f0aa516cf4f7,bd4cd1d2-eac1-5c8f-dfb7-ff84651fa9f9,972002,Air filter  device (physical object),5
+2007-09-07,a78b7a6e-3a87-57ed-579e-f0aa516cf4f7,bd4cd1d2-eac1-5c8f-dfb7-ff84651fa9f9,463659001,Medical air low pressure tubing (physical object),1
+2007-09-07,a78b7a6e-3a87-57ed-579e-f0aa516cf4f7,bd4cd1d2-eac1-5c8f-dfb7-ff84651fa9f9,706226000,Continuous positive airway pressure/Bilevel positive airway pressure mask (physical object),1
+2007-12-07,a78b7a6e-3a87-57ed-579e-f0aa516cf4f7,c1434d41-1a35-baf3-ae1a-034203c5e809,467645007,Continuous positive airway pressure nasal oxygen cannula (physical object),1
+2007-12-07,a78b7a6e-3a87-57ed-579e-f0aa516cf4f7,c1434d41-1a35-baf3-ae1a-034203c5e809,972002,Air filter  device (physical object),5
+2007-12-07,a78b7a6e-3a87-57ed-579e-f0aa516cf4f7,c1434d41-1a35-baf3-ae1a-034203c5e809,463659001,Medical air low pressure tubing (physical object),1
+2007-12-07,a78b7a6e-3a87-57ed-579e-f0aa516cf4f7,c1434d41-1a35-baf3-ae1a-034203c5e809,706226000,Continuous positive airway pressure/Bilevel positive airway pressure mask (physical object),1
+2008-01-04,a78b7a6e-3a87-57ed-579e-f0aa516cf4f7,5e11e65e-6502-d727-40d4-d2e28410433a,467645007,Continuous positive airway pressure nasal oxygen cannula (physical object),1
+2008-01-04,a78b7a6e-3a87-57ed-579e-f0aa516cf4f7,5e11e65e-6502-d727-40d4-d2e28410433a,972002,Air filter  device (physical object),5
+2008-01-04,a78b7a6e-3a87-57ed-579e-f0aa516cf4f7,5e11e65e-6502-d727-40d4-d2e28410433a,463659001,Medical air low pressure tubing (physical object),1
+2008-01-04,a78b7a6e-3a87-57ed-579e-f0aa516cf4f7,5e11e65e-6502-d727-40d4-d2e28410433a,706226000,Continuous positive airway pressure/Bilevel positive airway pressure mask (physical object),1
+2008-03-07,a78b7a6e-3a87-57ed-579e-f0aa516cf4f7,c2fb3879-2c80-3b9a-a777-699666c2a42c,704718009,CPAP/BPAP oral mask (physical object),1
+2008-03-07,a78b7a6e-3a87-57ed-579e-f0aa516cf4f7,c2fb3879-2c80-3b9a-a777-699666c2a42c,972002,Air filter  device (physical object),5
+2008-03-07,a78b7a6e-3a87-57ed-579e-f0aa516cf4f7,c2fb3879-2c80-3b9a-a777-699666c2a42c,463659001,Medical air low pressure tubing (physical object),1
+2008-03-07,a78b7a6e-3a87-57ed-579e-f0aa516cf4f7,c2fb3879-2c80-3b9a-a777-699666c2a42c,706226000,Continuous positive airway pressure/Bilevel positive airway pressure mask (physical object),1
+2008-12-12,a78b7a6e-3a87-57ed-579e-f0aa516cf4f7,5eea4520-f630-81e5-2199-0d9df5956374,467645007,Continuous positive airway pressure nasal oxygen cannula (physical object),1
+2008-12-12,a78b7a6e-3a87-57ed-579e-f0aa516cf4f7,5eea4520-f630-81e5-2199-0d9df5956374,972002,Air filter  device (physical object),5
+2008-12-12,a78b7a6e-3a87-57ed-579e-f0aa516cf4f7,5eea4520-f630-81e5-2199-0d9df5956374,463659001,Medical air low pressure tubing (physical object),1
+2008-12-12,a78b7a6e-3a87-57ed-579e-f0aa516cf4f7,5eea4520-f630-81e5-2199-0d9df5956374,706226000,Continuous positive airway pressure/Bilevel positive airway pressure mask (physical object),1
+2009-01-09,a78b7a6e-3a87-57ed-579e-f0aa516cf4f7,2ce13b46-858e-5b57-194a-d25af002da73,467645007,Continuous positive airway pressure nasal oxygen cannula (physical object),1
+2009-01-09,a78b7a6e-3a87-57ed-579e-f0aa516cf4f7,2ce13b46-858e-5b57-194a-d25af002da73,972002,Air filter  device (physical object),5
+2009-01-09,a78b7a6e-3a87-57ed-579e-f0aa516cf4f7,2ce13b46-858e-5b57-194a-d25af002da73,463659001,Medical air low pressure tubing (physical object),1
+2009-01-09,a78b7a6e-3a87-57ed-579e-f0aa516cf4f7,2ce13b46-858e-5b57-194a-d25af002da73,706226000,Continuous positive airway pressure/Bilevel positive airway pressure mask (physical object),1
+2009-05-01,a78b7a6e-3a87-57ed-579e-f0aa516cf4f7,afffc207-d26c-c33c-4cc9-3d664ea2b956,704718009,CPAP/BPAP oral mask (physical object),1
+2009-05-01,a78b7a6e-3a87-57ed-579e-f0aa516cf4f7,afffc207-d26c-c33c-4cc9-3d664ea2b956,972002,Air filter  device (physical object),5
+2009-05-01,a78b7a6e-3a87-57ed-579e-f0aa516cf4f7,afffc207-d26c-c33c-4cc9-3d664ea2b956,463659001,Medical air low pressure tubing (physical object),1
+2009-05-01,a78b7a6e-3a87-57ed-579e-f0aa516cf4f7,afffc207-d26c-c33c-4cc9-3d664ea2b956,706226000,Continuous positive airway pressure/Bilevel positive airway pressure mask (physical object),1
+2009-06-26,a78b7a6e-3a87-57ed-579e-f0aa516cf4f7,f44da979-fcd8-91f4-2d8c-7257f0fd7319,467645007,Continuous positive airway pressure nasal oxygen cannula (physical object),1
+2009-06-26,a78b7a6e-3a87-57ed-579e-f0aa516cf4f7,f44da979-fcd8-91f4-2d8c-7257f0fd7319,972002,Air filter  device (physical object),5
+2009-06-26,a78b7a6e-3a87-57ed-579e-f0aa516cf4f7,f44da979-fcd8-91f4-2d8c-7257f0fd7319,463659001,Medical air low pressure tubing (physical object),1
+2009-06-26,a78b7a6e-3a87-57ed-579e-f0aa516cf4f7,f44da979-fcd8-91f4-2d8c-7257f0fd7319,706226000,Continuous positive airway pressure/Bilevel positive airway pressure mask (physical object),1
+2009-09-25,a78b7a6e-3a87-57ed-579e-f0aa516cf4f7,b5b52d4e-fb9a-3087-7dd4-99f9a33d99b7,704718009,CPAP/BPAP oral mask (physical object),1
+2009-09-25,a78b7a6e-3a87-57ed-579e-f0aa516cf4f7,b5b52d4e-fb9a-3087-7dd4-99f9a33d99b7,972002,Air filter  device (physical object),5
+2009-09-25,a78b7a6e-3a87-57ed-579e-f0aa516cf4f7,b5b52d4e-fb9a-3087-7dd4-99f9a33d99b7,463659001,Medical air low pressure tubing (physical object),1
+2009-09-25,a78b7a6e-3a87-57ed-579e-f0aa516cf4f7,b5b52d4e-fb9a-3087-7dd4-99f9a33d99b7,706226000,Continuous positive airway pressure/Bilevel positive airway pressure mask (physical object),1
+2009-10-23,a78b7a6e-3a87-57ed-579e-f0aa516cf4f7,8caa5b60-96a2-e94d-2081-383ce06fa694,704718009,CPAP/BPAP oral mask (physical object),1
+2009-10-23,a78b7a6e-3a87-57ed-579e-f0aa516cf4f7,8caa5b60-96a2-e94d-2081-383ce06fa694,972002,Air filter  device (physical object),5
+2009-10-23,a78b7a6e-3a87-57ed-579e-f0aa516cf4f7,8caa5b60-96a2-e94d-2081-383ce06fa694,463659001,Medical air low pressure tubing (physical object),1
+2009-10-23,a78b7a6e-3a87-57ed-579e-f0aa516cf4f7,8caa5b60-96a2-e94d-2081-383ce06fa694,706226000,Continuous positive airway pressure/Bilevel positive airway pressure mask (physical object),1
+2009-12-25,a78b7a6e-3a87-57ed-579e-f0aa516cf4f7,798c0478-5daa-80da-e1b2-5a2a9c5c4d9b,467645007,Continuous positive airway pressure nasal oxygen cannula (physical object),1
+2009-12-25,a78b7a6e-3a87-57ed-579e-f0aa516cf4f7,798c0478-5daa-80da-e1b2-5a2a9c5c4d9b,972002,Air filter  device (physical object),5
+2009-12-25,a78b7a6e-3a87-57ed-579e-f0aa516cf4f7,798c0478-5daa-80da-e1b2-5a2a9c5c4d9b,463659001,Medical air low pressure tubing (physical object),1
+2009-12-25,a78b7a6e-3a87-57ed-579e-f0aa516cf4f7,798c0478-5daa-80da-e1b2-5a2a9c5c4d9b,706226000,Continuous positive airway pressure/Bilevel positive airway pressure mask (physical object),1
+2010-01-15,a78b7a6e-3a87-57ed-579e-f0aa516cf4f7,d03b34db-ea80-6341-ceb8-5caf7a27a395,467645007,Continuous positive airway pressure nasal oxygen cannula (physical object),1
+2010-01-15,a78b7a6e-3a87-57ed-579e-f0aa516cf4f7,d03b34db-ea80-6341-ceb8-5caf7a27a395,972002,Air filter  device (physical object),5
+2010-01-15,a78b7a6e-3a87-57ed-579e-f0aa516cf4f7,d03b34db-ea80-6341-ceb8-5caf7a27a395,463659001,Medical air low pressure tubing (physical object),1
+2010-01-15,a78b7a6e-3a87-57ed-579e-f0aa516cf4f7,d03b34db-ea80-6341-ceb8-5caf7a27a395,706226000,Continuous positive airway pressure/Bilevel positive airway pressure mask (physical object),1
+2010-02-26,a78b7a6e-3a87-57ed-579e-f0aa516cf4f7,a9ab15fe-3d8b-da55-fe06-5ab4d9443c3b,704718009,CPAP/BPAP oral mask (physical object),1
+2010-02-26,a78b7a6e-3a87-57ed-579e-f0aa516cf4f7,a9ab15fe-3d8b-da55-fe06-5ab4d9443c3b,972002,Air filter  device (physical object),5
+2010-02-26,a78b7a6e-3a87-57ed-579e-f0aa516cf4f7,a9ab15fe-3d8b-da55-fe06-5ab4d9443c3b,463659001,Medical air low pressure tubing (physical object),1
+2010-02-26,a78b7a6e-3a87-57ed-579e-f0aa516cf4f7,a9ab15fe-3d8b-da55-fe06-5ab4d9443c3b,706226000,Continuous positive airway pressure/Bilevel positive airway pressure mask (physical object),1
+2010-04-23,a78b7a6e-3a87-57ed-579e-f0aa516cf4f7,ed7fad36-a722-16e3-4c65-c13cda2c1186,704718009,CPAP/BPAP oral mask (physical object),1
+2010-04-23,a78b7a6e-3a87-57ed-579e-f0aa516cf4f7,ed7fad36-a722-16e3-4c65-c13cda2c1186,972002,Air filter  device (physical object),5
+2010-04-23,a78b7a6e-3a87-57ed-579e-f0aa516cf4f7,ed7fad36-a722-16e3-4c65-c13cda2c1186,463659001,Medical air low pressure tubing (physical object),1
+2010-04-23,a78b7a6e-3a87-57ed-579e-f0aa516cf4f7,ed7fad36-a722-16e3-4c65-c13cda2c1186,706226000,Continuous positive airway pressure/Bilevel positive airway pressure mask (physical object),1
+2010-05-21,a78b7a6e-3a87-57ed-579e-f0aa516cf4f7,542ca60f-84b2-0131-5fe6-4365eac199db,467645007,Continuous positive airway pressure nasal oxygen cannula (physical object),1
+2010-05-21,a78b7a6e-3a87-57ed-579e-f0aa516cf4f7,542ca60f-84b2-0131-5fe6-4365eac199db,972002,Air filter  device (physical object),5
+2010-05-21,a78b7a6e-3a87-57ed-579e-f0aa516cf4f7,542ca60f-84b2-0131-5fe6-4365eac199db,463659001,Medical air low pressure tubing (physical object),1
+2010-05-21,a78b7a6e-3a87-57ed-579e-f0aa516cf4f7,542ca60f-84b2-0131-5fe6-4365eac199db,706226000,Continuous positive airway pressure/Bilevel positive airway pressure mask (physical object),1
+2010-09-24,a78b7a6e-3a87-57ed-579e-f0aa516cf4f7,9f3e8564-9e04-bd3e-406e-075fc0ca6b0b,467645007,Continuous positive airway pressure nasal oxygen cannula (physical object),1
+2010-09-24,a78b7a6e-3a87-57ed-579e-f0aa516cf4f7,9f3e8564-9e04-bd3e-406e-075fc0ca6b0b,972002,Air filter  device (physical object),5
+2010-09-24,a78b7a6e-3a87-57ed-579e-f0aa516cf4f7,9f3e8564-9e04-bd3e-406e-075fc0ca6b0b,463659001,Medical air low pressure tubing (physical object),1
+2010-09-24,a78b7a6e-3a87-57ed-579e-f0aa516cf4f7,9f3e8564-9e04-bd3e-406e-075fc0ca6b0b,706226000,Continuous positive airway pressure/Bilevel positive airway pressure mask (physical object),1
+2010-10-22,a78b7a6e-3a87-57ed-579e-f0aa516cf4f7,319eef99-c17e-ca8f-799b-80ef087d3331,467645007,Continuous positive airway pressure nasal oxygen cannula (physical object),1
+2010-10-22,a78b7a6e-3a87-57ed-579e-f0aa516cf4f7,319eef99-c17e-ca8f-799b-80ef087d3331,972002,Air filter  device (physical object),5
+2010-10-22,a78b7a6e-3a87-57ed-579e-f0aa516cf4f7,319eef99-c17e-ca8f-799b-80ef087d3331,463659001,Medical air low pressure tubing (physical object),1
+2010-10-22,a78b7a6e-3a87-57ed-579e-f0aa516cf4f7,319eef99-c17e-ca8f-799b-80ef087d3331,706226000,Continuous positive airway pressure/Bilevel positive airway pressure mask (physical object),1
+2010-12-17,a78b7a6e-3a87-57ed-579e-f0aa516cf4f7,14ee56dc-7ab3-cb82-b0da-df47af6afe3f,704718009,CPAP/BPAP oral mask (physical object),1
+2010-12-17,a78b7a6e-3a87-57ed-579e-f0aa516cf4f7,14ee56dc-7ab3-cb82-b0da-df47af6afe3f,972002,Air filter  device (physical object),5
+2010-12-17,a78b7a6e-3a87-57ed-579e-f0aa516cf4f7,14ee56dc-7ab3-cb82-b0da-df47af6afe3f,463659001,Medical air low pressure tubing (physical object),1
+2010-12-17,a78b7a6e-3a87-57ed-579e-f0aa516cf4f7,14ee56dc-7ab3-cb82-b0da-df47af6afe3f,706226000,Continuous positive airway pressure/Bilevel positive airway pressure mask (physical object),1
+2011-01-21,a78b7a6e-3a87-57ed-579e-f0aa516cf4f7,8775a8e9-c349-0d3c-5687-72ed93f1a723,704718009,CPAP/BPAP oral mask (physical object),1
+2011-01-21,a78b7a6e-3a87-57ed-579e-f0aa516cf4f7,8775a8e9-c349-0d3c-5687-72ed93f1a723,972002,Air filter  device (physical object),5
+2011-01-21,a78b7a6e-3a87-57ed-579e-f0aa516cf4f7,8775a8e9-c349-0d3c-5687-72ed93f1a723,463659001,Medical air low pressure tubing (physical object),1
+2011-01-21,a78b7a6e-3a87-57ed-579e-f0aa516cf4f7,8775a8e9-c349-0d3c-5687-72ed93f1a723,706226000,Continuous positive airway pressure/Bilevel positive airway pressure mask (physical object),1
+2011-03-18,a78b7a6e-3a87-57ed-579e-f0aa516cf4f7,06327f7c-63e9-f47b-545e-9cb54bdf5e80,467645007,Continuous positive airway pressure nasal oxygen cannula (physical object),1
+2011-03-18,a78b7a6e-3a87-57ed-579e-f0aa516cf4f7,06327f7c-63e9-f47b-545e-9cb54bdf5e80,972002,Air filter  device (physical object),5
+2011-03-18,a78b7a6e-3a87-57ed-579e-f0aa516cf4f7,06327f7c-63e9-f47b-545e-9cb54bdf5e80,463659001,Medical air low pressure tubing (physical object),1
+2011-03-18,a78b7a6e-3a87-57ed-579e-f0aa516cf4f7,06327f7c-63e9-f47b-545e-9cb54bdf5e80,706226000,Continuous positive airway pressure/Bilevel positive airway pressure mask (physical object),1
+2011-04-22,a78b7a6e-3a87-57ed-579e-f0aa516cf4f7,1a50ac02-95fb-44a3-d891-6b2b4d172f70,467645007,Continuous positive airway pressure nasal oxygen cannula (physical object),1
+2011-04-22,a78b7a6e-3a87-57ed-579e-f0aa516cf4f7,1a50ac02-95fb-44a3-d891-6b2b4d172f70,972002,Air filter  device (physical object),5
+2011-04-22,a78b7a6e-3a87-57ed-579e-f0aa516cf4f7,1a50ac02-95fb-44a3-d891-6b2b4d172f70,463659001,Medical air low pressure tubing (physical object),1
+2011-04-22,a78b7a6e-3a87-57ed-579e-f0aa516cf4f7,1a50ac02-95fb-44a3-d891-6b2b4d172f70,706226000,Continuous positive airway pressure/Bilevel positive airway pressure mask (physical object),1
+2011-06-24,a78b7a6e-3a87-57ed-579e-f0aa516cf4f7,fe5bcb80-7055-ac5c-2f85-3815f804790b,467645007,Continuous positive airway pressure nasal oxygen cannula (physical object),1
+2011-06-24,a78b7a6e-3a87-57ed-579e-f0aa516cf4f7,fe5bcb80-7055-ac5c-2f85-3815f804790b,972002,Air filter  device (physical object),5
+2011-06-24,a78b7a6e-3a87-57ed-579e-f0aa516cf4f7,fe5bcb80-7055-ac5c-2f85-3815f804790b,463659001,Medical air low pressure tubing (physical object),1
+2011-06-24,a78b7a6e-3a87-57ed-579e-f0aa516cf4f7,fe5bcb80-7055-ac5c-2f85-3815f804790b,706226000,Continuous positive airway pressure/Bilevel positive airway pressure mask (physical object),1
+2011-09-16,a78b7a6e-3a87-57ed-579e-f0aa516cf4f7,36dca0d8-f752-8553-19ff-5d247b69ecce,704718009,CPAP/BPAP oral mask (physical object),1
+2011-09-16,a78b7a6e-3a87-57ed-579e-f0aa516cf4f7,36dca0d8-f752-8553-19ff-5d247b69ecce,972002,Air filter  device (physical object),5
+2011-09-16,a78b7a6e-3a87-57ed-579e-f0aa516cf4f7,36dca0d8-f752-8553-19ff-5d247b69ecce,463659001,Medical air low pressure tubing (physical object),1
+2011-09-16,a78b7a6e-3a87-57ed-579e-f0aa516cf4f7,36dca0d8-f752-8553-19ff-5d247b69ecce,706226000,Continuous positive airway pressure/Bilevel positive airway pressure mask (physical object),1
+2012-01-13,a78b7a6e-3a87-57ed-579e-f0aa516cf4f7,0b31ae5f-55b5-6bc1-a907-b1bbc3213031,467645007,Continuous positive airway pressure nasal oxygen cannula (physical object),1
+2012-01-13,a78b7a6e-3a87-57ed-579e-f0aa516cf4f7,0b31ae5f-55b5-6bc1-a907-b1bbc3213031,972002,Air filter  device (physical object),5
+2012-01-13,a78b7a6e-3a87-57ed-579e-f0aa516cf4f7,0b31ae5f-55b5-6bc1-a907-b1bbc3213031,463659001,Medical air low pressure tubing (physical object),1
+2012-01-13,a78b7a6e-3a87-57ed-579e-f0aa516cf4f7,0b31ae5f-55b5-6bc1-a907-b1bbc3213031,706226000,Continuous positive airway pressure/Bilevel positive airway pressure mask (physical object),1
+2012-02-03,a78b7a6e-3a87-57ed-579e-f0aa516cf4f7,2d717bd9-b140-3e76-48d6-866d5c60d508,467645007,Continuous positive airway pressure nasal oxygen cannula (physical object),1
+2012-02-03,a78b7a6e-3a87-57ed-579e-f0aa516cf4f7,2d717bd9-b140-3e76-48d6-866d5c60d508,972002,Air filter  device (physical object),5
+2012-02-03,a78b7a6e-3a87-57ed-579e-f0aa516cf4f7,2d717bd9-b140-3e76-48d6-866d5c60d508,463659001,Medical air low pressure tubing (physical object),1
+2012-02-03,a78b7a6e-3a87-57ed-579e-f0aa516cf4f7,2d717bd9-b140-3e76-48d6-866d5c60d508,706226000,Continuous positive airway pressure/Bilevel positive airway pressure mask (physical object),1
+2012-03-16,a78b7a6e-3a87-57ed-579e-f0aa516cf4f7,a1c2999a-4e54-ad0c-8daf-9d818fdbe536,704718009,CPAP/BPAP oral mask (physical object),1
+2012-03-16,a78b7a6e-3a87-57ed-579e-f0aa516cf4f7,a1c2999a-4e54-ad0c-8daf-9d818fdbe536,972002,Air filter  device (physical object),5
+2012-03-16,a78b7a6e-3a87-57ed-579e-f0aa516cf4f7,a1c2999a-4e54-ad0c-8daf-9d818fdbe536,463659001,Medical air low pressure tubing (physical object),1
+2012-03-16,a78b7a6e-3a87-57ed-579e-f0aa516cf4f7,a1c2999a-4e54-ad0c-8daf-9d818fdbe536,706226000,Continuous positive airway pressure/Bilevel positive airway pressure mask (physical object),1
+2012-08-10,a78b7a6e-3a87-57ed-579e-f0aa516cf4f7,2f61de62-8ef9-a3aa-2b20-ce8b9bb77af4,467645007,Continuous positive airway pressure nasal oxygen cannula (physical object),1
+2012-08-10,a78b7a6e-3a87-57ed-579e-f0aa516cf4f7,2f61de62-8ef9-a3aa-2b20-ce8b9bb77af4,972002,Air filter  device (physical object),5
+2012-08-10,a78b7a6e-3a87-57ed-579e-f0aa516cf4f7,2f61de62-8ef9-a3aa-2b20-ce8b9bb77af4,463659001,Medical air low pressure tubing (physical object),1
+2012-08-10,a78b7a6e-3a87-57ed-579e-f0aa516cf4f7,2f61de62-8ef9-a3aa-2b20-ce8b9bb77af4,706226000,Continuous positive airway pressure/Bilevel positive airway pressure mask (physical object),1
+2012-08-31,a78b7a6e-3a87-57ed-579e-f0aa516cf4f7,6c7243f7-6086-1f85-8a6d-076e52dd940b,467645007,Continuous positive airway pressure nasal oxygen cannula (physical object),1
+2012-08-31,a78b7a6e-3a87-57ed-579e-f0aa516cf4f7,6c7243f7-6086-1f85-8a6d-076e52dd940b,972002,Air filter  device (physical object),5
+2012-08-31,a78b7a6e-3a87-57ed-579e-f0aa516cf4f7,6c7243f7-6086-1f85-8a6d-076e52dd940b,463659001,Medical air low pressure tubing (physical object),1
+2012-08-31,a78b7a6e-3a87-57ed-579e-f0aa516cf4f7,6c7243f7-6086-1f85-8a6d-076e52dd940b,706226000,Continuous positive airway pressure/Bilevel positive airway pressure mask (physical object),1
+2012-09-14,a78b7a6e-3a87-57ed-579e-f0aa516cf4f7,443f6f19-1361-ba7a-8482-f08b30d02be1,704718009,CPAP/BPAP oral mask (physical object),1
+2012-09-14,a78b7a6e-3a87-57ed-579e-f0aa516cf4f7,443f6f19-1361-ba7a-8482-f08b30d02be1,972002,Air filter  device (physical object),5
+2012-09-14,a78b7a6e-3a87-57ed-579e-f0aa516cf4f7,443f6f19-1361-ba7a-8482-f08b30d02be1,463659001,Medical air low pressure tubing (physical object),1
+2012-09-14,a78b7a6e-3a87-57ed-579e-f0aa516cf4f7,443f6f19-1361-ba7a-8482-f08b30d02be1,706226000,Continuous positive airway pressure/Bilevel positive airway pressure mask (physical object),1
+2012-09-28,a78b7a6e-3a87-57ed-579e-f0aa516cf4f7,dc75e84c-98ef-cf8e-0e60-be403f72738b,467645007,Continuous positive airway pressure nasal oxygen cannula (physical object),1
+2012-09-28,a78b7a6e-3a87-57ed-579e-f0aa516cf4f7,dc75e84c-98ef-cf8e-0e60-be403f72738b,972002,Air filter  device (physical object),5
+2012-09-28,a78b7a6e-3a87-57ed-579e-f0aa516cf4f7,dc75e84c-98ef-cf8e-0e60-be403f72738b,463659001,Medical air low pressure tubing (physical object),1
+2012-09-28,a78b7a6e-3a87-57ed-579e-f0aa516cf4f7,dc75e84c-98ef-cf8e-0e60-be403f72738b,706226000,Continuous positive airway pressure/Bilevel positive airway pressure mask (physical object),1
+2012-10-12,a78b7a6e-3a87-57ed-579e-f0aa516cf4f7,618dd3a0-57f1-f148-68b6-616a44da39d0,704718009,CPAP/BPAP oral mask (physical object),1
+2012-10-12,a78b7a6e-3a87-57ed-579e-f0aa516cf4f7,618dd3a0-57f1-f148-68b6-616a44da39d0,972002,Air filter  device (physical object),5
+2012-10-12,a78b7a6e-3a87-57ed-579e-f0aa516cf4f7,618dd3a0-57f1-f148-68b6-616a44da39d0,463659001,Medical air low pressure tubing (physical object),1
+2012-10-12,a78b7a6e-3a87-57ed-579e-f0aa516cf4f7,618dd3a0-57f1-f148-68b6-616a44da39d0,706226000,Continuous positive airway pressure/Bilevel positive airway pressure mask (physical object),1
+2012-10-26,a78b7a6e-3a87-57ed-579e-f0aa516cf4f7,14a331fb-7e40-a473-856e-392edd9f90bc,467645007,Continuous positive airway pressure nasal oxygen cannula (physical object),1
+2012-10-26,a78b7a6e-3a87-57ed-579e-f0aa516cf4f7,14a331fb-7e40-a473-856e-392edd9f90bc,972002,Air filter  device (physical object),5
+2012-10-26,a78b7a6e-3a87-57ed-579e-f0aa516cf4f7,14a331fb-7e40-a473-856e-392edd9f90bc,463659001,Medical air low pressure tubing (physical object),1
+2012-10-26,a78b7a6e-3a87-57ed-579e-f0aa516cf4f7,14a331fb-7e40-a473-856e-392edd9f90bc,706226000,Continuous positive airway pressure/Bilevel positive airway pressure mask (physical object),1
+2012-11-09,a78b7a6e-3a87-57ed-579e-f0aa516cf4f7,e9e87c3a-bbf3-9e29-ad23-e2990ea19719,467645007,Continuous positive airway pressure nasal oxygen cannula (physical object),1
+2012-11-09,a78b7a6e-3a87-57ed-579e-f0aa516cf4f7,e9e87c3a-bbf3-9e29-ad23-e2990ea19719,972002,Air filter  device (physical object),5
+2012-11-09,a78b7a6e-3a87-57ed-579e-f0aa516cf4f7,e9e87c3a-bbf3-9e29-ad23-e2990ea19719,463659001,Medical air low pressure tubing (physical object),1
+2012-11-09,a78b7a6e-3a87-57ed-579e-f0aa516cf4f7,e9e87c3a-bbf3-9e29-ad23-e2990ea19719,706226000,Continuous positive airway pressure/Bilevel positive airway pressure mask (physical object),1
+2012-11-23,a78b7a6e-3a87-57ed-579e-f0aa516cf4f7,61ec0a20-0443-fe11-519c-5dc1d8e58081,704718009,CPAP/BPAP oral mask (physical object),1
+2012-11-23,a78b7a6e-3a87-57ed-579e-f0aa516cf4f7,61ec0a20-0443-fe11-519c-5dc1d8e58081,972002,Air filter  device (physical object),5
+2012-11-23,a78b7a6e-3a87-57ed-579e-f0aa516cf4f7,61ec0a20-0443-fe11-519c-5dc1d8e58081,463659001,Medical air low pressure tubing (physical object),1
+2012-11-23,a78b7a6e-3a87-57ed-579e-f0aa516cf4f7,61ec0a20-0443-fe11-519c-5dc1d8e58081,706226000,Continuous positive airway pressure/Bilevel positive airway pressure mask (physical object),1
+2012-12-07,a78b7a6e-3a87-57ed-579e-f0aa516cf4f7,7560426f-9c40-c1e2-1b3f-387d360ff5ea,704718009,CPAP/BPAP oral mask (physical object),1
+2012-12-07,a78b7a6e-3a87-57ed-579e-f0aa516cf4f7,7560426f-9c40-c1e2-1b3f-387d360ff5ea,972002,Air filter  device (physical object),5
+2012-12-07,a78b7a6e-3a87-57ed-579e-f0aa516cf4f7,7560426f-9c40-c1e2-1b3f-387d360ff5ea,463659001,Medical air low pressure tubing (physical object),1
+2012-12-07,a78b7a6e-3a87-57ed-579e-f0aa516cf4f7,7560426f-9c40-c1e2-1b3f-387d360ff5ea,706226000,Continuous positive airway pressure/Bilevel positive airway pressure mask (physical object),1
+2012-12-21,a78b7a6e-3a87-57ed-579e-f0aa516cf4f7,a9ffb5fe-8213-fd33-2b89-51080b2bc0c9,467645007,Continuous positive airway pressure nasal oxygen cannula (physical object),1
+2012-12-21,a78b7a6e-3a87-57ed-579e-f0aa516cf4f7,a9ffb5fe-8213-fd33-2b89-51080b2bc0c9,972002,Air filter  device (physical object),5
+2012-12-21,a78b7a6e-3a87-57ed-579e-f0aa516cf4f7,a9ffb5fe-8213-fd33-2b89-51080b2bc0c9,463659001,Medical air low pressure tubing (physical object),1
+2012-12-21,a78b7a6e-3a87-57ed-579e-f0aa516cf4f7,a9ffb5fe-8213-fd33-2b89-51080b2bc0c9,706226000,Continuous positive airway pressure/Bilevel positive airway pressure mask (physical object),1
+2013-02-08,a78b7a6e-3a87-57ed-579e-f0aa516cf4f7,2116030c-aa6b-3cab-3eec-351f2b7ca4ff,704718009,CPAP/BPAP oral mask (physical object),1
+2013-02-08,a78b7a6e-3a87-57ed-579e-f0aa516cf4f7,2116030c-aa6b-3cab-3eec-351f2b7ca4ff,972002,Air filter  device (physical object),5
+2013-02-08,a78b7a6e-3a87-57ed-579e-f0aa516cf4f7,2116030c-aa6b-3cab-3eec-351f2b7ca4ff,463659001,Medical air low pressure tubing (physical object),1
+2013-02-08,a78b7a6e-3a87-57ed-579e-f0aa516cf4f7,2116030c-aa6b-3cab-3eec-351f2b7ca4ff,706226000,Continuous positive airway pressure/Bilevel positive airway pressure mask (physical object),1
+2013-03-08,a78b7a6e-3a87-57ed-579e-f0aa516cf4f7,2febda51-2804-37d0-cf56-c9d7303e84f0,467645007,Continuous positive airway pressure nasal oxygen cannula (physical object),1
+2013-03-08,a78b7a6e-3a87-57ed-579e-f0aa516cf4f7,2febda51-2804-37d0-cf56-c9d7303e84f0,972002,Air filter  device (physical object),5
+2013-03-08,a78b7a6e-3a87-57ed-579e-f0aa516cf4f7,2febda51-2804-37d0-cf56-c9d7303e84f0,463659001,Medical air low pressure tubing (physical object),1
+2013-03-08,a78b7a6e-3a87-57ed-579e-f0aa516cf4f7,2febda51-2804-37d0-cf56-c9d7303e84f0,706226000,Continuous positive airway pressure/Bilevel positive airway pressure mask (physical object),1
+2013-05-10,a78b7a6e-3a87-57ed-579e-f0aa516cf4f7,65c9ede2-8a20-bf48-8035-97e2467af661,704718009,CPAP/BPAP oral mask (physical object),1
+2013-05-10,a78b7a6e-3a87-57ed-579e-f0aa516cf4f7,65c9ede2-8a20-bf48-8035-97e2467af661,972002,Air filter  device (physical object),5
+2013-05-10,a78b7a6e-3a87-57ed-579e-f0aa516cf4f7,65c9ede2-8a20-bf48-8035-97e2467af661,463659001,Medical air low pressure tubing (physical object),1
+2013-05-10,a78b7a6e-3a87-57ed-579e-f0aa516cf4f7,65c9ede2-8a20-bf48-8035-97e2467af661,706226000,Continuous positive airway pressure/Bilevel positive airway pressure mask (physical object),1
+2013-08-09,a78b7a6e-3a87-57ed-579e-f0aa516cf4f7,7c447fe8-7b49-98ca-508d-40c062e1d437,467645007,Continuous positive airway pressure nasal oxygen cannula (physical object),1
+2013-08-09,a78b7a6e-3a87-57ed-579e-f0aa516cf4f7,7c447fe8-7b49-98ca-508d-40c062e1d437,972002,Air filter  device (physical object),5
+2013-08-09,a78b7a6e-3a87-57ed-579e-f0aa516cf4f7,7c447fe8-7b49-98ca-508d-40c062e1d437,463659001,Medical air low pressure tubing (physical object),1
+2013-08-09,a78b7a6e-3a87-57ed-579e-f0aa516cf4f7,7c447fe8-7b49-98ca-508d-40c062e1d437,706226000,Continuous positive airway pressure/Bilevel positive airway pressure mask (physical object),1
+2013-11-01,a78b7a6e-3a87-57ed-579e-f0aa516cf4f7,b38f7f07-17f2-0e4c-5bd4-f61579b2e264,704718009,CPAP/BPAP oral mask (physical object),1
+2013-11-01,a78b7a6e-3a87-57ed-579e-f0aa516cf4f7,b38f7f07-17f2-0e4c-5bd4-f61579b2e264,972002,Air filter  device (physical object),5
+2013-11-01,a78b7a6e-3a87-57ed-579e-f0aa516cf4f7,b38f7f07-17f2-0e4c-5bd4-f61579b2e264,463659001,Medical air low pressure tubing (physical object),1
+2013-11-01,a78b7a6e-3a87-57ed-579e-f0aa516cf4f7,b38f7f07-17f2-0e4c-5bd4-f61579b2e264,706226000,Continuous positive airway pressure/Bilevel positive airway pressure mask (physical object),1
+2003-06-13,50f82177-4bd4-c148-3c0c-e3da50f62634,e48b4459-d3f8-52d8-4fb9-309c2091de58,337388004,Blood glucose testing strips (physical object),50
+2007-06-22,50f82177-4bd4-c148-3c0c-e3da50f62634,8034e8a8-fa9d-4491-3074-068316c8564f,337388004,Blood glucose testing strips (physical object),50
+2007-06-22,50f82177-4bd4-c148-3c0c-e3da50f62634,8034e8a8-fa9d-4491-3074-068316c8564f,1137596000,Blood lancet (physical object),100
+2008-06-27,50f82177-4bd4-c148-3c0c-e3da50f62634,5a479b5b-a299-7e9f-c362-431b08a5317d,337388004,Blood glucose testing strips (physical object),50
+2008-06-27,50f82177-4bd4-c148-3c0c-e3da50f62634,5a479b5b-a299-7e9f-c362-431b08a5317d,337388004,Blood glucose testing strips (physical object),50
+2008-06-27,50f82177-4bd4-c148-3c0c-e3da50f62634,5a479b5b-a299-7e9f-c362-431b08a5317d,1137596000,Blood lancet (physical object),100
+2010-07-09,50f82177-4bd4-c148-3c0c-e3da50f62634,02f595f9-c9dc-2dbd-683d-98fb65067431,337388004,Blood glucose testing strips (physical object),50
+2012-07-20,50f82177-4bd4-c148-3c0c-e3da50f62634,6b5edd34-9f3b-f0de-f485-d93ce55831dc,337388004,Blood glucose testing strips (physical object),50
+2013-07-26,50f82177-4bd4-c148-3c0c-e3da50f62634,ff942488-65d3-543f-9cc1-444467ffac67,337388004,Blood glucose testing strips (physical object),50
+2014-08-01,50f82177-4bd4-c148-3c0c-e3da50f62634,c55e1fac-54c7-15d2-ff4c-2f4b72d0f6d1,337388004,Blood glucose testing strips (physical object),50
+2015-08-07,50f82177-4bd4-c148-3c0c-e3da50f62634,ef3ed39f-27b5-3761-b594-c6906f8c7437,337388004,Blood glucose testing strips (physical object),50
+2016-08-12,50f82177-4bd4-c148-3c0c-e3da50f62634,ca23bcc2-189f-f586-272a-050fed97c08f,337388004,Blood glucose testing strips (physical object),50
+2017-08-18,50f82177-4bd4-c148-3c0c-e3da50f62634,acdb1478-90a5-2a99-1129-4d45916b278b,337388004,Blood glucose testing strips (physical object),50
+2019-08-30,50f82177-4bd4-c148-3c0c-e3da50f62634,762ce767-00b0-3a6d-dae8-6308cc2b80ef,337388004,Blood glucose testing strips (physical object),50
+2019-08-30,50f82177-4bd4-c148-3c0c-e3da50f62634,762ce767-00b0-3a6d-dae8-6308cc2b80ef,1137596000,Blood lancet (physical object),100
+2020-09-04,50f82177-4bd4-c148-3c0c-e3da50f62634,8ccad8fe-4580-0975-b7b7-037260ffc45b,337388004,Blood glucose testing strips (physical object),50
+2021-09-10,50f82177-4bd4-c148-3c0c-e3da50f62634,0b1828e8-1e10-fa1a-70e5-625bba744621,337388004,Blood glucose testing strips (physical object),50
+2021-09-10,50f82177-4bd4-c148-3c0c-e3da50f62634,0b1828e8-1e10-fa1a-70e5-625bba744621,337388004,Blood glucose testing strips (physical object),50
+2022-09-16,50f82177-4bd4-c148-3c0c-e3da50f62634,4fe2ee1f-a7d0-9a2c-45e6-7fdc000e2370,337388004,Blood glucose testing strips (physical object),50
+2023-09-22,50f82177-4bd4-c148-3c0c-e3da50f62634,48710aa7-0fbb-6886-9fe4-9af1379e80ab,337388004,Blood glucose testing strips (physical object),50
+2023-09-22,50f82177-4bd4-c148-3c0c-e3da50f62634,48710aa7-0fbb-6886-9fe4-9af1379e80ab,1137596000,Blood lancet (physical object),100
+2020-07-25,39c1bf04-de5c-8b90-0424-0057a74af800,f863e879-5700-97d8-2a74-7dd4fce1bd6c,337388004,Blood glucose testing strips (physical object),50
+2023-07-29,39c1bf04-de5c-8b90-0424-0057a74af800,afa04228-739f-f073-4ecd-68d9ba8982e0,337388004,Blood glucose testing strips (physical object),50
+2023-07-29,39c1bf04-de5c-8b90-0424-0057a74af800,afa04228-739f-f073-4ecd-68d9ba8982e0,1137596000,Blood lancet (physical object),100
+2023-07-29,39c1bf04-de5c-8b90-0424-0057a74af800,afa04228-739f-f073-4ecd-68d9ba8982e0,8537005,Solution (substance),100
+1997-07-26,596027dd-1a91-6401-a0e5-d50f072ef028,5308b5bf-184d-d45a-036f-e484094c074a,337388004,Blood glucose testing strips (physical object),50
+2001-04-21,596027dd-1a91-6401-a0e5-d50f072ef028,27dfea3b-1226-a6ff-e9e2-dfa2521c5821,337388004,Blood glucose testing strips (physical object),50
+2001-04-21,596027dd-1a91-6401-a0e5-d50f072ef028,27dfea3b-1226-a6ff-e9e2-dfa2521c5821,1137596000,Blood lancet (physical object),100
+2012-08-11,596027dd-1a91-6401-a0e5-d50f072ef028,11622649-4473-2e2a-1729-811cf2b7ca75,337388004,Blood glucose testing strips (physical object),50
+2015-05-30,596027dd-1a91-6401-a0e5-d50f072ef028,5f877699-6a6b-29d9-648d-bef75444908e,337388004,Blood glucose testing strips (physical object),50
+2015-05-30,596027dd-1a91-6401-a0e5-d50f072ef028,5f877699-6a6b-29d9-648d-bef75444908e,1137596000,Blood lancet (physical object),100
+2017-06-03,596027dd-1a91-6401-a0e5-d50f072ef028,de269972-a3ce-62de-3e13-3efd8f3ffe69,337388004,Blood glucose testing strips (physical object),50
+2019-06-08,596027dd-1a91-6401-a0e5-d50f072ef028,f946d348-14b1-2ea2-f704-a6f3b4489f5f,337388004,Blood glucose testing strips (physical object),50
+2019-06-08,596027dd-1a91-6401-a0e5-d50f072ef028,f946d348-14b1-2ea2-f704-a6f3b4489f5f,1137596000,Blood lancet (physical object),100
+2021-06-12,596027dd-1a91-6401-a0e5-d50f072ef028,04cd737f-3ff6-90e9-cb76-a868ee53f997,337388004,Blood glucose testing strips (physical object),50
+2013-10-27,1829a00a-e784-ba22-509a-f955936b1a6e,591b69c7-5ad5-dc96-b87d-3bdcd4200042,337388004,Blood glucose testing strips (physical object),50
+2015-11-01,1829a00a-e784-ba22-509a-f955936b1a6e,3d529a89-a117-2503-822e-f3709009be4b,337388004,Blood glucose testing strips (physical object),50
+2017-11-05,1829a00a-e784-ba22-509a-f955936b1a6e,7f754e35-4dfa-2e8c-c1e8-59d1b8e6c28d,337388004,Blood glucose testing strips (physical object),50
+2019-04-14,1829a00a-e784-ba22-509a-f955936b1a6e,3c526dde-5c57-58fb-a8fd-697b1296c45b,1137596000,Blood lancet (physical object),100
+2019-11-10,1829a00a-e784-ba22-509a-f955936b1a6e,28c6627a-5c14-2765-4a64-437667b2a249,337388004,Blood glucose testing strips (physical object),50
+2021-11-14,1829a00a-e784-ba22-509a-f955936b1a6e,091d8dc0-0771-01ae-cb4f-0e2a74c2b90e,337388004,Blood glucose testing strips (physical object),50
+2021-11-14,1829a00a-e784-ba22-509a-f955936b1a6e,091d8dc0-0771-01ae-cb4f-0e2a74c2b90e,1137596000,Blood lancet (physical object),100
+2023-10-22,1829a00a-e784-ba22-509a-f955936b1a6e,4da141e0-1b49-f86f-909b-51bd9340cf89,337388004,Blood glucose testing strips (physical object),50
+1965-09-25,aa9eabaa-c5bc-f66e-9964-c661dc42f756,9b30c376-5757-b512-d198-3c7b814adb76,1137596000,Blood lancet (physical object),100
+1980-07-26,aa9eabaa-c5bc-f66e-9964-c661dc42f756,8c2c20e4-d321-c5f3-f9a5-e875cbea8d73,337388004,Blood glucose testing strips (physical object),50
+1981-08-01,aa9eabaa-c5bc-f66e-9964-c661dc42f756,02448541-9ddf-c94d-c24a-af08a56d0571,337388004,Blood glucose testing strips (physical object),50
+1981-08-01,aa9eabaa-c5bc-f66e-9964-c661dc42f756,02448541-9ddf-c94d-c24a-af08a56d0571,1137596000,Blood lancet (physical object),100
+1992-10-03,aa9eabaa-c5bc-f66e-9964-c661dc42f756,8c3cc7b4-15ae-fd9b-af9b-1076d65cdadf,1137596000,Blood lancet (physical object),100
+1996-08-01,aa9eabaa-c5bc-f66e-9964-c661dc42f756,eb97a55d-95c4-41d0-93b2-79591caaaae4,467645007,Continuous positive airway pressure nasal oxygen cannula (physical object),1
+1996-08-01,aa9eabaa-c5bc-f66e-9964-c661dc42f756,eb97a55d-95c4-41d0-93b2-79591caaaae4,972002,Air filter  device (physical object),5
+1996-08-01,aa9eabaa-c5bc-f66e-9964-c661dc42f756,eb97a55d-95c4-41d0-93b2-79591caaaae4,463659001,Medical air low pressure tubing (physical object),1
+1996-08-01,aa9eabaa-c5bc-f66e-9964-c661dc42f756,eb97a55d-95c4-41d0-93b2-79591caaaae4,706226000,Continuous positive airway pressure/Bilevel positive airway pressure mask (physical object),1
+1996-10-26,aa9eabaa-c5bc-f66e-9964-c661dc42f756,4098d7b9-ed9f-0acc-54f5-517f9fd776aa,704718009,CPAP/BPAP oral mask (physical object),1
+1996-10-26,aa9eabaa-c5bc-f66e-9964-c661dc42f756,4098d7b9-ed9f-0acc-54f5-517f9fd776aa,972002,Air filter  device (physical object),5
+1996-10-26,aa9eabaa-c5bc-f66e-9964-c661dc42f756,4098d7b9-ed9f-0acc-54f5-517f9fd776aa,463659001,Medical air low pressure tubing (physical object),1
+1996-10-26,aa9eabaa-c5bc-f66e-9964-c661dc42f756,4098d7b9-ed9f-0acc-54f5-517f9fd776aa,706226000,Continuous positive airway pressure/Bilevel positive airway pressure mask (physical object),1
+1999-04-24,aa9eabaa-c5bc-f66e-9964-c661dc42f756,f7f831d3-31a0-0a4b-c44a-525e3af95061,467645007,Continuous positive airway pressure nasal oxygen cannula (physical object),1
+1999-04-24,aa9eabaa-c5bc-f66e-9964-c661dc42f756,f7f831d3-31a0-0a4b-c44a-525e3af95061,972002,Air filter  device (physical object),5
+1999-04-24,aa9eabaa-c5bc-f66e-9964-c661dc42f756,f7f831d3-31a0-0a4b-c44a-525e3af95061,463659001,Medical air low pressure tubing (physical object),1
+1999-04-24,aa9eabaa-c5bc-f66e-9964-c661dc42f756,f7f831d3-31a0-0a4b-c44a-525e3af95061,706226000,Continuous positive airway pressure/Bilevel positive airway pressure mask (physical object),1
+1999-11-13,aa9eabaa-c5bc-f66e-9964-c661dc42f756,aaba2772-03ff-aac6-328e-bb78242313b5,704718009,CPAP/BPAP oral mask (physical object),1
+1999-11-13,aa9eabaa-c5bc-f66e-9964-c661dc42f756,aaba2772-03ff-aac6-328e-bb78242313b5,972002,Air filter  device (physical object),5
+1999-11-13,aa9eabaa-c5bc-f66e-9964-c661dc42f756,aaba2772-03ff-aac6-328e-bb78242313b5,463659001,Medical air low pressure tubing (physical object),1
+1999-11-13,aa9eabaa-c5bc-f66e-9964-c661dc42f756,aaba2772-03ff-aac6-328e-bb78242313b5,706226000,Continuous positive airway pressure/Bilevel positive airway pressure mask (physical object),1
+2000-11-11,aa9eabaa-c5bc-f66e-9964-c661dc42f756,76389381-898c-08e3-0bdf-25cdc1fbbc42,467645007,Continuous positive airway pressure nasal oxygen cannula (physical object),1
+2000-11-11,aa9eabaa-c5bc-f66e-9964-c661dc42f756,76389381-898c-08e3-0bdf-25cdc1fbbc42,972002,Air filter  device (physical object),5
+2000-11-11,aa9eabaa-c5bc-f66e-9964-c661dc42f756,76389381-898c-08e3-0bdf-25cdc1fbbc42,463659001,Medical air low pressure tubing (physical object),1
+2000-11-11,aa9eabaa-c5bc-f66e-9964-c661dc42f756,76389381-898c-08e3-0bdf-25cdc1fbbc42,706226000,Continuous positive airway pressure/Bilevel positive airway pressure mask (physical object),1
+2000-11-25,aa9eabaa-c5bc-f66e-9964-c661dc42f756,2abaa914-22dc-4b9c-b123-048e7c07e35c,467645007,Continuous positive airway pressure nasal oxygen cannula (physical object),1
+2000-11-25,aa9eabaa-c5bc-f66e-9964-c661dc42f756,2abaa914-22dc-4b9c-b123-048e7c07e35c,972002,Air filter  device (physical object),5
+2000-11-25,aa9eabaa-c5bc-f66e-9964-c661dc42f756,2abaa914-22dc-4b9c-b123-048e7c07e35c,463659001,Medical air low pressure tubing (physical object),1
+2000-11-25,aa9eabaa-c5bc-f66e-9964-c661dc42f756,2abaa914-22dc-4b9c-b123-048e7c07e35c,706226000,Continuous positive airway pressure/Bilevel positive airway pressure mask (physical object),1
+2000-12-16,aa9eabaa-c5bc-f66e-9964-c661dc42f756,148f0e28-829a-a2e0-64c8-3cc4def2d161,467645007,Continuous positive airway pressure nasal oxygen cannula (physical object),1
+2000-12-16,aa9eabaa-c5bc-f66e-9964-c661dc42f756,148f0e28-829a-a2e0-64c8-3cc4def2d161,972002,Air filter  device (physical object),5
+2000-12-16,aa9eabaa-c5bc-f66e-9964-c661dc42f756,148f0e28-829a-a2e0-64c8-3cc4def2d161,463659001,Medical air low pressure tubing (physical object),1
+2000-12-16,aa9eabaa-c5bc-f66e-9964-c661dc42f756,148f0e28-829a-a2e0-64c8-3cc4def2d161,706226000,Continuous positive airway pressure/Bilevel positive airway pressure mask (physical object),1
+2001-07-14,aa9eabaa-c5bc-f66e-9964-c661dc42f756,fce4e0cd-cb17-5b28-eb3b-d39a083c9bcb,704718009,CPAP/BPAP oral mask (physical object),1
+2001-07-14,aa9eabaa-c5bc-f66e-9964-c661dc42f756,fce4e0cd-cb17-5b28-eb3b-d39a083c9bcb,972002,Air filter  device (physical object),5
+2001-07-14,aa9eabaa-c5bc-f66e-9964-c661dc42f756,fce4e0cd-cb17-5b28-eb3b-d39a083c9bcb,463659001,Medical air low pressure tubing (physical object),1
+2001-07-14,aa9eabaa-c5bc-f66e-9964-c661dc42f756,fce4e0cd-cb17-5b28-eb3b-d39a083c9bcb,706226000,Continuous positive airway pressure/Bilevel positive airway pressure mask (physical object),1
+2001-11-24,aa9eabaa-c5bc-f66e-9964-c661dc42f756,90e72386-e4fc-f0b6-3f0f-652f7bd0c1f4,704718009,CPAP/BPAP oral mask (physical object),1
+2001-11-24,aa9eabaa-c5bc-f66e-9964-c661dc42f756,90e72386-e4fc-f0b6-3f0f-652f7bd0c1f4,972002,Air filter  device (physical object),5
+2001-11-24,aa9eabaa-c5bc-f66e-9964-c661dc42f756,90e72386-e4fc-f0b6-3f0f-652f7bd0c1f4,463659001,Medical air low pressure tubing (physical object),1
+2001-11-24,aa9eabaa-c5bc-f66e-9964-c661dc42f756,90e72386-e4fc-f0b6-3f0f-652f7bd0c1f4,706226000,Continuous positive airway pressure/Bilevel positive airway pressure mask (physical object),1
+2002-10-05,aa9eabaa-c5bc-f66e-9964-c661dc42f756,cb9e4239-008d-cdda-51d8-1828ea84eae6,704718009,CPAP/BPAP oral mask (physical object),1
+2002-10-05,aa9eabaa-c5bc-f66e-9964-c661dc42f756,cb9e4239-008d-cdda-51d8-1828ea84eae6,972002,Air filter  device (physical object),5
+2002-10-05,aa9eabaa-c5bc-f66e-9964-c661dc42f756,cb9e4239-008d-cdda-51d8-1828ea84eae6,463659001,Medical air low pressure tubing (physical object),1
+2002-10-05,aa9eabaa-c5bc-f66e-9964-c661dc42f756,cb9e4239-008d-cdda-51d8-1828ea84eae6,706226000,Continuous positive airway pressure/Bilevel positive airway pressure mask (physical object),1
+2002-11-30,aa9eabaa-c5bc-f66e-9964-c661dc42f756,1b1f803b-f82f-10a5-fba5-bca7416280e7,467645007,Continuous positive airway pressure nasal oxygen cannula (physical object),1
+2002-11-30,aa9eabaa-c5bc-f66e-9964-c661dc42f756,1b1f803b-f82f-10a5-fba5-bca7416280e7,972002,Air filter  device (physical object),5
+2002-11-30,aa9eabaa-c5bc-f66e-9964-c661dc42f756,1b1f803b-f82f-10a5-fba5-bca7416280e7,463659001,Medical air low pressure tubing (physical object),1
+2002-11-30,aa9eabaa-c5bc-f66e-9964-c661dc42f756,1b1f803b-f82f-10a5-fba5-bca7416280e7,706226000,Continuous positive airway pressure/Bilevel positive airway pressure mask (physical object),1
+2003-01-04,aa9eabaa-c5bc-f66e-9964-c661dc42f756,1f2b1bd7-2eaf-b7bd-56ab-5da2566c431b,467645007,Continuous positive airway pressure nasal oxygen cannula (physical object),1
+2003-01-04,aa9eabaa-c5bc-f66e-9964-c661dc42f756,1f2b1bd7-2eaf-b7bd-56ab-5da2566c431b,972002,Air filter  device (physical object),5
+2003-01-04,aa9eabaa-c5bc-f66e-9964-c661dc42f756,1f2b1bd7-2eaf-b7bd-56ab-5da2566c431b,463659001,Medical air low pressure tubing (physical object),1
+2003-01-04,aa9eabaa-c5bc-f66e-9964-c661dc42f756,1f2b1bd7-2eaf-b7bd-56ab-5da2566c431b,706226000,Continuous positive airway pressure/Bilevel positive airway pressure mask (physical object),1
+2003-11-01,aa9eabaa-c5bc-f66e-9964-c661dc42f756,9be47f04-8d13-893b-68db-8565ac619387,467645007,Continuous positive airway pressure nasal oxygen cannula (physical object),1
+2003-11-01,aa9eabaa-c5bc-f66e-9964-c661dc42f756,9be47f04-8d13-893b-68db-8565ac619387,972002,Air filter  device (physical object),5
+2003-11-01,aa9eabaa-c5bc-f66e-9964-c661dc42f756,9be47f04-8d13-893b-68db-8565ac619387,463659001,Medical air low pressure tubing (physical object),1
+2003-11-01,aa9eabaa-c5bc-f66e-9964-c661dc42f756,9be47f04-8d13-893b-68db-8565ac619387,706226000,Continuous positive airway pressure/Bilevel positive airway pressure mask (physical object),1
+2003-12-06,aa9eabaa-c5bc-f66e-9964-c661dc42f756,957740f4-478e-6056-ebc0-860539021df7,467645007,Continuous positive airway pressure nasal oxygen cannula (physical object),1
+2003-12-06,aa9eabaa-c5bc-f66e-9964-c661dc42f756,957740f4-478e-6056-ebc0-860539021df7,972002,Air filter  device (physical object),5
+2003-12-06,aa9eabaa-c5bc-f66e-9964-c661dc42f756,957740f4-478e-6056-ebc0-860539021df7,463659001,Medical air low pressure tubing (physical object),1
+2003-12-06,aa9eabaa-c5bc-f66e-9964-c661dc42f756,957740f4-478e-6056-ebc0-860539021df7,706226000,Continuous positive airway pressure/Bilevel positive airway pressure mask (physical object),1
+2004-01-10,aa9eabaa-c5bc-f66e-9964-c661dc42f756,9c2e42ba-ca0e-b886-66e6-7575b565a08f,467645007,Continuous positive airway pressure nasal oxygen cannula (physical object),1
+2004-01-10,aa9eabaa-c5bc-f66e-9964-c661dc42f756,9c2e42ba-ca0e-b886-66e6-7575b565a08f,972002,Air filter  device (physical object),5
+2004-01-10,aa9eabaa-c5bc-f66e-9964-c661dc42f756,9c2e42ba-ca0e-b886-66e6-7575b565a08f,463659001,Medical air low pressure tubing (physical object),1
+2004-01-10,aa9eabaa-c5bc-f66e-9964-c661dc42f756,9c2e42ba-ca0e-b886-66e6-7575b565a08f,706226000,Continuous positive airway pressure/Bilevel positive airway pressure mask (physical object),1
+2004-01-24,aa9eabaa-c5bc-f66e-9964-c661dc42f756,9b89d3fa-5d92-ef56-4508-ee2a21220b6e,704718009,CPAP/BPAP oral mask (physical object),1
+2004-01-24,aa9eabaa-c5bc-f66e-9964-c661dc42f756,9b89d3fa-5d92-ef56-4508-ee2a21220b6e,972002,Air filter  device (physical object),5
+2004-01-24,aa9eabaa-c5bc-f66e-9964-c661dc42f756,9b89d3fa-5d92-ef56-4508-ee2a21220b6e,463659001,Medical air low pressure tubing (physical object),1
+2004-01-24,aa9eabaa-c5bc-f66e-9964-c661dc42f756,9b89d3fa-5d92-ef56-4508-ee2a21220b6e,706226000,Continuous positive airway pressure/Bilevel positive airway pressure mask (physical object),1
+2004-02-07,aa9eabaa-c5bc-f66e-9964-c661dc42f756,a4277012-51a2-fd12-a5cf-568598ff117e,704718009,CPAP/BPAP oral mask (physical object),1
+2004-02-07,aa9eabaa-c5bc-f66e-9964-c661dc42f756,a4277012-51a2-fd12-a5cf-568598ff117e,972002,Air filter  device (physical object),5
+2004-02-07,aa9eabaa-c5bc-f66e-9964-c661dc42f756,a4277012-51a2-fd12-a5cf-568598ff117e,463659001,Medical air low pressure tubing (physical object),1
+2004-02-07,aa9eabaa-c5bc-f66e-9964-c661dc42f756,a4277012-51a2-fd12-a5cf-568598ff117e,706226000,Continuous positive airway pressure/Bilevel positive airway pressure mask (physical object),1
+2004-03-06,aa9eabaa-c5bc-f66e-9964-c661dc42f756,4251da70-be1f-7e67-d799-0e8d0caf19cc,704718009,CPAP/BPAP oral mask (physical object),1
+2004-03-06,aa9eabaa-c5bc-f66e-9964-c661dc42f756,4251da70-be1f-7e67-d799-0e8d0caf19cc,972002,Air filter  device (physical object),5
+2004-03-06,aa9eabaa-c5bc-f66e-9964-c661dc42f756,4251da70-be1f-7e67-d799-0e8d0caf19cc,463659001,Medical air low pressure tubing (physical object),1
+2004-03-06,aa9eabaa-c5bc-f66e-9964-c661dc42f756,4251da70-be1f-7e67-d799-0e8d0caf19cc,706226000,Continuous positive airway pressure/Bilevel positive airway pressure mask (physical object),1
+2004-09-25,aa9eabaa-c5bc-f66e-9964-c661dc42f756,23d39a90-ba56-61a0-d2d4-126c73892fee,467645007,Continuous positive airway pressure nasal oxygen cannula (physical object),1
+2004-09-25,aa9eabaa-c5bc-f66e-9964-c661dc42f756,23d39a90-ba56-61a0-d2d4-126c73892fee,972002,Air filter  device (physical object),5
+2004-09-25,aa9eabaa-c5bc-f66e-9964-c661dc42f756,23d39a90-ba56-61a0-d2d4-126c73892fee,463659001,Medical air low pressure tubing (physical object),1
+2004-09-25,aa9eabaa-c5bc-f66e-9964-c661dc42f756,23d39a90-ba56-61a0-d2d4-126c73892fee,706226000,Continuous positive airway pressure/Bilevel positive airway pressure mask (physical object),1
+2004-10-23,aa9eabaa-c5bc-f66e-9964-c661dc42f756,a90cc991-464b-bd0c-7196-9e4e5df464c9,704718009,CPAP/BPAP oral mask (physical object),1
+2004-10-23,aa9eabaa-c5bc-f66e-9964-c661dc42f756,a90cc991-464b-bd0c-7196-9e4e5df464c9,972002,Air filter  device (physical object),5
+2004-10-23,aa9eabaa-c5bc-f66e-9964-c661dc42f756,a90cc991-464b-bd0c-7196-9e4e5df464c9,463659001,Medical air low pressure tubing (physical object),1
+2004-10-23,aa9eabaa-c5bc-f66e-9964-c661dc42f756,a90cc991-464b-bd0c-7196-9e4e5df464c9,706226000,Continuous positive airway pressure/Bilevel positive airway pressure mask (physical object),1
+2004-12-11,aa9eabaa-c5bc-f66e-9964-c661dc42f756,c8b4df79-724e-ec63-eeb8-c8450cf7f3c3,467645007,Continuous positive airway pressure nasal oxygen cannula (physical object),1
+2004-12-11,aa9eabaa-c5bc-f66e-9964-c661dc42f756,c8b4df79-724e-ec63-eeb8-c8450cf7f3c3,972002,Air filter  device (physical object),5
+2004-12-11,aa9eabaa-c5bc-f66e-9964-c661dc42f756,c8b4df79-724e-ec63-eeb8-c8450cf7f3c3,463659001,Medical air low pressure tubing (physical object),1
+2004-12-11,aa9eabaa-c5bc-f66e-9964-c661dc42f756,c8b4df79-724e-ec63-eeb8-c8450cf7f3c3,706226000,Continuous positive airway pressure/Bilevel positive airway pressure mask (physical object),1
+2005-02-19,aa9eabaa-c5bc-f66e-9964-c661dc42f756,01cf727f-b601-9c2a-b44c-93e83b0db15f,467645007,Continuous positive airway pressure nasal oxygen cannula (physical object),1
+2005-02-19,aa9eabaa-c5bc-f66e-9964-c661dc42f756,01cf727f-b601-9c2a-b44c-93e83b0db15f,972002,Air filter  device (physical object),5
+2005-02-19,aa9eabaa-c5bc-f66e-9964-c661dc42f756,01cf727f-b601-9c2a-b44c-93e83b0db15f,463659001,Medical air low pressure tubing (physical object),1
+2005-02-19,aa9eabaa-c5bc-f66e-9964-c661dc42f756,01cf727f-b601-9c2a-b44c-93e83b0db15f,706226000,Continuous positive airway pressure/Bilevel positive airway pressure mask (physical object),1
+2005-03-26,aa9eabaa-c5bc-f66e-9964-c661dc42f756,1e60cf0b-8e18-84f5-fb0d-be80265425d5,704718009,CPAP/BPAP oral mask (physical object),1
+2005-03-26,aa9eabaa-c5bc-f66e-9964-c661dc42f756,1e60cf0b-8e18-84f5-fb0d-be80265425d5,972002,Air filter  device (physical object),5
+2005-03-26,aa9eabaa-c5bc-f66e-9964-c661dc42f756,1e60cf0b-8e18-84f5-fb0d-be80265425d5,463659001,Medical air low pressure tubing (physical object),1
+2005-03-26,aa9eabaa-c5bc-f66e-9964-c661dc42f756,1e60cf0b-8e18-84f5-fb0d-be80265425d5,706226000,Continuous positive airway pressure/Bilevel positive airway pressure mask (physical object),1
+2005-08-27,aa9eabaa-c5bc-f66e-9964-c661dc42f756,f1760945-a792-b863-f256-6b06ed8b80b5,704718009,CPAP/BPAP oral mask (physical object),1
+2005-08-27,aa9eabaa-c5bc-f66e-9964-c661dc42f756,f1760945-a792-b863-f256-6b06ed8b80b5,972002,Air filter  device (physical object),5
+2005-08-27,aa9eabaa-c5bc-f66e-9964-c661dc42f756,f1760945-a792-b863-f256-6b06ed8b80b5,463659001,Medical air low pressure tubing (physical object),1
+2005-08-27,aa9eabaa-c5bc-f66e-9964-c661dc42f756,f1760945-a792-b863-f256-6b06ed8b80b5,706226000,Continuous positive airway pressure/Bilevel positive airway pressure mask (physical object),1
+2005-12-17,aa9eabaa-c5bc-f66e-9964-c661dc42f756,ab0c9529-d4bf-fee0-e85e-56da65cf7022,467645007,Continuous positive airway pressure nasal oxygen cannula (physical object),1
+2005-12-17,aa9eabaa-c5bc-f66e-9964-c661dc42f756,ab0c9529-d4bf-fee0-e85e-56da65cf7022,972002,Air filter  device (physical object),5
+2005-12-17,aa9eabaa-c5bc-f66e-9964-c661dc42f756,ab0c9529-d4bf-fee0-e85e-56da65cf7022,463659001,Medical air low pressure tubing (physical object),1
+2005-12-17,aa9eabaa-c5bc-f66e-9964-c661dc42f756,ab0c9529-d4bf-fee0-e85e-56da65cf7022,706226000,Continuous positive airway pressure/Bilevel positive airway pressure mask (physical object),1
+2006-03-18,aa9eabaa-c5bc-f66e-9964-c661dc42f756,51c1a43d-996c-6889-a102-08290ea473b7,704718009,CPAP/BPAP oral mask (physical object),1
+2006-03-18,aa9eabaa-c5bc-f66e-9964-c661dc42f756,51c1a43d-996c-6889-a102-08290ea473b7,972002,Air filter  device (physical object),5
+2006-03-18,aa9eabaa-c5bc-f66e-9964-c661dc42f756,51c1a43d-996c-6889-a102-08290ea473b7,463659001,Medical air low pressure tubing (physical object),1
+2006-03-18,aa9eabaa-c5bc-f66e-9964-c661dc42f756,51c1a43d-996c-6889-a102-08290ea473b7,706226000,Continuous positive airway pressure/Bilevel positive airway pressure mask (physical object),1
+2006-05-20,aa9eabaa-c5bc-f66e-9964-c661dc42f756,e248a37c-8872-8404-e518-34fa75f5325a,704718009,CPAP/BPAP oral mask (physical object),1
+2006-05-20,aa9eabaa-c5bc-f66e-9964-c661dc42f756,e248a37c-8872-8404-e518-34fa75f5325a,972002,Air filter  device (physical object),5
+2006-05-20,aa9eabaa-c5bc-f66e-9964-c661dc42f756,e248a37c-8872-8404-e518-34fa75f5325a,463659001,Medical air low pressure tubing (physical object),1
+2006-05-20,aa9eabaa-c5bc-f66e-9964-c661dc42f756,e248a37c-8872-8404-e518-34fa75f5325a,706226000,Continuous positive airway pressure/Bilevel positive airway pressure mask (physical object),1
+2006-06-17,aa9eabaa-c5bc-f66e-9964-c661dc42f756,58a6379c-481d-8d64-5eaf-4457d6b02c86,704718009,CPAP/BPAP oral mask (physical object),1
+2006-06-17,aa9eabaa-c5bc-f66e-9964-c661dc42f756,58a6379c-481d-8d64-5eaf-4457d6b02c86,972002,Air filter  device (physical object),5
+2006-06-17,aa9eabaa-c5bc-f66e-9964-c661dc42f756,58a6379c-481d-8d64-5eaf-4457d6b02c86,463659001,Medical air low pressure tubing (physical object),1
+2006-06-17,aa9eabaa-c5bc-f66e-9964-c661dc42f756,58a6379c-481d-8d64-5eaf-4457d6b02c86,706226000,Continuous positive airway pressure/Bilevel positive airway pressure mask (physical object),1
+2006-09-16,aa9eabaa-c5bc-f66e-9964-c661dc42f756,2c6f3bde-fdda-8550-ca24-32027873087e,467645007,Continuous positive airway pressure nasal oxygen cannula (physical object),1
+2006-09-16,aa9eabaa-c5bc-f66e-9964-c661dc42f756,2c6f3bde-fdda-8550-ca24-32027873087e,972002,Air filter  device (physical object),5
+2006-09-16,aa9eabaa-c5bc-f66e-9964-c661dc42f756,2c6f3bde-fdda-8550-ca24-32027873087e,463659001,Medical air low pressure tubing (physical object),1
+2006-09-16,aa9eabaa-c5bc-f66e-9964-c661dc42f756,2c6f3bde-fdda-8550-ca24-32027873087e,706226000,Continuous positive airway pressure/Bilevel positive airway pressure mask (physical object),1
+2006-12-23,aa9eabaa-c5bc-f66e-9964-c661dc42f756,759197ce-db8c-ae00-1e20-7065de500962,467645007,Continuous positive airway pressure nasal oxygen cannula (physical object),1
+2006-12-23,aa9eabaa-c5bc-f66e-9964-c661dc42f756,759197ce-db8c-ae00-1e20-7065de500962,972002,Air filter  device (physical object),5
+2006-12-23,aa9eabaa-c5bc-f66e-9964-c661dc42f756,759197ce-db8c-ae00-1e20-7065de500962,463659001,Medical air low pressure tubing (physical object),1
+2006-12-23,aa9eabaa-c5bc-f66e-9964-c661dc42f756,759197ce-db8c-ae00-1e20-7065de500962,706226000,Continuous positive airway pressure/Bilevel positive airway pressure mask (physical object),1
+2007-02-10,aa9eabaa-c5bc-f66e-9964-c661dc42f756,1c07b7f7-acf7-5ab6-1103-2ec7cf4f7eed,467645007,Continuous positive airway pressure nasal oxygen cannula (physical object),1
+2007-02-10,aa9eabaa-c5bc-f66e-9964-c661dc42f756,1c07b7f7-acf7-5ab6-1103-2ec7cf4f7eed,972002,Air filter  device (physical object),5
+2007-02-10,aa9eabaa-c5bc-f66e-9964-c661dc42f756,1c07b7f7-acf7-5ab6-1103-2ec7cf4f7eed,463659001,Medical air low pressure tubing (physical object),1
+2007-02-10,aa9eabaa-c5bc-f66e-9964-c661dc42f756,1c07b7f7-acf7-5ab6-1103-2ec7cf4f7eed,706226000,Continuous positive airway pressure/Bilevel positive airway pressure mask (physical object),1
+2007-04-14,aa9eabaa-c5bc-f66e-9964-c661dc42f756,90fdb195-92a5-a1ce-ed29-e270255cbb69,704718009,CPAP/BPAP oral mask (physical object),1
+2007-04-14,aa9eabaa-c5bc-f66e-9964-c661dc42f756,90fdb195-92a5-a1ce-ed29-e270255cbb69,972002,Air filter  device (physical object),5
+2007-04-14,aa9eabaa-c5bc-f66e-9964-c661dc42f756,90fdb195-92a5-a1ce-ed29-e270255cbb69,463659001,Medical air low pressure tubing (physical object),1
+2007-04-14,aa9eabaa-c5bc-f66e-9964-c661dc42f756,90fdb195-92a5-a1ce-ed29-e270255cbb69,706226000,Continuous positive airway pressure/Bilevel positive airway pressure mask (physical object),1
+2007-06-09,aa9eabaa-c5bc-f66e-9964-c661dc42f756,f23b20e4-1496-b099-a3ba-301957ae0f52,467645007,Continuous positive airway pressure nasal oxygen cannula (physical object),1
+2007-06-09,aa9eabaa-c5bc-f66e-9964-c661dc42f756,f23b20e4-1496-b099-a3ba-301957ae0f52,972002,Air filter  device (physical object),5
+2007-06-09,aa9eabaa-c5bc-f66e-9964-c661dc42f756,f23b20e4-1496-b099-a3ba-301957ae0f52,463659001,Medical air low pressure tubing (physical object),1
+2007-06-09,aa9eabaa-c5bc-f66e-9964-c661dc42f756,f23b20e4-1496-b099-a3ba-301957ae0f52,706226000,Continuous positive airway pressure/Bilevel positive airway pressure mask (physical object),1
+2007-08-11,aa9eabaa-c5bc-f66e-9964-c661dc42f756,fc89bd13-0375-6ee7-a0a9-15b6c030f007,704718009,CPAP/BPAP oral mask (physical object),1
+2007-08-11,aa9eabaa-c5bc-f66e-9964-c661dc42f756,fc89bd13-0375-6ee7-a0a9-15b6c030f007,972002,Air filter  device (physical object),5
+2007-08-11,aa9eabaa-c5bc-f66e-9964-c661dc42f756,fc89bd13-0375-6ee7-a0a9-15b6c030f007,463659001,Medical air low pressure tubing (physical object),1
+2007-08-11,aa9eabaa-c5bc-f66e-9964-c661dc42f756,fc89bd13-0375-6ee7-a0a9-15b6c030f007,706226000,Continuous positive airway pressure/Bilevel positive airway pressure mask (physical object),1
+2007-09-08,aa9eabaa-c5bc-f66e-9964-c661dc42f756,752dc216-33d0-b52e-81ad-e7caef2fb39f,467645007,Continuous positive airway pressure nasal oxygen cannula (physical object),1
+2007-09-08,aa9eabaa-c5bc-f66e-9964-c661dc42f756,752dc216-33d0-b52e-81ad-e7caef2fb39f,972002,Air filter  device (physical object),5
+2007-09-08,aa9eabaa-c5bc-f66e-9964-c661dc42f756,752dc216-33d0-b52e-81ad-e7caef2fb39f,463659001,Medical air low pressure tubing (physical object),1
+2007-09-08,aa9eabaa-c5bc-f66e-9964-c661dc42f756,752dc216-33d0-b52e-81ad-e7caef2fb39f,706226000,Continuous positive airway pressure/Bilevel positive airway pressure mask (physical object),1
+2007-10-06,aa9eabaa-c5bc-f66e-9964-c661dc42f756,9ebceae1-2a9d-c00a-01e4-a26a36c7aa86,704718009,CPAP/BPAP oral mask (physical object),1
+2007-10-06,aa9eabaa-c5bc-f66e-9964-c661dc42f756,9ebceae1-2a9d-c00a-01e4-a26a36c7aa86,972002,Air filter  device (physical object),5
+2007-10-06,aa9eabaa-c5bc-f66e-9964-c661dc42f756,9ebceae1-2a9d-c00a-01e4-a26a36c7aa86,463659001,Medical air low pressure tubing (physical object),1
+2007-10-06,aa9eabaa-c5bc-f66e-9964-c661dc42f756,9ebceae1-2a9d-c00a-01e4-a26a36c7aa86,706226000,Continuous positive airway pressure/Bilevel positive airway pressure mask (physical object),1
+2007-11-10,aa9eabaa-c5bc-f66e-9964-c661dc42f756,1a79d4a2-c8b0-3d0c-4353-6f624954d05e,704718009,CPAP/BPAP oral mask (physical object),1
+2007-11-10,aa9eabaa-c5bc-f66e-9964-c661dc42f756,1a79d4a2-c8b0-3d0c-4353-6f624954d05e,972002,Air filter  device (physical object),5
+2007-11-10,aa9eabaa-c5bc-f66e-9964-c661dc42f756,1a79d4a2-c8b0-3d0c-4353-6f624954d05e,463659001,Medical air low pressure tubing (physical object),1
+2007-11-10,aa9eabaa-c5bc-f66e-9964-c661dc42f756,1a79d4a2-c8b0-3d0c-4353-6f624954d05e,706226000,Continuous positive airway pressure/Bilevel positive airway pressure mask (physical object),1
+2007-12-29,aa9eabaa-c5bc-f66e-9964-c661dc42f756,e5091826-67d6-b71b-6faa-618d38ac26f4,467645007,Continuous positive airway pressure nasal oxygen cannula (physical object),1
+2007-12-29,aa9eabaa-c5bc-f66e-9964-c661dc42f756,e5091826-67d6-b71b-6faa-618d38ac26f4,972002,Air filter  device (physical object),5
+2007-12-29,aa9eabaa-c5bc-f66e-9964-c661dc42f756,e5091826-67d6-b71b-6faa-618d38ac26f4,463659001,Medical air low pressure tubing (physical object),1
+2007-12-29,aa9eabaa-c5bc-f66e-9964-c661dc42f756,e5091826-67d6-b71b-6faa-618d38ac26f4,706226000,Continuous positive airway pressure/Bilevel positive airway pressure mask (physical object),1
+2008-03-08,aa9eabaa-c5bc-f66e-9964-c661dc42f756,80c545c0-f6a6-f844-31bb-c03d0cc22844,467645007,Continuous positive airway pressure nasal oxygen cannula (physical object),1
+2008-03-08,aa9eabaa-c5bc-f66e-9964-c661dc42f756,80c545c0-f6a6-f844-31bb-c03d0cc22844,972002,Air filter  device (physical object),5
+2008-03-08,aa9eabaa-c5bc-f66e-9964-c661dc42f756,80c545c0-f6a6-f844-31bb-c03d0cc22844,463659001,Medical air low pressure tubing (physical object),1
+2008-03-08,aa9eabaa-c5bc-f66e-9964-c661dc42f756,80c545c0-f6a6-f844-31bb-c03d0cc22844,706226000,Continuous positive airway pressure/Bilevel positive airway pressure mask (physical object),1
+2008-04-23,aa9eabaa-c5bc-f66e-9964-c661dc42f756,e823d3a2-c336-39c3-0006-6a6c9b1efa5a,119219003,Kidney part (body structure),1
+2009-01-03,aa9eabaa-c5bc-f66e-9964-c661dc42f756,a7d3adb7-a707-b6ed-397e-abf0400920d6,467645007,Continuous positive airway pressure nasal oxygen cannula (physical object),1
+2009-01-03,aa9eabaa-c5bc-f66e-9964-c661dc42f756,a7d3adb7-a707-b6ed-397e-abf0400920d6,972002,Air filter  device (physical object),5
+2009-01-03,aa9eabaa-c5bc-f66e-9964-c661dc42f756,a7d3adb7-a707-b6ed-397e-abf0400920d6,463659001,Medical air low pressure tubing (physical object),1
+2009-01-03,aa9eabaa-c5bc-f66e-9964-c661dc42f756,a7d3adb7-a707-b6ed-397e-abf0400920d6,706226000,Continuous positive airway pressure/Bilevel positive airway pressure mask (physical object),1
+1990-07-16,17a1e73b-3f0a-ab2d-d6b4-68cb4c606f78,d17668ac-a008-b835-54e1-af6c92e24a52,337388004,Blood glucose testing strips (physical object),50
+1990-07-16,17a1e73b-3f0a-ab2d-d6b4-68cb4c606f78,d17668ac-a008-b835-54e1-af6c92e24a52,1137596000,Blood lancet (physical object),100
+1996-06-24,17a1e73b-3f0a-ab2d-d6b4-68cb4c606f78,8c3f2a94-f274-4ee3-09de-bd9cd1d31002,337388004,Blood glucose testing strips (physical object),50
+1996-06-24,17a1e73b-3f0a-ab2d-d6b4-68cb4c606f78,8c3f2a94-f274-4ee3-09de-bd9cd1d31002,1137596000,Blood lancet (physical object),100
+2013-07-22,17a1e73b-3f0a-ab2d-d6b4-68cb4c606f78,8a3a1b56-0124-6990-bdce-e6714613dbdc,337388004,Blood glucose testing strips (physical object),50
+2015-08-03,17a1e73b-3f0a-ab2d-d6b4-68cb4c606f78,25f24594-e6a2-4889-251d-9bcf211c6e12,337388004,Blood glucose testing strips (physical object),50
+2015-08-03,17a1e73b-3f0a-ab2d-d6b4-68cb4c606f78,25f24594-e6a2-4889-251d-9bcf211c6e12,1137596000,Blood lancet (physical object),100
+2016-08-08,17a1e73b-3f0a-ab2d-d6b4-68cb4c606f78,34a0387d-a462-18c3-6760-f6868ab52fe7,337388004,Blood glucose testing strips (physical object),50
+2016-08-08,17a1e73b-3f0a-ab2d-d6b4-68cb4c606f78,34a0387d-a462-18c3-6760-f6868ab52fe7,1137596000,Blood lancet (physical object),100
+2017-08-14,17a1e73b-3f0a-ab2d-d6b4-68cb4c606f78,eae77461-b09f-892e-a726-f05227c46366,337388004,Blood glucose testing strips (physical object),50
+2018-08-20,17a1e73b-3f0a-ab2d-d6b4-68cb4c606f78,4cdf93da-852a-6f61-8690-8b099f3fc40a,337388004,Blood glucose testing strips (physical object),50
+2019-08-26,17a1e73b-3f0a-ab2d-d6b4-68cb4c606f78,eeb3ab32-24a3-7e48-f686-82837fc1f5e1,337388004,Blood glucose testing strips (physical object),50
+2020-08-31,17a1e73b-3f0a-ab2d-d6b4-68cb4c606f78,62da1bfd-ccfc-141a-4a67-caaefb861959,337388004,Blood glucose testing strips (physical object),50
+2020-08-31,17a1e73b-3f0a-ab2d-d6b4-68cb4c606f78,62da1bfd-ccfc-141a-4a67-caaefb861959,1137596000,Blood lancet (physical object),100
+2021-09-06,17a1e73b-3f0a-ab2d-d6b4-68cb4c606f78,f0bb7a4b-e942-b5d9-9bab-7732bc63eec1,337388004,Blood glucose testing strips (physical object),50
+2021-09-06,17a1e73b-3f0a-ab2d-d6b4-68cb4c606f78,f0bb7a4b-e942-b5d9-9bab-7732bc63eec1,1137596000,Blood lancet (physical object),100
+2023-09-18,17a1e73b-3f0a-ab2d-d6b4-68cb4c606f78,81cede83-a2f8-39c4-237e-7c18c936f7d2,337388004,Blood glucose testing strips (physical object),50
+2023-09-18,17a1e73b-3f0a-ab2d-d6b4-68cb4c606f78,81cede83-a2f8-39c4-237e-7c18c936f7d2,1137596000,Blood lancet (physical object),100
+2023-09-18,17a1e73b-3f0a-ab2d-d6b4-68cb4c606f78,81cede83-a2f8-39c4-237e-7c18c936f7d2,8537005,Solution (substance),100
+1965-09-25,96a8c795-5ddb-d438-9aa0-92292a6d48da,26ea89a0-3480-1812-c0c8-296afd262b25,337388004,Blood glucose testing strips (physical object),50
+1968-09-28,96a8c795-5ddb-d438-9aa0-92292a6d48da,5109048d-42dc-8796-1087-a00e8083a932,337388004,Blood glucose testing strips (physical object),50
+1968-09-28,96a8c795-5ddb-d438-9aa0-92292a6d48da,5109048d-42dc-8796-1087-a00e8083a932,1137596000,Blood lancet (physical object),100
+1990-07-21,96a8c795-5ddb-d438-9aa0-92292a6d48da,fc525499-aa3c-fb07-02cd-91203c13bce5,1137596000,Blood lancet (physical object),100
+2009-11-07,96a8c795-5ddb-d438-9aa0-92292a6d48da,5f0c1020-408a-09fd-b216-0a42a3fe72c4,337388004,Blood glucose testing strips (physical object),50
+2011-11-19,96a8c795-5ddb-d438-9aa0-92292a6d48da,1eb3ac38-27ef-510b-75a2-6efc5f3f99f5,337388004,Blood glucose testing strips (physical object),50
+2012-11-24,96a8c795-5ddb-d438-9aa0-92292a6d48da,841e3961-36cb-b64a-be12-36e9bb6cf146,8537005,Solution (substance),100
+2013-11-30,96a8c795-5ddb-d438-9aa0-92292a6d48da,0d54750d-fd3a-062f-7a3e-e8d6ed7c2c20,337388004,Blood glucose testing strips (physical object),50
+2015-12-12,96a8c795-5ddb-d438-9aa0-92292a6d48da,7e11d69e-ee12-1f0f-f889-574da94ed343,337388004,Blood glucose testing strips (physical object),50
+2015-12-12,96a8c795-5ddb-d438-9aa0-92292a6d48da,7e11d69e-ee12-1f0f-f889-574da94ed343,1137596000,Blood lancet (physical object),100
+2016-12-17,96a8c795-5ddb-d438-9aa0-92292a6d48da,7617ba2b-53c1-a4d7-60ce-38603cf8496b,337388004,Blood glucose testing strips (physical object),50
+2017-12-23,96a8c795-5ddb-d438-9aa0-92292a6d48da,7a642bc1-2ab1-3c6c-d2d0-f574f3599d23,337388004,Blood glucose testing strips (physical object),50
+2017-12-23,96a8c795-5ddb-d438-9aa0-92292a6d48da,7a642bc1-2ab1-3c6c-d2d0-f574f3599d23,1137596000,Blood lancet (physical object),100
+2018-12-29,96a8c795-5ddb-d438-9aa0-92292a6d48da,7ca7100e-1e3f-66b3-b503-0ac6531411ba,337388004,Blood glucose testing strips (physical object),50
+2021-09-11,96a8c795-5ddb-d438-9aa0-92292a6d48da,b195c52b-ece0-af67-c19e-cd70036a3ed0,337388004,Blood glucose testing strips (physical object),50
+2021-09-18,96a8c795-5ddb-d438-9aa0-92292a6d48da,4d224527-6608-4c0b-1f60-6ed1be073e5f,337388004,Blood glucose testing strips (physical object),50
+2022-01-15,96a8c795-5ddb-d438-9aa0-92292a6d48da,63490bbc-07a9-f74d-130c-5cffc23bc101,337388004,Blood glucose testing strips (physical object),50
+2023-01-21,96a8c795-5ddb-d438-9aa0-92292a6d48da,485c1507-0ae9-230b-a985-f00e0f2f1d0c,337388004,Blood glucose testing strips (physical object),50
+2023-01-21,96a8c795-5ddb-d438-9aa0-92292a6d48da,485c1507-0ae9-230b-a985-f00e0f2f1d0c,1137596000,Blood lancet (physical object),100
+1996-07-06,551a8cad-96bb-c909-e8f0-1de4ee479cc7,66a5e711-a744-0807-1949-8e0907ee018d,1137596000,Blood lancet (physical object),100
+2003-02-01,551a8cad-96bb-c909-e8f0-1de4ee479cc7,66486c84-a516-f581-3bef-12730474b9c6,337388004,Blood glucose testing strips (physical object),50
+2003-02-01,551a8cad-96bb-c909-e8f0-1de4ee479cc7,66486c84-a516-f581-3bef-12730474b9c6,337388004,Blood glucose testing strips (physical object),50
+2008-07-19,551a8cad-96bb-c909-e8f0-1de4ee479cc7,4ed51aa4-b7ca-1ab8-1e17-d7ba2a057c47,1137596000,Blood lancet (physical object),100
+2011-08-06,551a8cad-96bb-c909-e8f0-1de4ee479cc7,60ba51dd-58e0-7e52-5a0c-699e9e886915,1137596000,Blood lancet (physical object),100
+2013-08-17,551a8cad-96bb-c909-e8f0-1de4ee479cc7,87606646-4e07-78a7-c8e4-fa435ddfe204,337388004,Blood glucose testing strips (physical object),50
+2014-08-23,551a8cad-96bb-c909-e8f0-1de4ee479cc7,25573e05-1161-f3b7-3c8a-7e03df46d106,337388004,Blood glucose testing strips (physical object),50
+2015-08-29,551a8cad-96bb-c909-e8f0-1de4ee479cc7,4c2a6bd4-b6d4-5a17-c068-dd93ef3d2267,337388004,Blood glucose testing strips (physical object),50
+2016-09-03,551a8cad-96bb-c909-e8f0-1de4ee479cc7,9d003c3b-1ad4-7877-0f1f-caa810e2e3e9,337388004,Blood glucose testing strips (physical object),50
+2017-09-09,551a8cad-96bb-c909-e8f0-1de4ee479cc7,b3026b2e-9453-f1ca-52f9-702e44616693,337388004,Blood glucose testing strips (physical object),50
+2017-09-09,551a8cad-96bb-c909-e8f0-1de4ee479cc7,b3026b2e-9453-f1ca-52f9-702e44616693,1137596000,Blood lancet (physical object),100
+2018-09-15,551a8cad-96bb-c909-e8f0-1de4ee479cc7,a2835e29-14d0-dd1f-817a-5680645524c8,337388004,Blood glucose testing strips (physical object),50
+2019-09-21,551a8cad-96bb-c909-e8f0-1de4ee479cc7,96a79b73-0e47-70df-c3d8-4ebc7662766d,337388004,Blood glucose testing strips (physical object),50
+2020-09-26,551a8cad-96bb-c909-e8f0-1de4ee479cc7,eedbf96b-7878-b9fa-f5b8-de244548b7c9,337388004,Blood glucose testing strips (physical object),50
+2022-10-08,551a8cad-96bb-c909-e8f0-1de4ee479cc7,c3415378-89aa-ac11-e79c-53d2cf960d68,337388004,Blood glucose testing strips (physical object),50
+2023-10-14,551a8cad-96bb-c909-e8f0-1de4ee479cc7,0faf7145-995d-ceb8-3e77-274ff3656957,337388004,Blood glucose testing strips (physical object),50
+2010-11-30,30416215-c611-cf16-5aff-c6d1867c64c4,ae86c184-1899-79b6-8ab3-cbd12fa9e0b5,337388004,Blood glucose testing strips (physical object),50
+2012-12-11,30416215-c611-cf16-5aff-c6d1867c64c4,8932312c-0888-32c5-0142-c4e812e29f81,337388004,Blood glucose testing strips (physical object),50
+2012-12-11,30416215-c611-cf16-5aff-c6d1867c64c4,8932312c-0888-32c5-0142-c4e812e29f81,1137596000,Blood lancet (physical object),100
+2013-12-17,30416215-c611-cf16-5aff-c6d1867c64c4,416b5032-c607-37d3-0a71-1ee16ad5e463,1137596000,Blood lancet (physical object),100
+2014-12-23,30416215-c611-cf16-5aff-c6d1867c64c4,f0ded1b8-dce3-9933-5d5f-17b1bff4e700,337388004,Blood glucose testing strips (physical object),50
+2014-12-23,30416215-c611-cf16-5aff-c6d1867c64c4,f0ded1b8-dce3-9933-5d5f-17b1bff4e700,1137596000,Blood lancet (physical object),100
+2015-12-29,30416215-c611-cf16-5aff-c6d1867c64c4,aef44c93-c9be-eddb-e5e4-6c29ff8085da,337388004,Blood glucose testing strips (physical object),50
+2015-12-29,30416215-c611-cf16-5aff-c6d1867c64c4,aef44c93-c9be-eddb-e5e4-6c29ff8085da,1137596000,Blood lancet (physical object),100
+2016-05-17,30416215-c611-cf16-5aff-c6d1867c64c4,802b76ad-eeee-bd0b-4cdf-5510f159bf8e,337388004,Blood glucose testing strips (physical object),50
+2016-05-17,30416215-c611-cf16-5aff-c6d1867c64c4,802b76ad-eeee-bd0b-4cdf-5510f159bf8e,1137596000,Blood lancet (physical object),100
+2016-09-13,30416215-c611-cf16-5aff-c6d1867c64c4,6de3f6ea-6394-5699-59bb-2b6d120d69a6,337388004,Blood glucose testing strips (physical object),50
+2017-01-03,30416215-c611-cf16-5aff-c6d1867c64c4,46c6fa71-1ad6-7076-a4b6-3b9a859774ce,337388004,Blood glucose testing strips (physical object),50
+2017-08-22,30416215-c611-cf16-5aff-c6d1867c64c4,c1864e7b-492c-98ca-8560-0b0473f2c235,337388004,Blood glucose testing strips (physical object),50
+2017-08-22,30416215-c611-cf16-5aff-c6d1867c64c4,c1864e7b-492c-98ca-8560-0b0473f2c235,337388004,Blood glucose testing strips (physical object),50
+2018-01-09,30416215-c611-cf16-5aff-c6d1867c64c4,dca13369-2460-7400-9510-54fa1bacda0e,337388004,Blood glucose testing strips (physical object),50
+2019-01-15,30416215-c611-cf16-5aff-c6d1867c64c4,df720a36-15cd-57a1-8baa-eb5b29da12d3,337388004,Blood glucose testing strips (physical object),50
+2020-01-21,30416215-c611-cf16-5aff-c6d1867c64c4,d425357b-0916-3402-5c80-fafa2877a3c6,337388004,Blood glucose testing strips (physical object),50
+2020-01-21,30416215-c611-cf16-5aff-c6d1867c64c4,d425357b-0916-3402-5c80-fafa2877a3c6,337388004,Blood glucose testing strips (physical object),50
+2022-02-01,30416215-c611-cf16-5aff-c6d1867c64c4,0c197a34-cb58-c924-ed68-7723a31898aa,337388004,Blood glucose testing strips (physical object),50
+2022-02-01,30416215-c611-cf16-5aff-c6d1867c64c4,0c197a34-cb58-c924-ed68-7723a31898aa,337388004,Blood glucose testing strips (physical object),50
+2023-02-07,30416215-c611-cf16-5aff-c6d1867c64c4,77940d59-6c3a-cc4d-812d-caa45bcf1fde,8537005,Solution (substance),100
+1995-05-17,a02f7b7e-ac8e-dec3-d834-522eb9143635,83ee8061-d66f-8250-f100-97c0d8478518,337388004,Blood glucose testing strips (physical object),50
+1998-05-20,a02f7b7e-ac8e-dec3-d834-522eb9143635,d9b52670-ee87-86b6-6bcb-be64bf0124df,1137596000,Blood lancet (physical object),100
+2003-07-16,a02f7b7e-ac8e-dec3-d834-522eb9143635,b04bc848-df68-b646-b98b-ddf90338edd5,8537005,Solution (substance),100
+2013-03-27,a02f7b7e-ac8e-dec3-d834-522eb9143635,718ffdf8-a266-a097-cc10-9591edcb03e3,337388004,Blood glucose testing strips (physical object),50
+2015-04-01,a02f7b7e-ac8e-dec3-d834-522eb9143635,c86ddf18-0f26-3586-9ead-f29ba395c7f0,337388004,Blood glucose testing strips (physical object),50
+2018-03-14,a02f7b7e-ac8e-dec3-d834-522eb9143635,0e8d7ff1-63d1-2f0a-3f6e-76dfaf4f3438,337388004,Blood glucose testing strips (physical object),50
+2020-03-25,a02f7b7e-ac8e-dec3-d834-522eb9143635,93e64e99-0376-1a70-e183-7525ec14854f,337388004,Blood glucose testing strips (physical object),50
+2021-03-31,a02f7b7e-ac8e-dec3-d834-522eb9143635,c766bbd4-ccd9-dd54-504b-2b95ce617ee4,337388004,Blood glucose testing strips (physical object),50
+2022-04-06,a02f7b7e-ac8e-dec3-d834-522eb9143635,ba1795d1-f20d-6651-d745-fb2d8da46916,337388004,Blood glucose testing strips (physical object),50
+2022-04-06,a02f7b7e-ac8e-dec3-d834-522eb9143635,ba1795d1-f20d-6651-d745-fb2d8da46916,1137596000,Blood lancet (physical object),100
+2023-04-12,a02f7b7e-ac8e-dec3-d834-522eb9143635,6cb570fc-9221-27e0-4010-60f35ff5fe0f,337388004,Blood glucose testing strips (physical object),50
+1979-12-21,f9474a08-8797-fb7e-da37-c4b807722399,bc1ac2b5-9040-32ff-a91e-2819b8da3d2e,337388004,Blood glucose testing strips (physical object),50
+1979-12-21,f9474a08-8797-fb7e-da37-c4b807722399,bc1ac2b5-9040-32ff-a91e-2819b8da3d2e,337388004,Blood glucose testing strips (physical object),50
+1988-02-05,f9474a08-8797-fb7e-da37-c4b807722399,eecc334e-e7c0-dd19-86b1-5bb9d23681da,337388004,Blood glucose testing strips (physical object),50
+2001-09-07,f9474a08-8797-fb7e-da37-c4b807722399,d857d5f3-8a8d-17d5-d064-97966ac3fff6,337388004,Blood glucose testing strips (physical object),50
+1979-12-15,9c8e1d87-f40a-a525-621e-943461fc613b,4ca5cdfb-b670-b352-eff5-134800c582b8,1137596000,Blood lancet (physical object),100
+1986-03-22,9c8e1d87-f40a-a525-621e-943461fc613b,453bab63-d057-2b40-fa0e-10c6459bbbee,337388004,Blood glucose testing strips (physical object),50
+1993-05-01,9c8e1d87-f40a-a525-621e-943461fc613b,ca1f74f0-3bd3-147f-2aa0-8eb452214cb0,337388004,Blood glucose testing strips (physical object),50
+2005-01-08,9c8e1d87-f40a-a525-621e-943461fc613b,ebfcb07f-6c65-af7e-aab5-4407fbd97212,337388004,Blood glucose testing strips (physical object),50
+2013-08-31,9c8e1d87-f40a-a525-621e-943461fc613b,7cd62de2-16f5-8291-d85f-3183817650a8,337388004,Blood glucose testing strips (physical object),50
+2014-09-06,9c8e1d87-f40a-a525-621e-943461fc613b,fdca5d20-979a-121e-9a09-2d19cd2d5259,337388004,Blood glucose testing strips (physical object),50
+2014-09-06,9c8e1d87-f40a-a525-621e-943461fc613b,fdca5d20-979a-121e-9a09-2d19cd2d5259,1137596000,Blood lancet (physical object),100
+2015-09-12,9c8e1d87-f40a-a525-621e-943461fc613b,f050bf10-37db-fe38-1267-9db62b3be223,1137596000,Blood lancet (physical object),100
+2018-09-29,9c8e1d87-f40a-a525-621e-943461fc613b,0dcca573-3edc-d86f-db20-e2de841c9e7b,337388004,Blood glucose testing strips (physical object),50
+2019-10-05,9c8e1d87-f40a-a525-621e-943461fc613b,406236ac-4df1-9dfb-7b8d-8070e52663e0,337388004,Blood glucose testing strips (physical object),50
+2019-10-05,9c8e1d87-f40a-a525-621e-943461fc613b,406236ac-4df1-9dfb-7b8d-8070e52663e0,337388004,Blood glucose testing strips (physical object),50
+2019-10-05,9c8e1d87-f40a-a525-621e-943461fc613b,406236ac-4df1-9dfb-7b8d-8070e52663e0,1137596000,Blood lancet (physical object),100
+2020-10-10,9c8e1d87-f40a-a525-621e-943461fc613b,adf837e8-08e6-6300-002a-b0c7ad5b3d0c,337388004,Blood glucose testing strips (physical object),50
+2022-10-22,9c8e1d87-f40a-a525-621e-943461fc613b,3362030a-8fa8-89ae-dc64-1c221208e6ee,337388004,Blood glucose testing strips (physical object),50
+2022-10-22,9c8e1d87-f40a-a525-621e-943461fc613b,3362030a-8fa8-89ae-dc64-1c221208e6ee,1137596000,Blood lancet (physical object),100
+2023-10-28,9c8e1d87-f40a-a525-621e-943461fc613b,fbd646cf-2c9f-0467-d70b-77a14bef8998,337388004,Blood glucose testing strips (physical object),50
+2015-02-21,ed8d4f87-76c3-3647-4502-652d571e614f,bd564fa9-173e-3925-1321-a679b3541bed,337388004,Blood glucose testing strips (physical object),50
+2016-02-27,ed8d4f87-76c3-3647-4502-652d571e614f,be46a6e9-a6e9-5545-15ec-f18a223b676b,337388004,Blood glucose testing strips (physical object),50
+2017-03-04,ed8d4f87-76c3-3647-4502-652d571e614f,c5b235e5-6538-7ea4-3ffb-87374f8ac83a,337388004,Blood glucose testing strips (physical object),50
+2018-03-10,ed8d4f87-76c3-3647-4502-652d571e614f,285305c2-134c-68ca-2002-2ea39b20b915,337388004,Blood glucose testing strips (physical object),50
+2018-03-10,ed8d4f87-76c3-3647-4502-652d571e614f,285305c2-134c-68ca-2002-2ea39b20b915,1137596000,Blood lancet (physical object),100
+2019-03-16,ed8d4f87-76c3-3647-4502-652d571e614f,65c35198-4eb5-4033-7d18-a0195314e141,337388004,Blood glucose testing strips (physical object),50
+2020-03-21,ed8d4f87-76c3-3647-4502-652d571e614f,1e8861a2-6f6b-1ddd-5f61-71f980b86c9d,337388004,Blood glucose testing strips (physical object),50
+2022-04-02,ed8d4f87-76c3-3647-4502-652d571e614f,6dd36b88-10d8-4115-59d3-ceaa5ca31497,8537005,Solution (substance),100
+2023-04-08,ed8d4f87-76c3-3647-4502-652d571e614f,942bf0e5-88c9-67ce-2ab4-9c697cf7c2a6,1137596000,Blood lancet (physical object),100
+2008-03-25,241d2b38-5d59-7a62-18a7-bc21cb4b348b,46e4fbfa-59ab-808b-61da-ca73664a79b4,337388004,Blood glucose testing strips (physical object),50
+2014-03-25,241d2b38-5d59-7a62-18a7-bc21cb4b348b,265de8c9-41d5-dcfc-ac1c-7e3b22954911,337388004,Blood glucose testing strips (physical object),50
+2014-03-25,241d2b38-5d59-7a62-18a7-bc21cb4b348b,265de8c9-41d5-dcfc-ac1c-7e3b22954911,1137596000,Blood lancet (physical object),100
+2015-01-13,241d2b38-5d59-7a62-18a7-bc21cb4b348b,bf5614de-53f5-0bee-d981-6c593bdf586d,337388004,Blood glucose testing strips (physical object),50
+2015-03-31,241d2b38-5d59-7a62-18a7-bc21cb4b348b,eaddf6ea-55f2-f676-4be7-45da14dccb15,1137596000,Blood lancet (physical object),100
+2016-04-05,241d2b38-5d59-7a62-18a7-bc21cb4b348b,941ad83b-9eb7-c43a-f708-3e34ea99c452,337388004,Blood glucose testing strips (physical object),50
+2017-04-11,241d2b38-5d59-7a62-18a7-bc21cb4b348b,f34559db-ef82-62a3-0d57-55ab01392995,1137596000,Blood lancet (physical object),100
+2018-04-17,241d2b38-5d59-7a62-18a7-bc21cb4b348b,86b8d593-e05b-378b-a191-82bacf3f96b0,1137596000,Blood lancet (physical object),100
+2019-04-23,241d2b38-5d59-7a62-18a7-bc21cb4b348b,556c1f95-0086-e047-edd7-20f198bbc90e,337388004,Blood glucose testing strips (physical object),50
+2020-04-28,241d2b38-5d59-7a62-18a7-bc21cb4b348b,7b34f05b-f0df-8a77-a530-8a2c5036e46c,337388004,Blood glucose testing strips (physical object),50
+2022-05-10,241d2b38-5d59-7a62-18a7-bc21cb4b348b,750df038-e124-bec1-2846-a10d771c0673,337388004,Blood glucose testing strips (physical object),50
+2023-05-16,241d2b38-5d59-7a62-18a7-bc21cb4b348b,6e61fa78-a80d-802d-ee12-b2af517338d6,337388004,Blood glucose testing strips (physical object),50
+2023-05-16,241d2b38-5d59-7a62-18a7-bc21cb4b348b,6e61fa78-a80d-802d-ee12-b2af517338d6,1137596000,Blood lancet (physical object),100
+2014-10-15,7e916ab9-3633-cca2-464c-d49991932bef,5bdd2936-e9e7-e610-225f-a361f12e74ec,704718009,CPAP/BPAP oral mask (physical object),1
+2014-10-15,7e916ab9-3633-cca2-464c-d49991932bef,5bdd2936-e9e7-e610-225f-a361f12e74ec,972002,Air filter  device (physical object),5
+2014-10-15,7e916ab9-3633-cca2-464c-d49991932bef,5bdd2936-e9e7-e610-225f-a361f12e74ec,463659001,Medical air low pressure tubing (physical object),1
+2014-10-15,7e916ab9-3633-cca2-464c-d49991932bef,5bdd2936-e9e7-e610-225f-a361f12e74ec,706226000,Continuous positive airway pressure/Bilevel positive airway pressure mask (physical object),1
+2016-10-13,7e916ab9-3633-cca2-464c-d49991932bef,0fb1c368-a988-2bb6-713d-12851d2c5602,467645007,Continuous positive airway pressure nasal oxygen cannula (physical object),1
+2016-10-13,7e916ab9-3633-cca2-464c-d49991932bef,0fb1c368-a988-2bb6-713d-12851d2c5602,972002,Air filter  device (physical object),5
+2016-10-13,7e916ab9-3633-cca2-464c-d49991932bef,0fb1c368-a988-2bb6-713d-12851d2c5602,463659001,Medical air low pressure tubing (physical object),1
+2016-10-13,7e916ab9-3633-cca2-464c-d49991932bef,0fb1c368-a988-2bb6-713d-12851d2c5602,706226000,Continuous positive airway pressure/Bilevel positive airway pressure mask (physical object),1
+2018-10-18,7e916ab9-3633-cca2-464c-d49991932bef,14795f2d-9557-dd40-0cfb-5f2021554968,704718009,CPAP/BPAP oral mask (physical object),1
+2018-10-18,7e916ab9-3633-cca2-464c-d49991932bef,14795f2d-9557-dd40-0cfb-5f2021554968,972002,Air filter  device (physical object),5
+2018-10-18,7e916ab9-3633-cca2-464c-d49991932bef,14795f2d-9557-dd40-0cfb-5f2021554968,463659001,Medical air low pressure tubing (physical object),1
+2018-10-18,7e916ab9-3633-cca2-464c-d49991932bef,14795f2d-9557-dd40-0cfb-5f2021554968,706226000,Continuous positive airway pressure/Bilevel positive airway pressure mask (physical object),1
+2020-10-22,7e916ab9-3633-cca2-464c-d49991932bef,0dddab10-4697-392a-210c-e0f3017e0f87,704718009,CPAP/BPAP oral mask (physical object),1
+2020-10-22,7e916ab9-3633-cca2-464c-d49991932bef,0dddab10-4697-392a-210c-e0f3017e0f87,972002,Air filter  device (physical object),5
+2020-10-22,7e916ab9-3633-cca2-464c-d49991932bef,0dddab10-4697-392a-210c-e0f3017e0f87,463659001,Medical air low pressure tubing (physical object),1
+2020-10-22,7e916ab9-3633-cca2-464c-d49991932bef,0dddab10-4697-392a-210c-e0f3017e0f87,706226000,Continuous positive airway pressure/Bilevel positive airway pressure mask (physical object),1
+2022-10-27,7e916ab9-3633-cca2-464c-d49991932bef,caf877b7-1e99-e80e-9715-be625ca83095,704718009,CPAP/BPAP oral mask (physical object),1
+2022-10-27,7e916ab9-3633-cca2-464c-d49991932bef,caf877b7-1e99-e80e-9715-be625ca83095,972002,Air filter  device (physical object),5
+2022-10-27,7e916ab9-3633-cca2-464c-d49991932bef,caf877b7-1e99-e80e-9715-be625ca83095,463659001,Medical air low pressure tubing (physical object),1
+2022-10-27,7e916ab9-3633-cca2-464c-d49991932bef,caf877b7-1e99-e80e-9715-be625ca83095,706226000,Continuous positive airway pressure/Bilevel positive airway pressure mask (physical object),1
+1979-03-27,164c3279-3dfd-373a-90e5-0c3ec46b5528,3c0c273e-c8e6-136c-7985-85acfd5e2d20,337388004,Blood glucose testing strips (physical object),50
+1983-04-05,164c3279-3dfd-373a-90e5-0c3ec46b5528,41c1a014-3411-574f-719e-e462cb611952,337388004,Blood glucose testing strips (physical object),50
+1983-04-05,164c3279-3dfd-373a-90e5-0c3ec46b5528,41c1a014-3411-574f-719e-e462cb611952,1137596000,Blood lancet (physical object),100
+2019-12-27,164c3279-3dfd-373a-90e5-0c3ec46b5528,0dc0f29a-da21-21a8-a28a-767ed17738d4,431069006,Packed red blood cells (product),2
+2019-12-28,164c3279-3dfd-373a-90e5-0c3ec46b5528,0dc0f29a-da21-21a8-a28a-767ed17738d4,431069006,Packed red blood cells (product),2
+2019-12-29,164c3279-3dfd-373a-90e5-0c3ec46b5528,0dc0f29a-da21-21a8-a28a-767ed17738d4,431069006,Packed red blood cells (product),2
+2019-12-30,164c3279-3dfd-373a-90e5-0c3ec46b5528,0dc0f29a-da21-21a8-a28a-767ed17738d4,431069006,Packed red blood cells (product),2
+2019-12-31,164c3279-3dfd-373a-90e5-0c3ec46b5528,0dc0f29a-da21-21a8-a28a-767ed17738d4,431069006,Packed red blood cells (product),2
+2020-01-01,164c3279-3dfd-373a-90e5-0c3ec46b5528,0dc0f29a-da21-21a8-a28a-767ed17738d4,431069006,Packed red blood cells (product),2
+2020-01-02,164c3279-3dfd-373a-90e5-0c3ec46b5528,0dc0f29a-da21-21a8-a28a-767ed17738d4,431069006,Packed red blood cells (product),2
+2020-01-03,164c3279-3dfd-373a-90e5-0c3ec46b5528,0dc0f29a-da21-21a8-a28a-767ed17738d4,431069006,Packed red blood cells (product),2
+2020-01-04,164c3279-3dfd-373a-90e5-0c3ec46b5528,0dc0f29a-da21-21a8-a28a-767ed17738d4,431069006,Packed red blood cells (product),2
+2018-10-17,2b10c428-4798-b5dc-3272-ab24845de619,c0ad3c5c-9132-3439-3ea3-d1f135747293,337388004,Blood glucose testing strips (physical object),50
+2021-10-20,2b10c428-4798-b5dc-3272-ab24845de619,e1113bbe-378a-a8c4-b037-ecde4b3b8e3c,337388004,Blood glucose testing strips (physical object),50
+2022-04-13,2b10c428-4798-b5dc-3272-ab24845de619,d0574166-ae14-66b5-6f7d-41896f662424,337388004,Blood glucose testing strips (physical object),50
+2022-04-13,2b10c428-4798-b5dc-3272-ab24845de619,d0574166-ae14-66b5-6f7d-41896f662424,1137596000,Blood lancet (physical object),100
+2020-07-14,5ab73776-7eda-c148-b9b1-516106cdba04,0b40b8fe-fcbd-03fb-5a63-5b12d71f5138,409534002,Disposable air-purifying respirator (physical object),2
+2020-07-14,5ab73776-7eda-c148-b9b1-516106cdba04,0b40b8fe-fcbd-03fb-5a63-5b12d71f5138,713779008,Nitrile examination/treatment glove  non-powdered  sterile (physical object),24
+2020-07-14,5ab73776-7eda-c148-b9b1-516106cdba04,0b40b8fe-fcbd-03fb-5a63-5b12d71f5138,469673003,Isolation gown  single-use (physical object),12
+2020-07-14,5ab73776-7eda-c148-b9b1-516106cdba04,0b40b8fe-fcbd-03fb-5a63-5b12d71f5138,706724001,Face shield (physical object),2
+2020-07-14,5ab73776-7eda-c148-b9b1-516106cdba04,0b40b8fe-fcbd-03fb-5a63-5b12d71f5138,419343004,Alcohol disinfectant (substance),1
+2020-07-14,5ab73776-7eda-c148-b9b1-516106cdba04,0b40b8fe-fcbd-03fb-5a63-5b12d71f5138,470618009,Antiseptic towelette (physical object),8
+2020-07-15,5ab73776-7eda-c148-b9b1-516106cdba04,0b40b8fe-fcbd-03fb-5a63-5b12d71f5138,409534002,Disposable air-purifying respirator (physical object),2
+2020-07-15,5ab73776-7eda-c148-b9b1-516106cdba04,0b40b8fe-fcbd-03fb-5a63-5b12d71f5138,713779008,Nitrile examination/treatment glove  non-powdered  sterile (physical object),24
+2020-07-15,5ab73776-7eda-c148-b9b1-516106cdba04,0b40b8fe-fcbd-03fb-5a63-5b12d71f5138,469673003,Isolation gown  single-use (physical object),12
+2020-07-15,5ab73776-7eda-c148-b9b1-516106cdba04,0b40b8fe-fcbd-03fb-5a63-5b12d71f5138,706724001,Face shield (physical object),2
+2020-07-15,5ab73776-7eda-c148-b9b1-516106cdba04,0b40b8fe-fcbd-03fb-5a63-5b12d71f5138,419343004,Alcohol disinfectant (substance),1
+2020-07-15,5ab73776-7eda-c148-b9b1-516106cdba04,0b40b8fe-fcbd-03fb-5a63-5b12d71f5138,470618009,Antiseptic towelette (physical object),8
+2020-07-16,5ab73776-7eda-c148-b9b1-516106cdba04,0b40b8fe-fcbd-03fb-5a63-5b12d71f5138,409534002,Disposable air-purifying respirator (physical object),2
+2020-07-16,5ab73776-7eda-c148-b9b1-516106cdba04,0b40b8fe-fcbd-03fb-5a63-5b12d71f5138,713779008,Nitrile examination/treatment glove  non-powdered  sterile (physical object),24
+2020-07-16,5ab73776-7eda-c148-b9b1-516106cdba04,0b40b8fe-fcbd-03fb-5a63-5b12d71f5138,469673003,Isolation gown  single-use (physical object),12
+2020-07-16,5ab73776-7eda-c148-b9b1-516106cdba04,0b40b8fe-fcbd-03fb-5a63-5b12d71f5138,706724001,Face shield (physical object),2
+2020-07-16,5ab73776-7eda-c148-b9b1-516106cdba04,0b40b8fe-fcbd-03fb-5a63-5b12d71f5138,419343004,Alcohol disinfectant (substance),1
+2020-07-16,5ab73776-7eda-c148-b9b1-516106cdba04,0b40b8fe-fcbd-03fb-5a63-5b12d71f5138,470618009,Antiseptic towelette (physical object),8
+2020-07-17,5ab73776-7eda-c148-b9b1-516106cdba04,0b40b8fe-fcbd-03fb-5a63-5b12d71f5138,409534002,Disposable air-purifying respirator (physical object),2
+2020-07-17,5ab73776-7eda-c148-b9b1-516106cdba04,0b40b8fe-fcbd-03fb-5a63-5b12d71f5138,713779008,Nitrile examination/treatment glove  non-powdered  sterile (physical object),24
+2020-07-17,5ab73776-7eda-c148-b9b1-516106cdba04,0b40b8fe-fcbd-03fb-5a63-5b12d71f5138,469673003,Isolation gown  single-use (physical object),12
+2020-07-17,5ab73776-7eda-c148-b9b1-516106cdba04,0b40b8fe-fcbd-03fb-5a63-5b12d71f5138,706724001,Face shield (physical object),2
+2020-07-17,5ab73776-7eda-c148-b9b1-516106cdba04,0b40b8fe-fcbd-03fb-5a63-5b12d71f5138,419343004,Alcohol disinfectant (substance),1
+2020-07-17,5ab73776-7eda-c148-b9b1-516106cdba04,0b40b8fe-fcbd-03fb-5a63-5b12d71f5138,470618009,Antiseptic towelette (physical object),8
+2020-07-18,5ab73776-7eda-c148-b9b1-516106cdba04,0b40b8fe-fcbd-03fb-5a63-5b12d71f5138,409534002,Disposable air-purifying respirator (physical object),2
+2020-07-18,5ab73776-7eda-c148-b9b1-516106cdba04,0b40b8fe-fcbd-03fb-5a63-5b12d71f5138,713779008,Nitrile examination/treatment glove  non-powdered  sterile (physical object),24
+2020-07-18,5ab73776-7eda-c148-b9b1-516106cdba04,0b40b8fe-fcbd-03fb-5a63-5b12d71f5138,469673003,Isolation gown  single-use (physical object),12
+2020-07-18,5ab73776-7eda-c148-b9b1-516106cdba04,0b40b8fe-fcbd-03fb-5a63-5b12d71f5138,706724001,Face shield (physical object),2
+2020-07-18,5ab73776-7eda-c148-b9b1-516106cdba04,0b40b8fe-fcbd-03fb-5a63-5b12d71f5138,419343004,Alcohol disinfectant (substance),1
+2020-07-18,5ab73776-7eda-c148-b9b1-516106cdba04,0b40b8fe-fcbd-03fb-5a63-5b12d71f5138,470618009,Antiseptic towelette (physical object),8
+2020-07-19,5ab73776-7eda-c148-b9b1-516106cdba04,0b40b8fe-fcbd-03fb-5a63-5b12d71f5138,409534002,Disposable air-purifying respirator (physical object),2
+2020-07-19,5ab73776-7eda-c148-b9b1-516106cdba04,0b40b8fe-fcbd-03fb-5a63-5b12d71f5138,713779008,Nitrile examination/treatment glove  non-powdered  sterile (physical object),24
+2020-07-19,5ab73776-7eda-c148-b9b1-516106cdba04,0b40b8fe-fcbd-03fb-5a63-5b12d71f5138,469673003,Isolation gown  single-use (physical object),12
+2020-07-19,5ab73776-7eda-c148-b9b1-516106cdba04,0b40b8fe-fcbd-03fb-5a63-5b12d71f5138,706724001,Face shield (physical object),2
+2020-07-19,5ab73776-7eda-c148-b9b1-516106cdba04,0b40b8fe-fcbd-03fb-5a63-5b12d71f5138,419343004,Alcohol disinfectant (substance),1
+2020-07-19,5ab73776-7eda-c148-b9b1-516106cdba04,0b40b8fe-fcbd-03fb-5a63-5b12d71f5138,470618009,Antiseptic towelette (physical object),8
+2020-07-20,5ab73776-7eda-c148-b9b1-516106cdba04,0b40b8fe-fcbd-03fb-5a63-5b12d71f5138,409534002,Disposable air-purifying respirator (physical object),2
+2020-07-20,5ab73776-7eda-c148-b9b1-516106cdba04,0b40b8fe-fcbd-03fb-5a63-5b12d71f5138,713779008,Nitrile examination/treatment glove  non-powdered  sterile (physical object),24
+2020-07-20,5ab73776-7eda-c148-b9b1-516106cdba04,0b40b8fe-fcbd-03fb-5a63-5b12d71f5138,469673003,Isolation gown  single-use (physical object),12
+2020-07-20,5ab73776-7eda-c148-b9b1-516106cdba04,0b40b8fe-fcbd-03fb-5a63-5b12d71f5138,706724001,Face shield (physical object),2
+2020-07-20,5ab73776-7eda-c148-b9b1-516106cdba04,0b40b8fe-fcbd-03fb-5a63-5b12d71f5138,419343004,Alcohol disinfectant (substance),1
+2020-07-20,5ab73776-7eda-c148-b9b1-516106cdba04,0b40b8fe-fcbd-03fb-5a63-5b12d71f5138,470618009,Antiseptic towelette (physical object),8
+2020-07-21,5ab73776-7eda-c148-b9b1-516106cdba04,0b40b8fe-fcbd-03fb-5a63-5b12d71f5138,409534002,Disposable air-purifying respirator (physical object),2
+2020-07-21,5ab73776-7eda-c148-b9b1-516106cdba04,0b40b8fe-fcbd-03fb-5a63-5b12d71f5138,713779008,Nitrile examination/treatment glove  non-powdered  sterile (physical object),24
+2020-07-21,5ab73776-7eda-c148-b9b1-516106cdba04,0b40b8fe-fcbd-03fb-5a63-5b12d71f5138,469673003,Isolation gown  single-use (physical object),12
+2020-07-21,5ab73776-7eda-c148-b9b1-516106cdba04,0b40b8fe-fcbd-03fb-5a63-5b12d71f5138,706724001,Face shield (physical object),2
+2020-07-21,5ab73776-7eda-c148-b9b1-516106cdba04,0b40b8fe-fcbd-03fb-5a63-5b12d71f5138,419343004,Alcohol disinfectant (substance),1
+2020-07-21,5ab73776-7eda-c148-b9b1-516106cdba04,0b40b8fe-fcbd-03fb-5a63-5b12d71f5138,470618009,Antiseptic towelette (physical object),8
+2020-07-22,5ab73776-7eda-c148-b9b1-516106cdba04,0b40b8fe-fcbd-03fb-5a63-5b12d71f5138,409534002,Disposable air-purifying respirator (physical object),2
+2020-07-22,5ab73776-7eda-c148-b9b1-516106cdba04,0b40b8fe-fcbd-03fb-5a63-5b12d71f5138,713779008,Nitrile examination/treatment glove  non-powdered  sterile (physical object),24
+2020-07-22,5ab73776-7eda-c148-b9b1-516106cdba04,0b40b8fe-fcbd-03fb-5a63-5b12d71f5138,469673003,Isolation gown  single-use (physical object),12
+2020-07-22,5ab73776-7eda-c148-b9b1-516106cdba04,0b40b8fe-fcbd-03fb-5a63-5b12d71f5138,706724001,Face shield (physical object),2
+2020-07-22,5ab73776-7eda-c148-b9b1-516106cdba04,0b40b8fe-fcbd-03fb-5a63-5b12d71f5138,419343004,Alcohol disinfectant (substance),1
+2020-07-22,5ab73776-7eda-c148-b9b1-516106cdba04,0b40b8fe-fcbd-03fb-5a63-5b12d71f5138,470618009,Antiseptic towelette (physical object),8
+2020-07-23,5ab73776-7eda-c148-b9b1-516106cdba04,0b40b8fe-fcbd-03fb-5a63-5b12d71f5138,409534002,Disposable air-purifying respirator (physical object),2
+2020-07-23,5ab73776-7eda-c148-b9b1-516106cdba04,0b40b8fe-fcbd-03fb-5a63-5b12d71f5138,713779008,Nitrile examination/treatment glove  non-powdered  sterile (physical object),24
+2020-07-23,5ab73776-7eda-c148-b9b1-516106cdba04,0b40b8fe-fcbd-03fb-5a63-5b12d71f5138,469673003,Isolation gown  single-use (physical object),12
+2020-07-23,5ab73776-7eda-c148-b9b1-516106cdba04,0b40b8fe-fcbd-03fb-5a63-5b12d71f5138,706724001,Face shield (physical object),2
+2020-07-23,5ab73776-7eda-c148-b9b1-516106cdba04,0b40b8fe-fcbd-03fb-5a63-5b12d71f5138,419343004,Alcohol disinfectant (substance),1
+2020-07-23,5ab73776-7eda-c148-b9b1-516106cdba04,0b40b8fe-fcbd-03fb-5a63-5b12d71f5138,470618009,Antiseptic towelette (physical object),8
+1980-07-16,b5fab35c-8cd1-49f0-b28c-122866af8614,784a2476-7d17-d15a-65c9-c9f7058f5704,1137596000,Blood lancet (physical object),100
+2001-11-14,b5fab35c-8cd1-49f0-b28c-122866af8614,e7793753-b121-381d-f82a-96742c8b77dc,337388004,Blood glucose testing strips (physical object),50
+2002-11-20,b5fab35c-8cd1-49f0-b28c-122866af8614,888068dd-7c03-a366-f21f-a9185336dd49,337388004,Blood glucose testing strips (physical object),50
+2003-11-26,b5fab35c-8cd1-49f0-b28c-122866af8614,fba4da7d-8b3f-b29d-2bd5-2e2901d5b9f0,337388004,Blood glucose testing strips (physical object),50
+2004-12-01,b5fab35c-8cd1-49f0-b28c-122866af8614,10b36d86-e309-3e23-4b77-af8f6d04447f,337388004,Blood glucose testing strips (physical object),50
+2005-12-07,b5fab35c-8cd1-49f0-b28c-122866af8614,4819cf07-4e9a-55b1-bc3b-c00009b78c2e,337388004,Blood glucose testing strips (physical object),50
+2006-12-13,b5fab35c-8cd1-49f0-b28c-122866af8614,706c1929-cc96-2041-dd00-ab75c5e4ca8e,337388004,Blood glucose testing strips (physical object),50
+2006-12-13,b5fab35c-8cd1-49f0-b28c-122866af8614,706c1929-cc96-2041-dd00-ab75c5e4ca8e,337388004,Blood glucose testing strips (physical object),50
+2007-12-19,b5fab35c-8cd1-49f0-b28c-122866af8614,853ecbf9-6362-792e-d4f6-7d6d88474431,337388004,Blood glucose testing strips (physical object),50
+2007-12-19,b5fab35c-8cd1-49f0-b28c-122866af8614,853ecbf9-6362-792e-d4f6-7d6d88474431,1137596000,Blood lancet (physical object),100
+2008-12-24,b5fab35c-8cd1-49f0-b28c-122866af8614,4cb54a64-f3f3-4fca-5f67-410f8b27207d,337388004,Blood glucose testing strips (physical object),50
+2008-12-24,b5fab35c-8cd1-49f0-b28c-122866af8614,4cb54a64-f3f3-4fca-5f67-410f8b27207d,1137596000,Blood lancet (physical object),100
+2011-01-05,b5fab35c-8cd1-49f0-b28c-122866af8614,a76eb952-6bba-e13a-05c5-4ef9b35a7ca3,337388004,Blood glucose testing strips (physical object),50
+2011-01-05,b5fab35c-8cd1-49f0-b28c-122866af8614,a76eb952-6bba-e13a-05c5-4ef9b35a7ca3,1137596000,Blood lancet (physical object),100
+2012-01-11,b5fab35c-8cd1-49f0-b28c-122866af8614,0762ba1b-c465-deef-1b36-65480982728e,337388004,Blood glucose testing strips (physical object),50
+2006-09-25,a15b86d7-484c-c362-f450-faa2ac14842b,59a431ec-3c5e-0241-9cdd-267774c03cf6,337388004,Blood glucose testing strips (physical object),50
+2014-02-17,a15b86d7-484c-c362-f450-faa2ac14842b,cf4d2dd5-74f4-eae7-8fa7-b8d5dbf77a8c,337388004,Blood glucose testing strips (physical object),50
+2015-02-23,a15b86d7-484c-c362-f450-faa2ac14842b,bae56979-8b80-dcf3-3977-34337781b965,337388004,Blood glucose testing strips (physical object),50
+2015-02-23,a15b86d7-484c-c362-f450-faa2ac14842b,bae56979-8b80-dcf3-3977-34337781b965,1137596000,Blood lancet (physical object),100
+2016-02-29,a15b86d7-484c-c362-f450-faa2ac14842b,d964d2b3-7491-1bd9-9358-6c2a22ffe856,337388004,Blood glucose testing strips (physical object),50
+2017-03-06,a15b86d7-484c-c362-f450-faa2ac14842b,2ac6d6bf-a2bb-0efa-a1be-baca2696da0c,337388004,Blood glucose testing strips (physical object),50
+2018-03-12,a15b86d7-484c-c362-f450-faa2ac14842b,dfca3239-c4a6-915d-073b-a5dbb5608bcd,1137596000,Blood lancet (physical object),100
+2019-03-18,a15b86d7-484c-c362-f450-faa2ac14842b,fb72ae18-8641-66fa-46e1-c8bf716eeaf3,337388004,Blood glucose testing strips (physical object),50
+2020-03-23,a15b86d7-484c-c362-f450-faa2ac14842b,ec2147d4-c403-0df6-8a71-af7b140c2bdf,8537005,Solution (substance),100
+2021-03-29,a15b86d7-484c-c362-f450-faa2ac14842b,c4dddd56-6653-79aa-0a6f-e8ec3d0f46e3,337388004,Blood glucose testing strips (physical object),50
+2022-04-04,a15b86d7-484c-c362-f450-faa2ac14842b,ed42f5d8-2477-5ec3-ac18-c5dc63529621,337388004,Blood glucose testing strips (physical object),50
+2022-04-04,a15b86d7-484c-c362-f450-faa2ac14842b,ed42f5d8-2477-5ec3-ac18-c5dc63529621,1137596000,Blood lancet (physical object),100
+2021-02-03,4b9c916a-1c39-acc1-aef3-1d045620ae02,e5fa6292-e26d-679d-e4ed-20e436f00dbf,409534002,Disposable air-purifying respirator (physical object),2
+2021-02-03,4b9c916a-1c39-acc1-aef3-1d045620ae02,e5fa6292-e26d-679d-e4ed-20e436f00dbf,713779008,Nitrile examination/treatment glove  non-powdered  sterile (physical object),24
+2021-02-03,4b9c916a-1c39-acc1-aef3-1d045620ae02,e5fa6292-e26d-679d-e4ed-20e436f00dbf,469673003,Isolation gown  single-use (physical object),12
+2021-02-03,4b9c916a-1c39-acc1-aef3-1d045620ae02,e5fa6292-e26d-679d-e4ed-20e436f00dbf,706724001,Face shield (physical object),2
+2021-02-03,4b9c916a-1c39-acc1-aef3-1d045620ae02,e5fa6292-e26d-679d-e4ed-20e436f00dbf,419343004,Alcohol disinfectant (substance),1
+2021-02-03,4b9c916a-1c39-acc1-aef3-1d045620ae02,e5fa6292-e26d-679d-e4ed-20e436f00dbf,470618009,Antiseptic towelette (physical object),8
+2021-02-04,4b9c916a-1c39-acc1-aef3-1d045620ae02,e5fa6292-e26d-679d-e4ed-20e436f00dbf,409534002,Disposable air-purifying respirator (physical object),2
+2021-02-04,4b9c916a-1c39-acc1-aef3-1d045620ae02,e5fa6292-e26d-679d-e4ed-20e436f00dbf,713779008,Nitrile examination/treatment glove  non-powdered  sterile (physical object),24
+2021-02-04,4b9c916a-1c39-acc1-aef3-1d045620ae02,e5fa6292-e26d-679d-e4ed-20e436f00dbf,469673003,Isolation gown  single-use (physical object),12
+2021-02-04,4b9c916a-1c39-acc1-aef3-1d045620ae02,e5fa6292-e26d-679d-e4ed-20e436f00dbf,706724001,Face shield (physical object),2
+2021-02-04,4b9c916a-1c39-acc1-aef3-1d045620ae02,e5fa6292-e26d-679d-e4ed-20e436f00dbf,419343004,Alcohol disinfectant (substance),1
+2021-02-04,4b9c916a-1c39-acc1-aef3-1d045620ae02,e5fa6292-e26d-679d-e4ed-20e436f00dbf,470618009,Antiseptic towelette (physical object),8
+2021-02-05,4b9c916a-1c39-acc1-aef3-1d045620ae02,e5fa6292-e26d-679d-e4ed-20e436f00dbf,409534002,Disposable air-purifying respirator (physical object),2
+2021-02-05,4b9c916a-1c39-acc1-aef3-1d045620ae02,e5fa6292-e26d-679d-e4ed-20e436f00dbf,713779008,Nitrile examination/treatment glove  non-powdered  sterile (physical object),24
+2021-02-05,4b9c916a-1c39-acc1-aef3-1d045620ae02,e5fa6292-e26d-679d-e4ed-20e436f00dbf,469673003,Isolation gown  single-use (physical object),12
+2021-02-05,4b9c916a-1c39-acc1-aef3-1d045620ae02,e5fa6292-e26d-679d-e4ed-20e436f00dbf,706724001,Face shield (physical object),2
+2021-02-05,4b9c916a-1c39-acc1-aef3-1d045620ae02,e5fa6292-e26d-679d-e4ed-20e436f00dbf,419343004,Alcohol disinfectant (substance),1
+2021-02-05,4b9c916a-1c39-acc1-aef3-1d045620ae02,e5fa6292-e26d-679d-e4ed-20e436f00dbf,470618009,Antiseptic towelette (physical object),8
+2021-02-06,4b9c916a-1c39-acc1-aef3-1d045620ae02,e5fa6292-e26d-679d-e4ed-20e436f00dbf,409534002,Disposable air-purifying respirator (physical object),2
+2021-02-06,4b9c916a-1c39-acc1-aef3-1d045620ae02,e5fa6292-e26d-679d-e4ed-20e436f00dbf,713779008,Nitrile examination/treatment glove  non-powdered  sterile (physical object),24
+2021-02-06,4b9c916a-1c39-acc1-aef3-1d045620ae02,e5fa6292-e26d-679d-e4ed-20e436f00dbf,469673003,Isolation gown  single-use (physical object),12
+2021-02-06,4b9c916a-1c39-acc1-aef3-1d045620ae02,e5fa6292-e26d-679d-e4ed-20e436f00dbf,706724001,Face shield (physical object),2
+2021-02-06,4b9c916a-1c39-acc1-aef3-1d045620ae02,e5fa6292-e26d-679d-e4ed-20e436f00dbf,419343004,Alcohol disinfectant (substance),1
+2021-02-06,4b9c916a-1c39-acc1-aef3-1d045620ae02,e5fa6292-e26d-679d-e4ed-20e436f00dbf,470618009,Antiseptic towelette (physical object),8
+2021-02-07,4b9c916a-1c39-acc1-aef3-1d045620ae02,e5fa6292-e26d-679d-e4ed-20e436f00dbf,409534002,Disposable air-purifying respirator (physical object),2
+2021-02-07,4b9c916a-1c39-acc1-aef3-1d045620ae02,e5fa6292-e26d-679d-e4ed-20e436f00dbf,713779008,Nitrile examination/treatment glove  non-powdered  sterile (physical object),24
+2021-02-07,4b9c916a-1c39-acc1-aef3-1d045620ae02,e5fa6292-e26d-679d-e4ed-20e436f00dbf,469673003,Isolation gown  single-use (physical object),12
+2021-02-07,4b9c916a-1c39-acc1-aef3-1d045620ae02,e5fa6292-e26d-679d-e4ed-20e436f00dbf,706724001,Face shield (physical object),2
+2021-02-07,4b9c916a-1c39-acc1-aef3-1d045620ae02,e5fa6292-e26d-679d-e4ed-20e436f00dbf,419343004,Alcohol disinfectant (substance),1
+2021-02-07,4b9c916a-1c39-acc1-aef3-1d045620ae02,e5fa6292-e26d-679d-e4ed-20e436f00dbf,470618009,Antiseptic towelette (physical object),8
+2021-02-08,4b9c916a-1c39-acc1-aef3-1d045620ae02,e5fa6292-e26d-679d-e4ed-20e436f00dbf,409534002,Disposable air-purifying respirator (physical object),2
+2021-02-08,4b9c916a-1c39-acc1-aef3-1d045620ae02,e5fa6292-e26d-679d-e4ed-20e436f00dbf,713779008,Nitrile examination/treatment glove  non-powdered  sterile (physical object),24
+2021-02-08,4b9c916a-1c39-acc1-aef3-1d045620ae02,e5fa6292-e26d-679d-e4ed-20e436f00dbf,469673003,Isolation gown  single-use (physical object),12
+2021-02-08,4b9c916a-1c39-acc1-aef3-1d045620ae02,e5fa6292-e26d-679d-e4ed-20e436f00dbf,706724001,Face shield (physical object),2
+2021-02-08,4b9c916a-1c39-acc1-aef3-1d045620ae02,e5fa6292-e26d-679d-e4ed-20e436f00dbf,419343004,Alcohol disinfectant (substance),1
+2021-02-08,4b9c916a-1c39-acc1-aef3-1d045620ae02,e5fa6292-e26d-679d-e4ed-20e436f00dbf,470618009,Antiseptic towelette (physical object),8
+2021-02-09,4b9c916a-1c39-acc1-aef3-1d045620ae02,e5fa6292-e26d-679d-e4ed-20e436f00dbf,409534002,Disposable air-purifying respirator (physical object),2
+2021-02-09,4b9c916a-1c39-acc1-aef3-1d045620ae02,e5fa6292-e26d-679d-e4ed-20e436f00dbf,713779008,Nitrile examination/treatment glove  non-powdered  sterile (physical object),24
+2021-02-09,4b9c916a-1c39-acc1-aef3-1d045620ae02,e5fa6292-e26d-679d-e4ed-20e436f00dbf,469673003,Isolation gown  single-use (physical object),12
+2021-02-09,4b9c916a-1c39-acc1-aef3-1d045620ae02,e5fa6292-e26d-679d-e4ed-20e436f00dbf,706724001,Face shield (physical object),2
+2021-02-09,4b9c916a-1c39-acc1-aef3-1d045620ae02,e5fa6292-e26d-679d-e4ed-20e436f00dbf,419343004,Alcohol disinfectant (substance),1
+2021-02-09,4b9c916a-1c39-acc1-aef3-1d045620ae02,e5fa6292-e26d-679d-e4ed-20e436f00dbf,470618009,Antiseptic towelette (physical object),8
+2021-02-10,4b9c916a-1c39-acc1-aef3-1d045620ae02,e5fa6292-e26d-679d-e4ed-20e436f00dbf,409534002,Disposable air-purifying respirator (physical object),2
+2021-02-10,4b9c916a-1c39-acc1-aef3-1d045620ae02,e5fa6292-e26d-679d-e4ed-20e436f00dbf,713779008,Nitrile examination/treatment glove  non-powdered  sterile (physical object),24
+2021-02-10,4b9c916a-1c39-acc1-aef3-1d045620ae02,e5fa6292-e26d-679d-e4ed-20e436f00dbf,469673003,Isolation gown  single-use (physical object),12
+2021-02-10,4b9c916a-1c39-acc1-aef3-1d045620ae02,e5fa6292-e26d-679d-e4ed-20e436f00dbf,706724001,Face shield (physical object),2
+2021-02-10,4b9c916a-1c39-acc1-aef3-1d045620ae02,e5fa6292-e26d-679d-e4ed-20e436f00dbf,419343004,Alcohol disinfectant (substance),1
+2021-02-10,4b9c916a-1c39-acc1-aef3-1d045620ae02,e5fa6292-e26d-679d-e4ed-20e436f00dbf,470618009,Antiseptic towelette (physical object),8
+2021-02-11,4b9c916a-1c39-acc1-aef3-1d045620ae02,e5fa6292-e26d-679d-e4ed-20e436f00dbf,409534002,Disposable air-purifying respirator (physical object),2
+2021-02-11,4b9c916a-1c39-acc1-aef3-1d045620ae02,e5fa6292-e26d-679d-e4ed-20e436f00dbf,713779008,Nitrile examination/treatment glove  non-powdered  sterile (physical object),24
+2021-02-11,4b9c916a-1c39-acc1-aef3-1d045620ae02,e5fa6292-e26d-679d-e4ed-20e436f00dbf,469673003,Isolation gown  single-use (physical object),12
+2021-02-11,4b9c916a-1c39-acc1-aef3-1d045620ae02,e5fa6292-e26d-679d-e4ed-20e436f00dbf,706724001,Face shield (physical object),2
+2021-02-11,4b9c916a-1c39-acc1-aef3-1d045620ae02,e5fa6292-e26d-679d-e4ed-20e436f00dbf,419343004,Alcohol disinfectant (substance),1
+2021-02-11,4b9c916a-1c39-acc1-aef3-1d045620ae02,e5fa6292-e26d-679d-e4ed-20e436f00dbf,470618009,Antiseptic towelette (physical object),8
+2021-02-12,4b9c916a-1c39-acc1-aef3-1d045620ae02,e5fa6292-e26d-679d-e4ed-20e436f00dbf,409534002,Disposable air-purifying respirator (physical object),2
+2021-02-12,4b9c916a-1c39-acc1-aef3-1d045620ae02,e5fa6292-e26d-679d-e4ed-20e436f00dbf,713779008,Nitrile examination/treatment glove  non-powdered  sterile (physical object),24
+2021-02-12,4b9c916a-1c39-acc1-aef3-1d045620ae02,e5fa6292-e26d-679d-e4ed-20e436f00dbf,469673003,Isolation gown  single-use (physical object),12
+2021-02-12,4b9c916a-1c39-acc1-aef3-1d045620ae02,e5fa6292-e26d-679d-e4ed-20e436f00dbf,706724001,Face shield (physical object),2
+2021-02-12,4b9c916a-1c39-acc1-aef3-1d045620ae02,e5fa6292-e26d-679d-e4ed-20e436f00dbf,419343004,Alcohol disinfectant (substance),1
+2021-02-12,4b9c916a-1c39-acc1-aef3-1d045620ae02,e5fa6292-e26d-679d-e4ed-20e436f00dbf,470618009,Antiseptic towelette (physical object),8
+2021-02-13,4b9c916a-1c39-acc1-aef3-1d045620ae02,e5fa6292-e26d-679d-e4ed-20e436f00dbf,409534002,Disposable air-purifying respirator (physical object),2
+2021-02-13,4b9c916a-1c39-acc1-aef3-1d045620ae02,e5fa6292-e26d-679d-e4ed-20e436f00dbf,713779008,Nitrile examination/treatment glove  non-powdered  sterile (physical object),24
+2021-02-13,4b9c916a-1c39-acc1-aef3-1d045620ae02,e5fa6292-e26d-679d-e4ed-20e436f00dbf,469673003,Isolation gown  single-use (physical object),12
+2021-02-13,4b9c916a-1c39-acc1-aef3-1d045620ae02,e5fa6292-e26d-679d-e4ed-20e436f00dbf,706724001,Face shield (physical object),2
+2021-02-13,4b9c916a-1c39-acc1-aef3-1d045620ae02,e5fa6292-e26d-679d-e4ed-20e436f00dbf,419343004,Alcohol disinfectant (substance),1
+2021-02-13,4b9c916a-1c39-acc1-aef3-1d045620ae02,e5fa6292-e26d-679d-e4ed-20e436f00dbf,470618009,Antiseptic towelette (physical object),8
+2021-02-14,4b9c916a-1c39-acc1-aef3-1d045620ae02,e5fa6292-e26d-679d-e4ed-20e436f00dbf,409534002,Disposable air-purifying respirator (physical object),2
+2021-02-14,4b9c916a-1c39-acc1-aef3-1d045620ae02,e5fa6292-e26d-679d-e4ed-20e436f00dbf,713779008,Nitrile examination/treatment glove  non-powdered  sterile (physical object),24
+2021-02-14,4b9c916a-1c39-acc1-aef3-1d045620ae02,e5fa6292-e26d-679d-e4ed-20e436f00dbf,469673003,Isolation gown  single-use (physical object),12
+2021-02-14,4b9c916a-1c39-acc1-aef3-1d045620ae02,e5fa6292-e26d-679d-e4ed-20e436f00dbf,706724001,Face shield (physical object),2
+2021-02-14,4b9c916a-1c39-acc1-aef3-1d045620ae02,e5fa6292-e26d-679d-e4ed-20e436f00dbf,419343004,Alcohol disinfectant (substance),1
+2021-02-14,4b9c916a-1c39-acc1-aef3-1d045620ae02,e5fa6292-e26d-679d-e4ed-20e436f00dbf,470618009,Antiseptic towelette (physical object),8
+2021-02-15,4b9c916a-1c39-acc1-aef3-1d045620ae02,e5fa6292-e26d-679d-e4ed-20e436f00dbf,409534002,Disposable air-purifying respirator (physical object),2
+2021-02-15,4b9c916a-1c39-acc1-aef3-1d045620ae02,e5fa6292-e26d-679d-e4ed-20e436f00dbf,713779008,Nitrile examination/treatment glove  non-powdered  sterile (physical object),24
+2021-02-15,4b9c916a-1c39-acc1-aef3-1d045620ae02,e5fa6292-e26d-679d-e4ed-20e436f00dbf,469673003,Isolation gown  single-use (physical object),12
+2021-02-15,4b9c916a-1c39-acc1-aef3-1d045620ae02,e5fa6292-e26d-679d-e4ed-20e436f00dbf,706724001,Face shield (physical object),2
+2021-02-15,4b9c916a-1c39-acc1-aef3-1d045620ae02,e5fa6292-e26d-679d-e4ed-20e436f00dbf,419343004,Alcohol disinfectant (substance),1
+2021-02-15,4b9c916a-1c39-acc1-aef3-1d045620ae02,e5fa6292-e26d-679d-e4ed-20e436f00dbf,470618009,Antiseptic towelette (physical object),8
+2005-04-10,a6098ac7-2263-44f1-b8e0-11d5e321a0a9,223c593e-6a45-f267-c58c-73bbd1e5c523,337388004,Blood glucose testing strips (physical object),50
+2008-04-13,a6098ac7-2263-44f1-b8e0-11d5e321a0a9,d044a0dd-5e80-a19c-171e-a12d2fb07879,337388004,Blood glucose testing strips (physical object),50
+2013-02-03,a6098ac7-2263-44f1-b8e0-11d5e321a0a9,309b8ec9-c6f2-74e3-9edf-ffd1cb7414a0,337388004,Blood glucose testing strips (physical object),50
+2015-02-08,a6098ac7-2263-44f1-b8e0-11d5e321a0a9,e37c0eee-bc55-2811-76c9-5a8d4afbdead,337388004,Blood glucose testing strips (physical object),50
+2017-02-12,a6098ac7-2263-44f1-b8e0-11d5e321a0a9,776e875b-c1cb-224c-e789-c8eb9bf6151c,337388004,Blood glucose testing strips (physical object),50
+2018-04-01,a6098ac7-2263-44f1-b8e0-11d5e321a0a9,da6179bb-b384-1101-794a-d4d46f7c9e73,337388004,Blood glucose testing strips (physical object),50
+2019-02-17,a6098ac7-2263-44f1-b8e0-11d5e321a0a9,47dd7175-d1fe-e463-bf3e-44c087af1cd1,337388004,Blood glucose testing strips (physical object),50
+2021-01-24,a6098ac7-2263-44f1-b8e0-11d5e321a0a9,f0fad818-deeb-11cc-4929-b755f7891039,337388004,Blood glucose testing strips (physical object),50
+2021-01-24,a6098ac7-2263-44f1-b8e0-11d5e321a0a9,f0fad818-deeb-11cc-4929-b755f7891039,1137596000,Blood lancet (physical object),100
+2023-02-05,a6098ac7-2263-44f1-b8e0-11d5e321a0a9,1ad4f45d-bfb0-7d7a-0fcd-d6854a803fc2,337388004,Blood glucose testing strips (physical object),50
+1996-03-31,7f3726a1-ab1b-9ce0-94bd-34436514ccc1,4e7dde4f-831b-9380-6e49-aa9a9afb564f,337388004,Blood glucose testing strips (physical object),50
+1996-03-31,7f3726a1-ab1b-9ce0-94bd-34436514ccc1,4e7dde4f-831b-9380-6e49-aa9a9afb564f,1137596000,Blood lancet (physical object),100
+2013-02-03,7f3726a1-ab1b-9ce0-94bd-34436514ccc1,c58d3181-5288-c22d-4b68-d650a28e91a8,337388004,Blood glucose testing strips (physical object),50
+2015-02-08,7f3726a1-ab1b-9ce0-94bd-34436514ccc1,28097c76-497e-cc16-ec46-8db8dd88f098,337388004,Blood glucose testing strips (physical object),50
+2017-02-12,7f3726a1-ab1b-9ce0-94bd-34436514ccc1,0cc63738-34f7-5e3b-4545-9f1959a3eb14,337388004,Blood glucose testing strips (physical object),50
+2018-06-24,7f3726a1-ab1b-9ce0-94bd-34436514ccc1,3c97751b-d306-4017-f31a-41890604b3d7,337388004,Blood glucose testing strips (physical object),50
+2019-02-17,7f3726a1-ab1b-9ce0-94bd-34436514ccc1,5d7861bd-c633-786a-e43b-39ea105ebc4f,337388004,Blood glucose testing strips (physical object),50
+2022-01-30,7f3726a1-ab1b-9ce0-94bd-34436514ccc1,aaa83993-61d0-808b-2cba-ccbc6820673a,337388004,Blood glucose testing strips (physical object),50
+2022-01-30,7f3726a1-ab1b-9ce0-94bd-34436514ccc1,aaa83993-61d0-808b-2cba-ccbc6820673a,1137596000,Blood lancet (physical object),100
+1988-12-12,82e66fb7-016f-65d1-6ab2-d6d5af58576b,4a16b001-59a5-e964-f69d-650b56a98e42,337388004,Blood glucose testing strips (physical object),50
+2000-12-25,82e66fb7-016f-65d1-6ab2-d6d5af58576b,115243f3-ccec-ac33-8428-933ed62c75e2,337388004,Blood glucose testing strips (physical object),50
+2010-10-25,82e66fb7-016f-65d1-6ab2-d6d5af58576b,03a461b7-2605-728e-1182-eb3a0f5fa00a,337388004,Blood glucose testing strips (physical object),50
+2010-10-25,82e66fb7-016f-65d1-6ab2-d6d5af58576b,03a461b7-2605-728e-1182-eb3a0f5fa00a,1137596000,Blood lancet (physical object),100
+2012-10-29,82e66fb7-016f-65d1-6ab2-d6d5af58576b,e83d05eb-053a-8939-9f42-7a20fb1206db,337388004,Blood glucose testing strips (physical object),50
+2012-12-24,82e66fb7-016f-65d1-6ab2-d6d5af58576b,8c77180d-171b-8e5f-5e10-911cd49da550,337388004,Blood glucose testing strips (physical object),50
+2014-02-17,82e66fb7-016f-65d1-6ab2-d6d5af58576b,12743b3a-17bc-fb15-9858-13c127a236db,337388004,Blood glucose testing strips (physical object),50
+2016-02-29,82e66fb7-016f-65d1-6ab2-d6d5af58576b,0212277f-f7a2-3762-587a-a728b0194390,337388004,Blood glucose testing strips (physical object),50
+2017-03-06,82e66fb7-016f-65d1-6ab2-d6d5af58576b,02239d52-3aca-6026-f6f5-3287b078157c,337388004,Blood glucose testing strips (physical object),50
+2017-03-06,82e66fb7-016f-65d1-6ab2-d6d5af58576b,02239d52-3aca-6026-f6f5-3287b078157c,1137596000,Blood lancet (physical object),100
+2018-03-12,82e66fb7-016f-65d1-6ab2-d6d5af58576b,6dddd414-499b-93de-a5f6-cc037fdea5b1,337388004,Blood glucose testing strips (physical object),50
+2020-03-23,82e66fb7-016f-65d1-6ab2-d6d5af58576b,a89180ca-efac-ddf1-ad44-44716149c5ef,337388004,Blood glucose testing strips (physical object),50
+2021-03-29,82e66fb7-016f-65d1-6ab2-d6d5af58576b,416c47aa-6913-2329-9a64-ceb7381bbc0f,337388004,Blood glucose testing strips (physical object),50
+2022-04-04,82e66fb7-016f-65d1-6ab2-d6d5af58576b,d90a295d-6fd9-12e7-b276-398561273035,337388004,Blood glucose testing strips (physical object),50
+2022-04-04,82e66fb7-016f-65d1-6ab2-d6d5af58576b,d90a295d-6fd9-12e7-b276-398561273035,1137596000,Blood lancet (physical object),100
+2023-04-10,82e66fb7-016f-65d1-6ab2-d6d5af58576b,0b6c0234-8bee-8b50-30ec-3f1764704c02,337388004,Blood glucose testing strips (physical object),50
+2023-04-10,82e66fb7-016f-65d1-6ab2-d6d5af58576b,0b6c0234-8bee-8b50-30ec-3f1764704c02,337388004,Blood glucose testing strips (physical object),50
+2023-04-10,82e66fb7-016f-65d1-6ab2-d6d5af58576b,0b6c0234-8bee-8b50-30ec-3f1764704c02,1137596000,Blood lancet (physical object),100
+2017-12-08,b07fb5d9-fef2-acee-aabb-0fd13577a115,5246c53d-dfe6-21f6-b26f-6d6554a07dab,337388004,Blood glucose testing strips (physical object),50
+2017-12-08,b07fb5d9-fef2-acee-aabb-0fd13577a115,5246c53d-dfe6-21f6-b26f-6d6554a07dab,1137596000,Blood lancet (physical object),100
+2020-12-25,b07fb5d9-fef2-acee-aabb-0fd13577a115,d283d4c5-e335-11fd-dbd5-b3972e7eba62,337388004,Blood glucose testing strips (physical object),50
+2021-12-31,b07fb5d9-fef2-acee-aabb-0fd13577a115,5ce7b2c7-b701-8e63-0351-35b0960abd27,337388004,Blood glucose testing strips (physical object),50
+2021-12-31,b07fb5d9-fef2-acee-aabb-0fd13577a115,5ce7b2c7-b701-8e63-0351-35b0960abd27,1137596000,Blood lancet (physical object),100
+2023-01-06,b07fb5d9-fef2-acee-aabb-0fd13577a115,e5d6e5b6-6e59-5623-1f98-69bfa31267a3,337388004,Blood glucose testing strips (physical object),50
+2008-10-26,4e728fb1-a347-f0e5-b1b9-bd365b315d74,01d9f24c-4ef3-de77-c9a0-3376a59b44a1,337388004,Blood glucose testing strips (physical object),50
+2011-10-30,4e728fb1-a347-f0e5-b1b9-bd365b315d74,d18a03ac-3142-7575-61b2-c7b0c5e12b5d,337388004,Blood glucose testing strips (physical object),50
+2014-02-16,4e728fb1-a347-f0e5-b1b9-bd365b315d74,748e4d69-0561-8bb1-b72e-ccaf8acd6c4e,337388004,Blood glucose testing strips (physical object),50
+2014-02-16,4e728fb1-a347-f0e5-b1b9-bd365b315d74,748e4d69-0561-8bb1-b72e-ccaf8acd6c4e,1137596000,Blood lancet (physical object),100
+2014-11-02,4e728fb1-a347-f0e5-b1b9-bd365b315d74,a813d560-2033-e18e-15d5-8585464fb190,337388004,Blood glucose testing strips (physical object),50
+2015-02-22,4e728fb1-a347-f0e5-b1b9-bd365b315d74,d7306462-769a-1043-4cb5-98a7aebed019,8537005,Solution (substance),100
+2018-03-11,4e728fb1-a347-f0e5-b1b9-bd365b315d74,50db2900-6e7c-2eb2-428a-a64ff207eb3d,337388004,Blood glucose testing strips (physical object),50
+2019-03-17,4e728fb1-a347-f0e5-b1b9-bd365b315d74,89f217bc-ad2f-4acc-a901-774cd316b3ef,1137596000,Blood lancet (physical object),100
+2021-03-28,4e728fb1-a347-f0e5-b1b9-bd365b315d74,8f224a63-07cf-d18b-c966-50eaf450135f,337388004,Blood glucose testing strips (physical object),50
+2021-03-28,4e728fb1-a347-f0e5-b1b9-bd365b315d74,8f224a63-07cf-d18b-c966-50eaf450135f,1137596000,Blood lancet (physical object),100
+2022-04-03,4e728fb1-a347-f0e5-b1b9-bd365b315d74,6ceb3737-8354-e1ff-cb03-34ad2ffbb856,337388004,Blood glucose testing strips (physical object),50
+2023-04-09,4e728fb1-a347-f0e5-b1b9-bd365b315d74,38747937-6f7b-c4c5-200a-96c366b482b3,337388004,Blood glucose testing strips (physical object),50
+1994-10-24,b4faccc9-4558-5663-3dfd-41ecf26bdbd5,602ff013-1278-af3c-aecc-b6d10f9d3541,337388004,Blood glucose testing strips (physical object),50
+2005-12-26,b4faccc9-4558-5663-3dfd-41ecf26bdbd5,fbf34a4f-07a9-a9cf-5ec5-1724583177d0,337388004,Blood glucose testing strips (physical object),50
+2007-01-01,b4faccc9-4558-5663-3dfd-41ecf26bdbd5,7abf4884-1173-4c8d-0861-0e6ce2e1cc10,337388004,Blood glucose testing strips (physical object),50
+2010-01-18,b4faccc9-4558-5663-3dfd-41ecf26bdbd5,b8ed122d-8346-cb48-239b-0ea6960f3974,1137596000,Blood lancet (physical object),100
+2013-02-04,b4faccc9-4558-5663-3dfd-41ecf26bdbd5,3527f2d4-d791-8b32-272c-bc9ca51b594c,337388004,Blood glucose testing strips (physical object),50
+2014-02-10,b4faccc9-4558-5663-3dfd-41ecf26bdbd5,9adb299a-c876-aa44-c11a-44bc56991756,337388004,Blood glucose testing strips (physical object),50
+2014-10-06,b4faccc9-4558-5663-3dfd-41ecf26bdbd5,a659bcbd-2331-4e23-beaf-c317fc54716c,337388004,Blood glucose testing strips (physical object),50
+2014-10-27,b4faccc9-4558-5663-3dfd-41ecf26bdbd5,f780a58a-7a0e-14bd-698c-549d8ef469aa,337388004,Blood glucose testing strips (physical object),50
+2016-02-22,b4faccc9-4558-5663-3dfd-41ecf26bdbd5,92bf4f11-b9e8-8f64-40c8-8edd7a62c6a0,337388004,Blood glucose testing strips (physical object),50
+2017-02-27,b4faccc9-4558-5663-3dfd-41ecf26bdbd5,de3aea78-f517-3aab-67d7-6fcac0375205,337388004,Blood glucose testing strips (physical object),50
+2008-03-31,9ba7c077-65cc-65d2-b8bd-d6ec76ab67ca,0853d43e-050d-ebbd-611a-84f9f038eec7,337388004,Blood glucose testing strips (physical object),50
+2009-04-06,9ba7c077-65cc-65d2-b8bd-d6ec76ab67ca,2ef64092-7b8b-ee0c-c638-936d273ee52e,337388004,Blood glucose testing strips (physical object),50
+2013-04-29,9ba7c077-65cc-65d2-b8bd-d6ec76ab67ca,62822677-71ae-f55b-6158-a51aa9d5bba9,337388004,Blood glucose testing strips (physical object),50
+2014-05-05,9ba7c077-65cc-65d2-b8bd-d6ec76ab67ca,05a988e1-4c49-e28d-0b74-263c1a174a88,1137596000,Blood lancet (physical object),100
+2016-05-16,9ba7c077-65cc-65d2-b8bd-d6ec76ab67ca,86e96aae-d498-af8a-1a68-58dd38ce6e75,337388004,Blood glucose testing strips (physical object),50
+2016-05-16,9ba7c077-65cc-65d2-b8bd-d6ec76ab67ca,86e96aae-d498-af8a-1a68-58dd38ce6e75,1137596000,Blood lancet (physical object),100
+2017-05-22,9ba7c077-65cc-65d2-b8bd-d6ec76ab67ca,ccc93d2b-5ee1-0488-6470-625961810c6c,337388004,Blood glucose testing strips (physical object),50
+2018-05-28,9ba7c077-65cc-65d2-b8bd-d6ec76ab67ca,7f7f4968-bd59-3386-d288-4dc25a35a6ac,1137596000,Blood lancet (physical object),100
+2019-06-03,9ba7c077-65cc-65d2-b8bd-d6ec76ab67ca,25a70d46-d254-5f57-a405-933a49da5b76,337388004,Blood glucose testing strips (physical object),50
+2020-06-08,9ba7c077-65cc-65d2-b8bd-d6ec76ab67ca,ae7d77ef-017d-ff4a-b009-8e048c3278dd,337388004,Blood glucose testing strips (physical object),50
+2020-06-08,9ba7c077-65cc-65d2-b8bd-d6ec76ab67ca,ae7d77ef-017d-ff4a-b009-8e048c3278dd,1137596000,Blood lancet (physical object),100
+2021-05-24,9ba7c077-65cc-65d2-b8bd-d6ec76ab67ca,c8ecf41e-c3c3-c465-6d96-f2355172613c,337388004,Blood glucose testing strips (physical object),50
+2021-05-24,9ba7c077-65cc-65d2-b8bd-d6ec76ab67ca,c8ecf41e-c3c3-c465-6d96-f2355172613c,1137596000,Blood lancet (physical object),100
+2021-05-31,9ba7c077-65cc-65d2-b8bd-d6ec76ab67ca,17b13408-bcea-8db0-a3af-75c64ce7f657,1137596000,Blood lancet (physical object),100
+2021-06-14,9ba7c077-65cc-65d2-b8bd-d6ec76ab67ca,c74c9ee4-a826-76ff-32e0-32827d2ad851,337388004,Blood glucose testing strips (physical object),50
+2021-06-14,9ba7c077-65cc-65d2-b8bd-d6ec76ab67ca,c74c9ee4-a826-76ff-32e0-32827d2ad851,1137596000,Blood lancet (physical object),100
+2022-06-20,9ba7c077-65cc-65d2-b8bd-d6ec76ab67ca,896dba44-b3a8-7991-2103-808299ef9e94,337388004,Blood glucose testing strips (physical object),50
+2022-06-20,9ba7c077-65cc-65d2-b8bd-d6ec76ab67ca,896dba44-b3a8-7991-2103-808299ef9e94,1137596000,Blood lancet (physical object),100
+2023-06-26,9ba7c077-65cc-65d2-b8bd-d6ec76ab67ca,e6061639-1183-0259-651d-82180ffc111b,337388004,Blood glucose testing strips (physical object),50
+2010-11-27,d7487ef4-dfe9-37b2-ea2b-db9d42cfd357,4e51b2f2-214a-8940-c851-aab7ce68cc2a,337388004,Blood glucose testing strips (physical object),50
+2010-11-27,d7487ef4-dfe9-37b2-ea2b-db9d42cfd357,4e51b2f2-214a-8940-c851-aab7ce68cc2a,1137596000,Blood lancet (physical object),100
+2011-12-03,d7487ef4-dfe9-37b2-ea2b-db9d42cfd357,0caeae97-af8c-db4b-dabf-e84a12625265,337388004,Blood glucose testing strips (physical object),50
+2013-12-14,d7487ef4-dfe9-37b2-ea2b-db9d42cfd357,1d198147-9c53-0f89-9c13-b8b95b53c00c,337388004,Blood glucose testing strips (physical object),50
+2013-12-14,d7487ef4-dfe9-37b2-ea2b-db9d42cfd357,1d198147-9c53-0f89-9c13-b8b95b53c00c,1137596000,Blood lancet (physical object),100
+2014-12-20,d7487ef4-dfe9-37b2-ea2b-db9d42cfd357,8db5607d-220b-ec51-4324-f48f3c55a86b,337388004,Blood glucose testing strips (physical object),50
+2014-12-20,d7487ef4-dfe9-37b2-ea2b-db9d42cfd357,8db5607d-220b-ec51-4324-f48f3c55a86b,1137596000,Blood lancet (physical object),100
+2015-12-26,d7487ef4-dfe9-37b2-ea2b-db9d42cfd357,a4c04cf4-f5a0-cc84-db28-e8a9439567dc,1137596000,Blood lancet (physical object),100
+2016-12-31,d7487ef4-dfe9-37b2-ea2b-db9d42cfd357,26d045c2-37eb-8604-2199-96c542e41be3,337388004,Blood glucose testing strips (physical object),50
+2018-01-06,d7487ef4-dfe9-37b2-ea2b-db9d42cfd357,59fad261-7ac9-e8bc-b5de-6e813d661d70,337388004,Blood glucose testing strips (physical object),50
+2019-01-12,d7487ef4-dfe9-37b2-ea2b-db9d42cfd357,deead43b-46b8-019f-29c3-851578fff6e4,337388004,Blood glucose testing strips (physical object),50
+2020-01-18,d7487ef4-dfe9-37b2-ea2b-db9d42cfd357,6347dfed-33c0-b82e-cdc6-36762bb18ea8,337388004,Blood glucose testing strips (physical object),50
+2021-01-23,d7487ef4-dfe9-37b2-ea2b-db9d42cfd357,06a14bf6-b01b-9b26-a08f-247765c87fd6,337388004,Blood glucose testing strips (physical object),50
+2021-01-23,d7487ef4-dfe9-37b2-ea2b-db9d42cfd357,06a14bf6-b01b-9b26-a08f-247765c87fd6,1137596000,Blood lancet (physical object),100
+2022-01-29,d7487ef4-dfe9-37b2-ea2b-db9d42cfd357,4ff14952-4310-075d-d797-80a66b5ccf17,337388004,Blood glucose testing strips (physical object),50
+2023-02-04,d7487ef4-dfe9-37b2-ea2b-db9d42cfd357,56bb6ada-1f68-ac25-3b64-cdb3a78af93c,337388004,Blood glucose testing strips (physical object),50
+2023-02-04,d7487ef4-dfe9-37b2-ea2b-db9d42cfd357,56bb6ada-1f68-ac25-3b64-cdb3a78af93c,1137596000,Blood lancet (physical object),100
+1991-03-22,df9077ac-0a6a-7171-c445-83e4de47ea9e,f57919a2-ad30-d188-db50-215c9cf28188,337388004,Blood glucose testing strips (physical object),50
+1995-04-21,df9077ac-0a6a-7171-c445-83e4de47ea9e,45d71f26-ee51-b3e4-615c-488c52dfbfec,337388004,Blood glucose testing strips (physical object),50
+1995-04-21,df9077ac-0a6a-7171-c445-83e4de47ea9e,45d71f26-ee51-b3e4-615c-488c52dfbfec,1137596000,Blood lancet (physical object),100
+2011-07-06,aa62f88c-f84a-7528-77e9-ceae4e307d98,dacb7646-fe60-52d0-524c-dce6946b7292,337388004,Blood glucose testing strips (physical object),50
+2013-07-17,aa62f88c-f84a-7528-77e9-ceae4e307d98,f4cd9256-a69b-4f16-b1a8-20374923247c,337388004,Blood glucose testing strips (physical object),50
+2013-07-17,aa62f88c-f84a-7528-77e9-ceae4e307d98,f4cd9256-a69b-4f16-b1a8-20374923247c,1137596000,Blood lancet (physical object),100
+2014-07-23,aa62f88c-f84a-7528-77e9-ceae4e307d98,83fcb550-6fbe-5069-c355-5f872d156e84,337388004,Blood glucose testing strips (physical object),50
+2014-07-23,aa62f88c-f84a-7528-77e9-ceae4e307d98,83fcb550-6fbe-5069-c355-5f872d156e84,8537005,Solution (substance),100
+2015-07-29,aa62f88c-f84a-7528-77e9-ceae4e307d98,dd1b2998-5057-9ef5-bc25-13b871ddf53e,337388004,Blood glucose testing strips (physical object),50
+2016-08-03,aa62f88c-f84a-7528-77e9-ceae4e307d98,b28aaaff-9a44-534a-d83f-895bb70b1e6e,337388004,Blood glucose testing strips (physical object),50
+2017-08-09,aa62f88c-f84a-7528-77e9-ceae4e307d98,51d11511-b2a2-db30-07a3-83dddd910d45,337388004,Blood glucose testing strips (physical object),50
+2017-08-09,aa62f88c-f84a-7528-77e9-ceae4e307d98,51d11511-b2a2-db30-07a3-83dddd910d45,1137596000,Blood lancet (physical object),100
+2018-08-15,aa62f88c-f84a-7528-77e9-ceae4e307d98,f94ad25e-18c0-596c-1520-062d4362f0f3,337388004,Blood glucose testing strips (physical object),50
+2018-08-15,aa62f88c-f84a-7528-77e9-ceae4e307d98,f94ad25e-18c0-596c-1520-062d4362f0f3,1137596000,Blood lancet (physical object),100
+2019-08-21,aa62f88c-f84a-7528-77e9-ceae4e307d98,4fe788d2-6702-d566-4ceb-0f9e258157ba,337388004,Blood glucose testing strips (physical object),50
+2020-08-26,aa62f88c-f84a-7528-77e9-ceae4e307d98,7a99a637-f21d-9b7a-9919-33b874a8ca32,337388004,Blood glucose testing strips (physical object),50
+2021-09-01,aa62f88c-f84a-7528-77e9-ceae4e307d98,19ca5b1e-f0be-a688-e7ce-30cb3a05702b,337388004,Blood glucose testing strips (physical object),50
+2022-09-07,aa62f88c-f84a-7528-77e9-ceae4e307d98,63800f8f-4a63-4325-1053-ec664c9a8b07,337388004,Blood glucose testing strips (physical object),50
+2022-09-07,aa62f88c-f84a-7528-77e9-ceae4e307d98,63800f8f-4a63-4325-1053-ec664c9a8b07,1137596000,Blood lancet (physical object),100
+2023-09-13,aa62f88c-f84a-7528-77e9-ceae4e307d98,8ee4a923-0e8e-26b8-eb8b-f71f325b884d,337388004,Blood glucose testing strips (physical object),50
+2014-02-16,6e13e8e0-d846-fe7f-36ea-3eb65b3e3a60,8d7067b5-e42b-af0c-2550-0993a896a30a,337388004,Blood glucose testing strips (physical object),50
+2015-02-22,6e13e8e0-d846-fe7f-36ea-3eb65b3e3a60,58aad8e8-c8bd-c0fe-7b80-d23482ab72df,337388004,Blood glucose testing strips (physical object),50
+2016-02-28,6e13e8e0-d846-fe7f-36ea-3eb65b3e3a60,233619f2-8ef1-0d92-9ae1-a4a674972113,337388004,Blood glucose testing strips (physical object),50
+2018-03-11,6e13e8e0-d846-fe7f-36ea-3eb65b3e3a60,6012481d-d7da-13af-b77f-5f4005654cf7,1137596000,Blood lancet (physical object),100
+2019-03-24,6e13e8e0-d846-fe7f-36ea-3eb65b3e3a60,775e1554-1e98-40ae-5b94-06364c859548,337388004,Blood glucose testing strips (physical object),50
+2020-03-29,6e13e8e0-d846-fe7f-36ea-3eb65b3e3a60,513720b9-8cc1-f44e-b2b8-c448cee1478b,1137596000,Blood lancet (physical object),100
+2021-04-04,6e13e8e0-d846-fe7f-36ea-3eb65b3e3a60,c9cf6f36-9ace-f508-07ab-d1c575764d21,337388004,Blood glucose testing strips (physical object),50
+2022-04-10,6e13e8e0-d846-fe7f-36ea-3eb65b3e3a60,27a6b9e0-b536-8b59-36e2-6f79b91d95e1,337388004,Blood glucose testing strips (physical object),50
+2022-04-10,6e13e8e0-d846-fe7f-36ea-3eb65b3e3a60,27a6b9e0-b536-8b59-36e2-6f79b91d95e1,1137596000,Blood lancet (physical object),100
+2023-04-16,6e13e8e0-d846-fe7f-36ea-3eb65b3e3a60,20845893-e69e-f2b5-d5af-4a8aa93f43ab,337388004,Blood glucose testing strips (physical object),50
+2010-05-21,5530cacc-f34e-5f59-1a29-53c11855ec5c,15799a07-2a98-4eb9-3663-0764f8667977,1137596000,Blood lancet (physical object),100
+2011-04-15,5530cacc-f34e-5f59-1a29-53c11855ec5c,b4b54956-de05-4349-772b-a62066cc7210,337388004,Blood glucose testing strips (physical object),50
+2011-05-27,5530cacc-f34e-5f59-1a29-53c11855ec5c,d1c14839-16fa-5100-af54-2049fa074fa6,337388004,Blood glucose testing strips (physical object),50
+2012-06-01,5530cacc-f34e-5f59-1a29-53c11855ec5c,53de2255-1b17-fc90-5dd9-a64793d1db88,1137596000,Blood lancet (physical object),100
+2013-06-07,5530cacc-f34e-5f59-1a29-53c11855ec5c,6d806d42-731e-16b1-eb6d-1b8df6b8b7e4,337388004,Blood glucose testing strips (physical object),50
+2014-06-13,5530cacc-f34e-5f59-1a29-53c11855ec5c,60da43d7-c94d-c730-e452-beb0aec4072c,337388004,Blood glucose testing strips (physical object),50
+2015-06-19,5530cacc-f34e-5f59-1a29-53c11855ec5c,341267af-c09b-c00e-38a8-2da43f7b6c3a,8537005,Solution (substance),100
+2016-04-22,5530cacc-f34e-5f59-1a29-53c11855ec5c,395ae159-1c79-5e69-0956-8ae3e27a8bc1,337388004,Blood glucose testing strips (physical object),50
+2016-06-24,5530cacc-f34e-5f59-1a29-53c11855ec5c,06962942-470f-ed15-fcb9-da41c71c78be,337388004,Blood glucose testing strips (physical object),50
+2017-06-30,5530cacc-f34e-5f59-1a29-53c11855ec5c,3afdf59d-9127-8410-3979-8e03e897d1f0,337388004,Blood glucose testing strips (physical object),50
+2018-07-06,5530cacc-f34e-5f59-1a29-53c11855ec5c,9f6c4bab-2b2d-f90a-0559-397e737598e8,1137596000,Blood lancet (physical object),100
+2019-07-12,5530cacc-f34e-5f59-1a29-53c11855ec5c,a7e6aabd-bb58-2f10-0089-e1f65559a962,337388004,Blood glucose testing strips (physical object),50
+2020-07-17,5530cacc-f34e-5f59-1a29-53c11855ec5c,b7c4eca9-4b11-17c4-68bb-ecd326250184,337388004,Blood glucose testing strips (physical object),50
+2020-07-17,5530cacc-f34e-5f59-1a29-53c11855ec5c,b7c4eca9-4b11-17c4-68bb-ecd326250184,1137596000,Blood lancet (physical object),100
+2020-07-17,5530cacc-f34e-5f59-1a29-53c11855ec5c,b7c4eca9-4b11-17c4-68bb-ecd326250184,8537005,Solution (substance),100
+1976-02-26,1096b354-d267-356f-5d1d-9ea145fd7edf,0a18f9da-8414-2acc-32d7-a6b0215819e7,337388004,Blood glucose testing strips (physical object),50
+1983-12-22,1096b354-d267-356f-5d1d-9ea145fd7edf,cab060e7-cf17-a02e-26cc-1bcc82c17783,337388004,Blood glucose testing strips (physical object),50
+1985-12-26,1096b354-d267-356f-5d1d-9ea145fd7edf,7b352ba9-8261-8a31-ee24-24ebc74cab1d,337388004,Blood glucose testing strips (physical object),50
+1993-12-23,1096b354-d267-356f-5d1d-9ea145fd7edf,8d305e25-f2c5-53fa-df54-8c7451682432,337388004,Blood glucose testing strips (physical object),50
+1993-12-23,1096b354-d267-356f-5d1d-9ea145fd7edf,8d305e25-f2c5-53fa-df54-8c7451682432,1137596000,Blood lancet (physical object),100
+2004-02-19,1096b354-d267-356f-5d1d-9ea145fd7edf,ba01db63-f1fe-5232-eada-fc752aa57fe1,1137596000,Blood lancet (physical object),100
+2007-03-08,1096b354-d267-356f-5d1d-9ea145fd7edf,748379be-4cde-c3e2-0098-f9457432e6a7,337388004,Blood glucose testing strips (physical object),50
+2011-03-31,1096b354-d267-356f-5d1d-9ea145fd7edf,d5c9ea91-223a-d205-4a46-7eb099df15c3,337388004,Blood glucose testing strips (physical object),50
+2012-04-05,1096b354-d267-356f-5d1d-9ea145fd7edf,a8b517e6-2201-f36b-d896-fe5cbb184668,337388004,Blood glucose testing strips (physical object),50
+2012-04-05,1096b354-d267-356f-5d1d-9ea145fd7edf,a8b517e6-2201-f36b-d896-fe5cbb184668,1137596000,Blood lancet (physical object),100
+2013-04-11,1096b354-d267-356f-5d1d-9ea145fd7edf,7b7e034d-efa2-e3be-2253-0264e58dab8b,337388004,Blood glucose testing strips (physical object),50
+2013-04-11,1096b354-d267-356f-5d1d-9ea145fd7edf,7b7e034d-efa2-e3be-2253-0264e58dab8b,1137596000,Blood lancet (physical object),100
+2015-04-23,1096b354-d267-356f-5d1d-9ea145fd7edf,6f4b79da-e72a-2dd9-8111-b554dd2ee5af,337388004,Blood glucose testing strips (physical object),50
+2017-05-04,1096b354-d267-356f-5d1d-9ea145fd7edf,94399c35-5d89-8d03-449a-fd66e3c9f600,337388004,Blood glucose testing strips (physical object),50
+2018-05-10,1096b354-d267-356f-5d1d-9ea145fd7edf,78ed3db9-83e1-41fc-2737-3289cb8cd3ac,337388004,Blood glucose testing strips (physical object),50
+2019-05-16,1096b354-d267-356f-5d1d-9ea145fd7edf,a89f89d4-3034-277e-4ffa-3e2d4a5e744e,337388004,Blood glucose testing strips (physical object),50
+2020-05-21,1096b354-d267-356f-5d1d-9ea145fd7edf,fa15bf84-5f89-fac1-9371-c7bf01f0c7ec,337388004,Blood glucose testing strips (physical object),50
+2022-06-02,1096b354-d267-356f-5d1d-9ea145fd7edf,71107131-4433-99ff-8cba-2381507ac188,337388004,Blood glucose testing strips (physical object),50
+2022-06-02,1096b354-d267-356f-5d1d-9ea145fd7edf,71107131-4433-99ff-8cba-2381507ac188,1137596000,Blood lancet (physical object),100
+2023-06-08,1096b354-d267-356f-5d1d-9ea145fd7edf,afb86006-baf0-ba02-e989-3d6d66da600f,337388004,Blood glucose testing strips (physical object),50
+2023-06-08,1096b354-d267-356f-5d1d-9ea145fd7edf,afb86006-baf0-ba02-e989-3d6d66da600f,1137596000,Blood lancet (physical object),100
+1990-01-27,5b70be80-a0f2-849f-a286-8a8d2eab86b9,467818ee-9da4-8b14-d65c-37a8b537d7fc,346447007,Fresh frozen plasma (product),1
+2010-03-18,ed70a28f-30b2-acb7-658a-8b340dadd685,8f689c42-50f0-efd7-6ce0-44646ca88e11,337388004,Blood glucose testing strips (physical object),50
+2021-09-26,ed70a28f-30b2-acb7-658a-8b340dadd685,d962e2dc-81a2-b7cb-54bd-83682fd8a6a6,119219003,Kidney part (body structure),1
+1979-05-03,45c26450-f06b-2900-bf59-c87c7e5f879f,7ed7eb4c-ee43-2b67-fa09-89f5833874ec,337388004,Blood glucose testing strips (physical object),50
+1979-05-03,45c26450-f06b-2900-bf59-c87c7e5f879f,7ed7eb4c-ee43-2b67-fa09-89f5833874ec,337388004,Blood glucose testing strips (physical object),50
+2003-09-18,45c26450-f06b-2900-bf59-c87c7e5f879f,6f41424a-ac79-286a-73aa-f661d09922d2,337388004,Blood glucose testing strips (physical object),50
+2004-09-23,45c26450-f06b-2900-bf59-c87c7e5f879f,d8365ea2-8f22-fd23-a0a8-c71a664a73c1,337388004,Blood glucose testing strips (physical object),50
+1999-06-01,3e9b3e59-e02b-d73f-fc12-701f2d055589,d77a5f67-c895-1b5f-1436-773dfd6bd96e,337388004,Blood glucose testing strips (physical object),50
+2011-03-29,3e9b3e59-e02b-d73f-fc12-701f2d055589,27409c1c-2eea-7a65-058c-dddd7641483c,337388004,Blood glucose testing strips (physical object),50
+2013-04-02,3e9b3e59-e02b-d73f-fc12-701f2d055589,bd8f8934-b7e5-69af-8f4c-ae7a80b6809b,1137596000,Blood lancet (physical object),100
+2015-04-07,3e9b3e59-e02b-d73f-fc12-701f2d055589,19de111d-3f94-83ec-dbd9-f2fbd72ce3d7,337388004,Blood glucose testing strips (physical object),50
+2016-04-12,3e9b3e59-e02b-d73f-fc12-701f2d055589,a14a59a7-1a92-a580-05b1-b51bfa2479e8,337388004,Blood glucose testing strips (physical object),50
+2018-01-09,3e9b3e59-e02b-d73f-fc12-701f2d055589,509e5b76-a761-0601-8dfe-7469638f5bf3,337388004,Blood glucose testing strips (physical object),50
+2018-04-24,3e9b3e59-e02b-d73f-fc12-701f2d055589,ec49f1d3-8b05-ee9d-1eb4-c3670866d509,337388004,Blood glucose testing strips (physical object),50
+2018-04-24,3e9b3e59-e02b-d73f-fc12-701f2d055589,ec49f1d3-8b05-ee9d-1eb4-c3670866d509,1137596000,Blood lancet (physical object),100
+2019-04-30,3e9b3e59-e02b-d73f-fc12-701f2d055589,60d79042-5511-1cc3-f7ca-1334c9aa4e20,337388004,Blood glucose testing strips (physical object),50
+2020-05-05,3e9b3e59-e02b-d73f-fc12-701f2d055589,ef05c87e-7ba4-8650-3646-8c787e7e471b,337388004,Blood glucose testing strips (physical object),50
+2022-05-17,3e9b3e59-e02b-d73f-fc12-701f2d055589,81d65a2a-4a8b-5019-c9b4-89654e7fdfac,1137596000,Blood lancet (physical object),100
+2022-09-13,8167fa71-7800-c68a-ca8a-66c47c181ffb,9279d242-6118-e8c5-eba7-3e7371bb577c,337388004,Blood glucose testing strips (physical object),50
+2022-09-13,8167fa71-7800-c68a-ca8a-66c47c181ffb,9279d242-6118-e8c5-eba7-3e7371bb577c,337388004,Blood glucose testing strips (physical object),50
+1988-12-13,752b34ad-bea7-27c6-8c53-417a6d9fba25,e416dee5-872d-0bad-46df-d7d3d2bad207,337388004,Blood glucose testing strips (physical object),50
+1995-11-21,752b34ad-bea7-27c6-8c53-417a6d9fba25,aa49e84c-357b-64de-e0ad-c5d55bb6ed2c,337388004,Blood glucose testing strips (physical object),50
+2003-12-09,752b34ad-bea7-27c6-8c53-417a6d9fba25,08d379a6-0182-b1bd-5c5c-b95b36f2c328,337388004,Blood glucose testing strips (physical object),50
+2005-11-15,752b34ad-bea7-27c6-8c53-417a6d9fba25,4e667d0f-8b2a-f728-430e-d29c8e4b6498,337388004,Blood glucose testing strips (physical object),50
+2011-12-20,752b34ad-bea7-27c6-8c53-417a6d9fba25,5b38f71d-2916-072c-606b-97462427472a,1137596000,Blood lancet (physical object),100
+2013-12-31,752b34ad-bea7-27c6-8c53-417a6d9fba25,e5747d55-6da0-47c5-1803-5a7f15782eb5,337388004,Blood glucose testing strips (physical object),50
+2016-01-12,752b34ad-bea7-27c6-8c53-417a6d9fba25,88a849e5-0af8-a3d2-2cb2-69635e8220ae,337388004,Blood glucose testing strips (physical object),50
+2016-01-12,752b34ad-bea7-27c6-8c53-417a6d9fba25,88a849e5-0af8-a3d2-2cb2-69635e8220ae,1137596000,Blood lancet (physical object),100
+2017-01-17,752b34ad-bea7-27c6-8c53-417a6d9fba25,b3d2de91-0ac3-a792-76fe-7a4d12464066,337388004,Blood glucose testing strips (physical object),50
+2017-01-17,752b34ad-bea7-27c6-8c53-417a6d9fba25,b3d2de91-0ac3-a792-76fe-7a4d12464066,1137596000,Blood lancet (physical object),100
+2018-01-23,752b34ad-bea7-27c6-8c53-417a6d9fba25,16be1157-0d49-af6c-cf28-d7dd15448a45,337388004,Blood glucose testing strips (physical object),50
+2019-01-29,752b34ad-bea7-27c6-8c53-417a6d9fba25,b73ffec3-e746-358b-3520-5458421ec974,337388004,Blood glucose testing strips (physical object),50
+2020-02-04,752b34ad-bea7-27c6-8c53-417a6d9fba25,e111a71a-51c9-985d-20f8-4fcdf7fa0713,337388004,Blood glucose testing strips (physical object),50
+2021-02-09,752b34ad-bea7-27c6-8c53-417a6d9fba25,8affb38b-dccb-bab1-74a8-8b48ceff6f07,1137596000,Blood lancet (physical object),100
+2022-02-15,752b34ad-bea7-27c6-8c53-417a6d9fba25,a504f087-bb7b-fe6f-d848-3ae1fa244053,337388004,Blood glucose testing strips (physical object),50
+2023-02-21,752b34ad-bea7-27c6-8c53-417a6d9fba25,e7cfb4c7-a42d-00b0-88d8-b676ff43a3e8,337388004,Blood glucose testing strips (physical object),50
+2002-11-14,92d3d37d-bc9b-618a-4964-1c789f0e5474,aeae5067-3b80-bce7-6905-1b91ff5d8466,337388004,Blood glucose testing strips (physical object),50
+2002-11-14,92d3d37d-bc9b-618a-4964-1c789f0e5474,aeae5067-3b80-bce7-6905-1b91ff5d8466,1137596000,Blood lancet (physical object),100
+2005-11-17,92d3d37d-bc9b-618a-4964-1c789f0e5474,ba02d06b-2f5a-b683-caf9-9b0e2b0ffd06,337388004,Blood glucose testing strips (physical object),50
+2005-11-17,92d3d37d-bc9b-618a-4964-1c789f0e5474,ba02d06b-2f5a-b683-caf9-9b0e2b0ffd06,1137596000,Blood lancet (physical object),100
+2008-11-20,92d3d37d-bc9b-618a-4964-1c789f0e5474,a91eef25-6d62-484b-1842-4b506097974a,337388004,Blood glucose testing strips (physical object),50
+2011-09-08,92d3d37d-bc9b-618a-4964-1c789f0e5474,30584274-b3fb-4227-e560-d25b87e5e625,337388004,Blood glucose testing strips (physical object),50
+2013-09-12,92d3d37d-bc9b-618a-4964-1c789f0e5474,df85368a-efde-6be0-ecee-e8e54a8e644c,337388004,Blood glucose testing strips (physical object),50
+2013-09-12,92d3d37d-bc9b-618a-4964-1c789f0e5474,df85368a-efde-6be0-ecee-e8e54a8e644c,1137596000,Blood lancet (physical object),100
+2015-09-17,92d3d37d-bc9b-618a-4964-1c789f0e5474,d1d10d40-31c4-2e63-2593-ea5d86e80a56,337388004,Blood glucose testing strips (physical object),50
+2017-09-21,92d3d37d-bc9b-618a-4964-1c789f0e5474,aaeabdb5-399c-c88b-53c9-bfd5eeef723b,337388004,Blood glucose testing strips (physical object),50
+2019-09-26,92d3d37d-bc9b-618a-4964-1c789f0e5474,1558085e-541b-8b03-4591-b67c8b9fd5a3,337388004,Blood glucose testing strips (physical object),50
+2021-09-02,92d3d37d-bc9b-618a-4964-1c789f0e5474,d50fdcde-c6c8-3103-40a0-97cb1e6f3eed,337388004,Blood glucose testing strips (physical object),50
+2021-09-02,92d3d37d-bc9b-618a-4964-1c789f0e5474,d50fdcde-c6c8-3103-40a0-97cb1e6f3eed,8537005,Solution (substance),100
+2022-09-08,92d3d37d-bc9b-618a-4964-1c789f0e5474,f8ab9204-4941-2a45-27e7-45bd704ada32,337388004,Blood glucose testing strips (physical object),50
+2023-09-14,92d3d37d-bc9b-618a-4964-1c789f0e5474,7dc13c41-1c9d-7cf7-1017-7d69d37f02f5,1137596000,Blood lancet (physical object),100
+2018-04-22,f0508a26-db72-5402-157e-9cdcb6ba21e1,33ad47db-a738-a8a9-1ec2-fce0fa11a626,337388004,Blood glucose testing strips (physical object),50
+2023-06-11,f0508a26-db72-5402-157e-9cdcb6ba21e1,3923faa8-423b-7c02-ccb3-4591f03fc3cb,337388004,Blood glucose testing strips (physical object),50
+2022-06-10,75ea1afa-b75a-3978-0f47-c2bd4d8b3dbf,90ce4bd8-d188-b6cb-0ec6-53e5f906f102,337388004,Blood glucose testing strips (physical object),50
+2023-06-16,75ea1afa-b75a-3978-0f47-c2bd4d8b3dbf,ed5f6b78-e457-615f-9539-24686a1bde03,337388004,Blood glucose testing strips (physical object),50
+2023-06-16,75ea1afa-b75a-3978-0f47-c2bd4d8b3dbf,ed5f6b78-e457-615f-9539-24686a1bde03,1137596000,Blood lancet (physical object),100
